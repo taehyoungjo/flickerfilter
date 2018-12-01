@@ -48,9 +48,19 @@ def index():
 @app.route("/fetch", methods=["GET", "POST"])
 def fetch():
     if request.method == "POST":
-        file = request.form.get("URL")
-        download(file)
-        return 'file downloaded'
+        file_url = request.form.get("URL")
+        download(file_url)
+        # file_path = download(file)
+        # bool = analyze(file_path)
+        # if bool == True
+        #   return render_template("")
+        # else False
+        #   return render_template(smth else)
+        return render_template("detect_true.html")
+
     elif request.method == "GET":
-        file = request.args.get("url")
-        return jsonify(download(file))
+        file_url = request.args.get("url")
+        download(file_url)
+        # file_path = download(file)
+        # bool = jsonify(analyze(file_path))
+        return jsonify(download(file_url))
