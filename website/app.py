@@ -1,5 +1,16 @@
+import os
+
+from flask import Flask, flash, jsonify, redirect, render_template, request, session
+from flask_session import Session
+from tempfile import mkdtemp
+from werkzeug.utils import secure_filename
+
+UPLOAD_FOLDER = '/mp4'
+ALLOWED_EXTENSIONS = set(['mp4'])
+
 # Configure application
 app = Flask(__name__)
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 # Ensure templates are auto-reloaded
 app.config["TEMPLATES_AUTO_RELOAD"] = True
@@ -18,13 +29,16 @@ app.config["SESSION_PERMANENT"] = False
 app.config["SESSION_TYPE"] = "filesystem"
 Session(app)
 
+# Check if file is mp4
+def allowed_file(filename):
+    return '.' in filename and \
+           filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
 @app.route("/", methods=["GET", "POST"])
 def index():
-	if request.method == "GET"
-		return render_template("index.html")
-
-
-@app.route("/analyze", methods=["GET"])
-def analyze():
-	if request.method == "GET":
-		
+    if request.method == "GET":
+        return render_template("index.html")
+    elif request.method == "POST":
+        file = request.files['file']
+        file.save(secure_filename(file.filename))
+        return 'file uploaded'
