@@ -5,14 +5,53 @@
 {% endblock %}
 
 {% block main %}
-<form action="/" method="post" enctype=multipart/form-data>
-    <div class="form-group">
-        <div class="form-group">
-            <label for="video">.mp4</label>
-            <input type="file" name="file" class="form-control-file" id="video">
+
+<div class="accordion" id="uploadOptions">
+    <div class="card">
+        <div class="card-header" id="headingOne">
+            <h5 class="mb-0">
+                <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    Upload file
+                </button>
+            </h5>
         </div>
     </div>
-    <button class="btn btn-primary" type="submit" id="submit">Submit</button>
-</form>
 
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#uploadOptions">
+        <div class="card-body">
+            <form action="/" method="post" enctype=multipart/form-data>
+                <div class="form-group">
+                    <div class="form-group">
+                        <label for="video"> Upload .mp4</label>
+                        <input type="file" name="file" class="form-control-file" id="video">
+                    </div>
+                </div>
+                <button class="btn btn-primary" type="submit" id="submit">Submit</button>
+            </form>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" id="headingTwo">
+            <h5 class="mb-0">
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    Input URL
+                </button>
+            </h5>
+        </div>
+    </div>
+
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#uploadOptions">
+        <div class="card-body">
+            <form action="/fetch" method="post">
+                <div class="form-group">
+                    <div class="form-group">
+                        <label for="query"> Insert YouTube URL</label>
+                        <input type="text" name="URL" class="form-control" id="query">
+                    </div>
+                </div>
+                <button class="btn btn-primary" type="submit" id="submit">Submit</button>
+            </form>            
+        </div>
+    </div>
+</div>
 {% endblock %}

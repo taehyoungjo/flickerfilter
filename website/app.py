@@ -5,6 +5,8 @@ from flask_session import Session
 from tempfile import mkdtemp
 from werkzeug.utils import secure_filename
 
+from youtube import download
+
 UPLOAD_FOLDER = '/mp4'
 ALLOWED_EXTENSIONS = set(['mp4'])
 
@@ -42,3 +44,10 @@ def index():
         file = request.files['file']
         file.save(secure_filename(file.filename))
         return 'file uploaded'
+
+@app.route("/fetch", methods=["POST"])
+def fetch():
+    if request.method == "POST":
+        file = request.form.get("URL")
+        download(file)
+        return 'file downloaded'
