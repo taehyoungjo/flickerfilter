@@ -1,6 +1,6 @@
 flask
 flask-session
 numpy
-opencv
+opencv-python
 requests
 youtube_dl
