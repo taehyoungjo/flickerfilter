@@ -1,4 +1,4 @@
-let analyzer_url = "";
+let analyzer_url = "http://localhost:5000/fetch";
 
 let rule1 = {
 	conditions: [
@@ -19,8 +19,15 @@ chrome.runtime.onInstalled.addListener(function() {
 chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 	if (request.greeting == "get_url") {
 		chrome.tabs.query({ currentWindow: true, active: true }, function(tabs) {
-			let url = tabs[0].url;
-			$.get(analyzer_url, { url: url });
+			let video_url = tabs[0].url;
+			$.get(analyzer_url, { url: video_url }, function(data) {
+				if (data == true) {
+					alert("looks good!");
+				}
+				else {
+					alert("aww");
+				}
+			});
 		});
 	}
 });

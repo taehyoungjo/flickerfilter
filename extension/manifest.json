@@ -24,7 +24,7 @@
 		}
 	],
 
-	"permissions": ["tabs", "activeTab", "declarativeContent", "webNavigation"],
+	"permissions": ["tabs", "activeTab", "declarativeContent", "webNavigation", "http://*/"],
 
 	"page_action": {
 		"default_popup": "popup.html",
