@@ -1,0 +1,6 @@
+flask
+flask-session
+numpy
+opencv
+requests
+youtube_dl
