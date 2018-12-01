@@ -9,11 +9,23 @@
 		"48": "images/get_started48.png",
 		"128": "images/get_started128.png"
 	},
+
 	"background": {
 		"persistent": false,
-		"scripts": ["background.js"]
+		"scripts": ["jquery-3.3.1.min.js", "background.js"]
 	},
-	"permissions": ["activeTab", "declarativeContent"],
+
+	"content_scripts": [
+		{
+			"matches": ["http://*/*", "https://*/*"],
+			"js": ["jquery-3.3.1.min.js", "content_script.js"],
+			"all_frames": true,
+			"run_at": "document_end"
+		}
+	],
+
+	"permissions": ["tabs", "activeTab", "declarativeContent", "webNavigation"],
+
 	"page_action": {
 		"default_popup": "popup.html",
 		"default_icon": {
