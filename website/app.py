@@ -45,9 +45,12 @@ def index():
         file.save(secure_filename(file.filename))
         return 'file uploaded'
 
-@app.route("/fetch", methods=["POST"])
+@app.route("/fetch", methods=["GET", "POST"])
 def fetch():
     if request.method == "POST":
         file = request.form.get("URL")
         download(file)
         return 'file downloaded'
+    elif request.method == "GET":
+        file = request.args.get("url")
+        return jsonify(download(file))
