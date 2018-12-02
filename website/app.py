@@ -48,14 +48,21 @@ def index():
         return render_template("index.html")
     elif request.method == "POST":
         file = request.files['file']
-        file.save(secure_filename(file.filename))
-        return 'file uploaded'
+        filename = secure_filename(file.filename)
+        file.save(os.path.join('./epilepsy_videos', filename))
+        file_path = "./epilepsy_videos/" + filename
+        print(file_path)
+        result = analyze(file_path)
+        os.remove(file_path)
+        if result == True:
+            return render_template("detect_true.html")
+        else:
+            return render_template("detect_false.html")
 
 @app.route("/fetch", methods=["GET", "POST"])
 def fetch():
     if request.method == "POST":
         file_url = request.form.get("URL")
-        file_path = download(file_url)
         id = file_url.split('=')
         query = db.execute("SELECT result FROM videos WHERE id=:id", id=id[1])
         if query:
@@ -64,7 +71,10 @@ def fetch():
             else:
                 result = True
         else:
+            download(file_url)
+            file_path = "./epilepsy_videos/" + id[1] + ".mp4"
             result = analyze(file_path)
+            os.remove(file_path)
             add = db.execute('INSERT INTO "videos" ("id","result") VALUES (:id, :result)', id=id[1], result=result)
         if result == True:
             return render_template("detect_true.html")
@@ -73,8 +83,6 @@ def fetch():
 
     elif request.method == "GET":
         file_url = request.args.get("url")
-        download(file_url)
-        file_path = download(file_url)
         id = file_url.split('=')
         query = db.execute("SELECT result FROM videos WHERE id=:id", id=id[1])
         if query:
@@ -83,4 +91,9 @@ def fetch():
             else:
                 return jsonify(True)
         else:
-            return jsonify(analyze(file_path))
+            download(file_url)
+            file_path = "./epilepsy_videos/" + id[1] + ".mp4"
+            result = analyze(file_path)
+            os.remove(file_path)
+            add = db.execute('INSERT INTO "videos" ("id","result") VALUES (:id, :result)', id=id[1], result=result)
+            return jsonify(analyze(result))

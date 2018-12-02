@@ -8,4 +8,4 @@ def download(str):
     }
     with youtube_dl.YoutubeDL(ydl_opts) as ydl:
         ydl.download([str])
-    return 'epilepsy_videos/%(id)s.mp4'
+    return True

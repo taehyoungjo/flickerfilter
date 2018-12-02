@@ -1,2 +1,2 @@
 def analyze(path):
-    return True
+    return False

@@ -67,7 +67,7 @@ function messageListener(request, sender, sendResponse) {
 	}
 
 	else if (request.greeting == "risk") {
-		modal_text.innerHTML = "Epileptic risk detected"
+		modal_text.innerHTML = "Dangerous imagery detected"
 		close.style.display = "block";
 		close.innerHTML = "Watch Anyways";
 	}
