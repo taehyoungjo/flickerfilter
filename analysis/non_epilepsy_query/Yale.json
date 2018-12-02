@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YFI0Ump5yrfQJhFYvMCrbnHf-wo\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Hwm71pEI1eeWITUWIriYgzY8tT0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lgomeXg89h0"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-27T20:00:03.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "The Reality of Midterms at Yale",
+                "description": "The Reality of Midterms at Yale ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ DONATE TO KESEM! #GIVINGTUESDAY #forthekids USE THIS LINK: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lgomeXg89h0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lgomeXg89h0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lgomeXg89h0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/oFktZZmsZwO5GjSp8IoFEJrXMAM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YlR7lMDidEc"
+            },
+            "snippet": {
+                "publishedAt": "2017-12-09T00:30:00.000Z",
+                "channelId": "UCGF_z7NNup6feP3ry_mRxnA",
+                "title": "That's Why I Toured Yale",
+                "description": "Sam Tsui '11 and Simone Policano '16 lead an unconventional tour of Yale College.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YlR7lMDidEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YlR7lMDidEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YlR7lMDidEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YaleCampus",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DFZqi5o9CeKcWWPvBWcAr6ivj1s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IFTgDAWbLA0"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-08T00:59:26.000Z",
+                "channelId": "UChSWIv_78idh64pJUP0zJZg",
+                "title": "A Week in My Life at Yale University",
+                "description": "See what a week in my life as a first year student at Yale University is like! I love filming and editing videos, so it was a lot of fun to experiment with a vlog/day in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IFTgDAWbLA0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IFTgDAWbLA0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IFTgDAWbLA0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Eunji Yoo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XnO4HZJnIHHhCgHc95ZuKh7BP1w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xe1gGlX1bcc"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-19T20:06:33.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "Why Yale Wasn't What I Expected It Would Be",
+                "description": "Why Yale Wasn't What I Expected It Would Be In today's video, I take a moment to reflect on my past year at Yale and realize that my expectations didn't always ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xe1gGlX1bcc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xe1gGlX1bcc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xe1gGlX1bcc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XBpUCAGn5imFkXzscThRgdCeudQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z81gAmHwhmg"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-25T13:00:06.000Z",
+                "channelId": "UC8I6Wm_z49Agt7NLL3UEe0w",
+                "title": "\u67093000\u584a\u55ce\uff1f\u6211\u4f86\u6559\u4f60\u600e\u9ebc\u958b\u59cb\u6295\u8cc7\uff01 Yale Chen \u7406\u8ca1\u6559\u5b78",
+                "description": "\u5728\u9019\u5f71\u7247\u88e1\uff0cYale\u8981\u6559\u4f60\u600e\u9ebc\u958b\u59cb\u6295\u8cc7\u8a02\u95b1\u983b\u9053     https://bit.ly/2GGmQpT \u5728\u9019\u88e1\u8ffd\u8e64\u6211\uff1a             FB: http://bit.ly/1otSo9C         ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z81gAmHwhmg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z81gAmHwhmg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z81gAmHwhmg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yale Chen",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DTaLC4-FdsBsRR3OJogWFbmn3Lo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JVVhQA0A5W8"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-15T20:20:48.000Z",
+                "channelId": "UCYUkLYWSolrKIp5Z9hLw1nw",
+                "title": "Yale Library Security Lipsync Challenge",
+                "description": "Sterling Memorial Library Security like you've never seen them before. Thanks to Brandon B-Boy Lectronic Couloute and Fabiana Rendon for help with ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JVVhQA0A5W8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JVVhQA0A5W8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JVVhQA0A5W8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yale Library",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-qlx8rkydaQ1eSrntyQl8YpvyCg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Tz5sYS1YrVM"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-24T14:31:56.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "Life at PRINCETON vs YALE - Academics, Extra-Curriculars, Parties? feat. Nic Chae",
+                "description": "Life at PRINCETON vs YALE - Academics, Extra-Curriculars, Parties? Interested in Crimson? https://www.crimsoneducation.org/pages/crimson-partners Make ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Tz5sYS1YrVM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Tz5sYS1YrVM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Tz5sYS1YrVM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/rM10FYPYkJUkmg5fPbc3HJliQO4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "l_d1HaGveQQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-14T22:09:47.000Z",
+                "channelId": "UCJzEhvSoGCv1VL_kEppfNDA",
+                "title": "COLLEGE INTERVIEW TIPS for H.S. Seniors [from a Yale Univ. Interviewer!] [2019]",
+                "description": "Hey Guys! In this video, John explains his experience as an interviewer for Yale University. He's been doing this for 15 years. He'll answer: - What to expect in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l_d1HaGveQQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l_d1HaGveQQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l_d1HaGveQQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "That DIY Couple",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tPXokIBcwgC8oAo2_jEhDNHDw74\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hM-jIDvNEDM"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-26T19:00:03.000Z",
+                "channelId": "UCZneMXk-_u1ukBew64flJOA",
+                "title": "YALE DORM TOUR (Ivy League College Freshman Dorm 2018)",
+                "description": "I will be giving you a dorm tour of my freshman college suite here at Yale University! All Yale Undergrads are randomly split into 14 different residential colleges; ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hM-jIDvNEDM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hM-jIDvNEDM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hM-jIDvNEDM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Arnold Setiadi",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3-xeWKS6FjMmrYwfVTEL_QH3EL4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Wcnq-BgwXPw"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-15T05:18:22.000Z",
+                "channelId": "UC_f7C43GUWhif5_yPsamdfA",
+                "title": "A Day In The Life: Yale Student",
+                "description": "With only months left in her degree, we went inside Claire's daily life as a Yale Student-Athlete. If you want to study at Yale, apply for a free education ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wcnq-BgwXPw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wcnq-BgwXPw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wcnq-BgwXPw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crimson Education",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ekUwM8jvv_QPVXLNx5uMGKrmo3k\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d-0hZcy9tQ0"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-26T20:14:38.000Z",
+                "channelId": "UCn5geBfDnwIg1XXGcL__A5w",
+                "title": "YALE UNIVERSITY COLLEGE MOVE IN DAY!",
+                "description": "Hello! Ok. So this video is a mixture of both sophomore and freshman year move in day for my brother Jack because I didn't actually go to move him in this ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d-0hZcy9tQ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d-0hZcy9tQ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d-0hZcy9tQ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Paige Kathleen",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gDa464sFChV5NRr4b98WN9BbQxI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TCTmT8lB_v8"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-08T18:49:30.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "HOW TO GET INTO YALE: GRADES/GPA",
+                "description": "HOW TO GET INTO YALE: GPA/GRADES Welcome to PART 1 in my series where I help you get into your dream school. Today, I discuss the importance of GPA ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TCTmT8lB_v8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TCTmT8lB_v8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TCTmT8lB_v8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/k8RiY3c26Dk9fbBcccd5_EB2tKg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KPVJgnCEqT0"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-30T18:52:07.000Z",
+                "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+                "title": "Taking Up Space | Yale University | Netflix",
+                "description": "Shows like Dear White People - Show matter because they're based on real-life experiences. Here's what it looks like off-screen when Black folk take it upon ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KPVJgnCEqT0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KPVJgnCEqT0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KPVJgnCEqT0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Netflix",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9KytZLOLnylLDnZ6pFGKkSptjQQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xK4MBzp5YwM"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-22T10:03:04.000Z",
+                "channelId": "UCa1DgvQUuQnJmMCwlxZ7SSg",
+                "title": "Silence U Part 2: What Has Yale Become? | We the Internet Documentary",
+                "description": "In 2015, viral video of Yale's \"shrieking girl\" screaming at professor Nicholas Christakis exploded across the internet. The cause was an email questioning ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xK4MBzp5YwM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xK4MBzp5YwM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xK4MBzp5YwM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "We the Internet TV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4LWfdQhCRiztvsxsj9GdG1c0qeQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_KLkD55cBU4"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-29T17:28:58.000Z",
+                "channelId": "UCu8ebUHoKbhVY0tavNdhwvw",
+                "title": "Yale Study Says White Liberals Talk Down To Blacks During Conversation. Are You Surprised?",
+                "description": "According to a study at Yale, white liberals have a tendency to downplay their own level of intelligence when they interact with blacks and other \"racial minorities.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_KLkD55cBU4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_KLkD55cBU4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_KLkD55cBU4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Anthony Brian Logan",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EQk89Vx-9oOh0-9gXt3jadQ1tIo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eZ6hBgQkwyQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-11T21:45:10.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "i'm leaving for yale... and COLLEGE FRESHMAN PACKING TIPS!!!",
+                "description": "i'm leaving for yale... and COLLEGE FRESHMAN PACKING TIPS!!! I got back from Michigan yesterday and thought I would sit down and give you guys some ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eZ6hBgQkwyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eZ6hBgQkwyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eZ6hBgQkwyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/s8yb95AuluHQznS5Bzj4ukCyt2A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EqsTatw-RTI"
+            },
+            "snippet": {
+                "publishedAt": "2013-11-21T00:54:00.000Z",
+                "channelId": "UCKKNJbK54enxeRIjgVTvlHw",
+                "title": "Harvard Tours Yale: The Game 2013",
+                "description": "On Harvard Time went to New Haven to show real tourists around Yale's campus and share some lesser known facts about the safety school's history.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EqsTatw-RTI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EqsTatw-RTI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EqsTatw-RTI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OnHarvardTime",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/rIwIXpMi2Asdb59kI62CUSHdDJ4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tGn3-RW8Ajk"
+            },
+            "snippet": {
+                "publishedAt": "2010-01-14T19:59:18.000Z",
+                "channelId": "UCGF_z7NNup6feP3ry_mRxnA",
+                "title": "That's Why I Chose Yale",
+                "description": "An introduction to undergraduate life at Yale College. The project was an independent collaboration between Yale undergraduates and recent alumni working in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tGn3-RW8Ajk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tGn3-RW8Ajk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tGn3-RW8Ajk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YaleCampus",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/iXYWifizUnh2gI8CDlrlRXM2Apg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wI6a1t-M_48"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-21T19:37:09.000Z",
+                "channelId": "UC3lxX-De7vyRu-5Hy6NVz2Q",
+                "title": "Yale Graduation Speaker Breaks Up with Boyfriend During Speech | Rebecca Shaw and Ben Kronengold",
+                "description": "\"In front of Hillary...?\" Ben Kronengold: @benkgold (https://twitter.com/benkgold) Rebecca Shaw: @rebeccabshaw (https://twitter.com/rebeccabshaw)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wI6a1t-M_48/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wI6a1t-M_48/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wI6a1t-M_48/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ben Kronengold",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mO0eT2Mb9S5FgMcibDOxQxHUTGM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "T9y2AWC6WbI"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-29T20:27:53.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "A Day In My Life at Yale University",
+                "description": "Today, I take you guys along for a casual Monday at Yale University, as I go to classes, hang out with friends, and explore New Haven! If you're new consider ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T9y2AWC6WbI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T9y2AWC6WbI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T9y2AWC6WbI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Z1Ye185dTcYOfXBHpkf8MQoDRZg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zHcq-3oXWPM"
+            },
+            "snippet": {
+                "publishedAt": "2017-12-05T20:00:44.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "COLLEGE ADVICE FROM A YALE FOOTBALL PLAYER! // Q & A",
+                "description": "COLLEGE ADVICE FROM A YALE FOOTBALL PLAYER! // Q & A In today's video, I interview one of my friends down the hall who happens to play football for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zHcq-3oXWPM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zHcq-3oXWPM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zHcq-3oXWPM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/R8Z5D4GEkV0r8sY0ls8pQa2-l8w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tHmmtIDm0Ds"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-22T19:30:00.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "YALE CLASSES vs. HIGH SCHOOL CLASSES // Yale Student Mukbang Pt. 2",
+                "description": "YALE CLASSES vs. HIGH SCHOOL CLASSES // Yale Student Mukbang Pt. 2 In today's video, I sit down with my friends Alec, Carter, and Tommy and sack of hot ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tHmmtIDm0Ds/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tHmmtIDm0Ds/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tHmmtIDm0Ds/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lODjgYgpKlO9rnZOof3JZNAAfLo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dnz11dwlcnc"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-24T19:30:01.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "a busy day at yale",
+                "description": "a busy day at yale In today's vlog, follow me around as I rush between classes, study sessions, video shoots, and all the other madness that makes up a typical ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dnz11dwlcnc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dnz11dwlcnc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dnz11dwlcnc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/o0KxAQoWZQlR8OupOaPUwlANr68\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-vac24IP-2A"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-29T21:30:57.000Z",
+                "channelId": "UCpugeZUO4F8H7YC_H_EDirA",
+                "title": "Yale Study Finds (Totally Not Racist) Liberals Dumb Down Their Speech When Talking to Blacks",
+                "description": "But guess who actually treats everyone, regardless of skin color, like they have a brain cell and a half to rub together? That's right, my friends, it's us. I'm totally ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-vac24IP-2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-vac24IP-2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-vac24IP-2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MRCTV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wBjDAjD7wAmmEBPbDJvbIorzZ_8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bJW2Xhe8QZo"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-10T19:30:01.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "YALE STUDENT MUKBANG // COLLEGE Q&A",
+                "description": "YALE STUDENT MUKBANG // COLLEGE Q&A In today's video, I sit down with my friends Alec, Carter, and Tommy and sack of hot tendies and spill the beans on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bJW2Xhe8QZo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bJW2Xhe8QZo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bJW2Xhe8QZo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/o4kvxLIJWnwsEpSS74YtU6iQpfs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b0yiIxE7Dls"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-20T16:00:03.000Z",
+                "channelId": "UCB3YZAhwbsajMshO2HMdxBg",
+                "title": "YALE SCHOOL OF MEDICINE PRESENTS... [2018] (Parody of Havana, Bachelor, Planet Earth, New Rules)",
+                "description": "We are the class of 2021 at the Yale School of Medicine, and we want to show you everything we love about Yale in the form of a parody video \u2013 featuring ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b0yiIxE7Dls/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b0yiIxE7Dls/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b0yiIxE7Dls/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yale Med Films",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UUdhzXyqiothAWrW_wraGaaNrTM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nr6xNEIUIfg"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-15T22:00:01.000Z",
+                "channelId": "UCKKNJbK54enxeRIjgVTvlHw",
+                "title": "If Famous Movies Were About Yale | Harvard - Yale Game 2016",
+                "description": "If Famous Movies Were About Yale | Harvard - Yale Game 2016 If 10 famous movies were about Yale, they'd be a little different from the hits we've come to love.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nr6xNEIUIfg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nr6xNEIUIfg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nr6xNEIUIfg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OnHarvardTime",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6K7QGWShWP97avkUe87RLvSBvGw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zyHJgcyI_Hc"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-30T15:58:04.000Z",
+                "channelId": "UCvVT0PpQHWfglB1rw6y5xWA",
+                "title": "Why Choose Yale Economics?",
+                "description": "Yale Department of Economics promotional video.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zyHJgcyI_Hc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zyHJgcyI_Hc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zyHJgcyI_Hc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yale Department of Economics - Cowles Foundation",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ul_RauOUY5MKUhl8rhSpbN0buJI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "whLt1qH_OHk"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T10:55:42.000Z",
+                "channelId": "UCF8HUTbUwPKh2Q-KpGOCVGw",
+                "title": "US, China could be entering \u2018Cold War\u2019 over trade, Yale professor says | Squawk Box Europe",
+                "description": "Stephen Roach, senior fellow at Yale University and former chairman of Morgan Stanley Asia, discusses the upcoming G-20 summit.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/whLt1qH_OHk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/whLt1qH_OHk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/whLt1qH_OHk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CNBC International TV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_FTQMdWynyKw-0h-Ix8CWxMsE3c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "brcIqOWUWp4"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-29T13:00:10.000Z",
+                "channelId": "UC8I6Wm_z49Agt7NLL3UEe0w",
+                "title": "\u5982\u4f55\u5229\u7528\u96fb\u5b50\u66f8\u5efa\u9020\u88ab\u52d5\u6536\u5165 | Yale Chen",
+                "description": "\u672c\u5f71\u7247\u6559\u4f60\u600e\u9ebc\u8ce3\u96fb\u5b50\u66f8\u5275\u9020\u88ab\u52d5\u6536\u5165\u8a02\u95b1\u983b\u9053     https://bit.ly/2GGmQpT \u5728\u9019\u88e1\u8ffd\u8e64\u6211\uff1a             FB: http://bit.ly/1otSo9C       ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/brcIqOWUWp4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/brcIqOWUWp4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/brcIqOWUWp4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yale Chen",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wNI-PiXT1uzhsTuegVum4mFphrU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vadKibPnTec"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-12T13:09:09.000Z",
+                "channelId": "UC-SJ6nODDmufqBzPBwCvYvQ",
+                "title": "Professor of Yale's most popular class on rewiring your brain for a happier life",
+                "description": "A Yale University professor is teaching students around the world how science can help them lead a happier life. Laurie Santos started the class \"Psychology ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vadKibPnTec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vadKibPnTec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vadKibPnTec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CBS This Morning",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4uXdnDsLD9bHq5OdPmPm4OViv5I\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "38c9h8P-EZQ"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-23T04:41:11.000Z",
+                "channelId": "UCBeYHiqiKZTSrbUZvbhoKgA",
+                "title": "Yale: Freshman Year",
+                "description": "A little peek into Calvin's freshman year at Yale!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/38c9h8P-EZQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/38c9h8P-EZQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/38c9h8P-EZQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Christina Calvin Cockroach Clips",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/S-yju964_qBQxcbNHggsXgMw3gw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PE6rwJklScs"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-04T13:00:04.000Z",
+                "channelId": "UC8I6Wm_z49Agt7NLL3UEe0w",
+                "title": "8\u500b\u88ab\u52d5\u6536\u5165\u5206\u4eab Feat  Ms. Selena | Yale Chen",
+                "description": "\u4f86\u770bSelena\u7684\u5f71\u7247     https://bit.ly/2Nl3Xfu \u8a02\u95b1Selena\u7684\u983b\u9053     https://bit.ly/2P7Jb4v \u8a02\u95b1\u6211\u7684\u983b\u9053     https://bit.ly/2GGmQpT \u672c\u5f71\u7247\u9080\u8acb\u5230\u4e00\u4f4d\u5609\u8cd3...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PE6rwJklScs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PE6rwJklScs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PE6rwJklScs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yale Chen",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/M-kMBoNnUkC2Ahn81UqwNfdH1as\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JXrVn2WZtvI"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-17T17:00:02.000Z",
+                "channelId": "UC08O0RnIeEDlcasmi5ZmsPg",
+                "title": "Mi experiencia en Yale #StoryTime",
+                "description": "Web Linguatrip: https://goo.gl/P23sK7 - \u00a1Buenos d\u00edas mundo! Hoy, siguiendo con la secci\u00f3n de mis estancias en el extranjero, os traigo un v\u00eddeo cont\u00e1ndoos mi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JXrVn2WZtvI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JXrVn2WZtvI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JXrVn2WZtvI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mart\u00edn Tena",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/msXlYLowlPWFlk3UqqoFFddFwHw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8I0ZrbdGg3A"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-29T19:12:25.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "COLLEGE Q & A // YALE UNIVERSITY",
+                "description": "In today's video, I answer the questions that you guys have sent me over the past couple days! Thanks for watching! Drop a like and subscribe for more great ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8I0ZrbdGg3A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8I0ZrbdGg3A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8I0ZrbdGg3A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/60DnYyPGjfF5sP8yCZUj0jzdM98\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2CyhnKfO6V8"
+            },
+            "snippet": {
+                "publishedAt": "2013-11-26T21:16:28.000Z",
+                "channelId": "UCwciOwHuOepffh2TndPirrA",
+                "title": "Harvard x Yale",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2CyhnKfO6V8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2CyhnKfO6V8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2CyhnKfO6V8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Estudar Fora",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NT01yTNKLQBg8HmLGrocKCXrn10\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "o_hfeX1PaTw"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-09T00:18:41.000Z",
+                "channelId": "UC79thEpQhGaazdjufC_p1SA",
+                "title": "What is a FULL Week in Med School Like? (Yale Med): DAY 1",
+                "description": "Follow me on Instagram/Snap: prerakcity Follow my cousin (made the intro!) on youtube: https://www.youtube.com/channel/UCI6zUVSYZ_G0TYUn878wxDQ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o_hfeX1PaTw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o_hfeX1PaTw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o_hfeX1PaTw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Prerak Juthani",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/C6BHYDbUc7RrPGZXzUeYviJIQOY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "E37c8SLbYHw"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-04T11:15:32.000Z",
+                "channelId": "UCJhJ7FUZMGekjwOZK4lMBNw",
+                "title": "How to Install Yale's Intruder Alarm",
+                "description": "A step-by-step walkthrough on how to install Yale's Intruder Alarm. The Yale Intruder Alarm alerts you when your alarm is triggered, and allows you to disarm ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E37c8SLbYHw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E37c8SLbYHw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E37c8SLbYHw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yale UK",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/M-EnyLCmLpV6BAhY5WoHBATE0VI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wFpBioWhVM8"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-28T19:55:40.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "READING MY COMMON APP ESSAY THAT GOT ME INTO YALE!!!",
+                "description": "READING MY COMMON APP ESSAY THAT GOT ME INTO YALE!!! Today, I read my common application essay that I wrote last year when I applied to Yale.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wFpBioWhVM8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wFpBioWhVM8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wFpBioWhVM8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/SX4nvtT9y1KbqUTaQpgrU51JU9c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2BO3AJm8cjU"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-26T23:22:52.000Z",
+                "channelId": "UCsJQIPXX0peSXgm7XfcAIdQ",
+                "title": "Yale vs Albany Lacrosse Highlights 2018 NCAA Lacrosse Championship SemiFinal",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2BO3AJm8cjU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2BO3AJm8cjU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2BO3AJm8cjU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lacrosse Nation",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2ACKM8aSXxyKmFflwl310BdeF6s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ORO6qa9iuk8"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-28T19:54:40.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "FIRST DAY OF COLLEGE: Sophomore Year at Yale",
+                "description": "FIRST DAY OF COLLEGE: Sophomore Year at Yale My first day of classes at Yale was amazing! It's so good to be back. Hope you guys enjoy the video! Thanks ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ORO6qa9iuk8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ORO6qa9iuk8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ORO6qa9iuk8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_K7YcDQe3IqnMrvWUO_UX4xKHRI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "I26Suo9la6o"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-08T06:31:09.000Z",
+                "channelId": "UCU9V7MT6D-V-uGbIxjv_xXw",
+                "title": "Yale Doorman | Monteringsfilm med produktsjef \u00d8ystein Nesse",
+                "description": "Komplett monteringsfilm hvor \u00d8ystein Nesse, produktsjef Yale, viser hva som m\u00e5 gj\u00f8res f\u00f8r, underveis og etter montering av Yale Doorman. Passer Yale ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I26Suo9la6o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I26Suo9la6o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I26Suo9la6o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yale Norge",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lMAKeJpKxPXPCPLpyLv3TzrZfy4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WIakyCGctj8"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-12T03:20:12.000Z",
+                "channelId": "UCJCQQIPzVfLpZTfiKIP3KQg",
+                "title": "Hated My First Performance at Yale | Tiffany Vlogs #26",
+                "description": "Why did I not like my first performance of Scarlatti Sonata & Chopin Barcarolle at Yale? GRWM and hear me review myself afterwards. Subscribe for more ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WIakyCGctj8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WIakyCGctj8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WIakyCGctj8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tiffany Poon",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lv_lOS-ZCzjUyz-95eMSmJd-JqY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fZtJYR2cIvM"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-30T19:45:54.000Z",
+                "channelId": "UCWDeEIDAIi_oYKDiqwfGyRg",
+                "title": "Fundamente-se : Conhe\u00e7a o Yale Model",
+                "description": "No programa Fundamente-se no Infomoney dessa semana Tiago Reis aborda o chamado \"Yale Model\", uma estrat\u00e9gia de aloca\u00e7\u00e3o de ativos com foco em ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fZtJYR2cIvM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fZtJYR2cIvM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fZtJYR2cIvM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Suno Research",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/u0GY9WYDmcguFXyzL5lF_F0LWoU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j9AqOpbyxUQ"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-11T06:53:05.000Z",
+                "channelId": "UCBG11sQEN87TdB_e52WnduQ",
+                "title": "[ OM SONETA ]  Rhoma Irama  - Yale Yale",
+                "description": "Lagu - Lagu Kenangan bersama Karya RHOMA IRAMA diiringi dengan ORKES MELAYU SONETA [ OM. SONETA ] pimpinan Rhoma Irama Hamid M Nur ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j9AqOpbyxUQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j9AqOpbyxUQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j9AqOpbyxUQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HAMID M NUR CBB",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/--DcLUt1xUQCHS5X8tC1G-HzBn0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kMc8pczn-hs"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-21T21:08:29.000Z",
+                "channelId": "UCIa2bPo4FeNWjrWwggUxWkQ",
+                "title": "Yale Students Berating Professor Highlights",
+                "description": "Students at Yale bully sociology Professor Nicholas Christakis because his wife had the audacity to suggest, in an email, that students could maybe decide what ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kMc8pczn-hs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kMc8pczn-hs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kMc8pczn-hs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BooshiBanter",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9V7i1xmDL2QF3_O4jCYcutQK4q0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ef6jHmsPkHk"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-04T15:22:53.000Z",
+                "channelId": "UCxk4aEF4r-_bk-ukmuIwDQg",
+                "title": "Through a Bulldog's Eyes: Yale Men's Lacrosse National Champions",
+                "description": "Memorial Day 2018 will forever be known as the day Yale became NCAA Men's Lacrosse Champions. Relive that monumental day, Through a Bulldogs' Eyes.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ef6jHmsPkHk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ef6jHmsPkHk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ef6jHmsPkHk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YaleAthletics",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/T4YocTk23NJAGlzZ1kv_Dofh_AM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_nnZVx_fizw"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-09T20:00:56.000Z",
+                "channelId": "UCWZs3J4-EI5nfznIV_lTMJQ",
+                "title": "YALE OLD CAMPUS DORM TOUR // DAVENPORT COLLEGE",
+                "description": "YALE OLD CAMPUS TOUR // DAVENPORT COLLEGE In today's video, Henderson and I give you guys a tour of Yale's most famous spot, Old Campus.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_nnZVx_fizw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_nnZVx_fizw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_nnZVx_fizw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josh Beasley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/K-6TShzb05j4TA8IFw4JJvzYwiQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "n8C0UKFMWbI"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-15T17:00:05.000Z",
+                "channelId": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+                "title": "How Yale Confronted Their History Without Erasing It | America Inside Out",
+                "description": "Katie Couric sits down with Yale University President Peter Salovey to discuss the process of renaming Calhoun College to Grace Hopper College. \u27a1 Subscribe: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n8C0UKFMWbI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n8C0UKFMWbI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n8C0UKFMWbI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "National Geographic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/AwFOWUn4_0K9TAo6bHG90xYfFf4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3R2NZx4m_uc"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-28T21:51:48.000Z",
+                "channelId": "UCAYoFjas7pyfzTiZPYEbj-w",
+                "title": "Duke vs. Yale Lacrosse Highlights 2018 NCAA Lacrosse Tournament Finals",
+                "description": "Yale manages to secure the schools first NCAA Lacrosse National Championship over Duke by a score of 13-11. Senior Ben Reeves contributed 1 goal and 3 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3R2NZx4m_uc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3R2NZx4m_uc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3R2NZx4m_uc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LaxFactor",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}

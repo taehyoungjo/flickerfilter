@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fzWOZSYu7_9KXRfGP63DtE_KoZ0\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cVLd2aud12zuCdfDmZ5CgdjIOxo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4--XNOy2EuQ"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-31T12:50:43.000Z",
+                "channelId": "UC-SJ6nODDmufqBzPBwCvYvQ",
+                "title": "Red Cross CEO addresses criticism of how they use donations",
+                "description": "The federal government has designated the American Red Cross to co-lead mass care during disasters including providing shelters, food and emergency ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4--XNOy2EuQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4--XNOy2EuQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4--XNOy2EuQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CBS This Morning",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/btZBsylCxogu5E-EDpfIebsLtew\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RTyAkKXuPkE"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-17T23:53:38.000Z",
+                "channelId": "UCuNfok7ozooi0LZgp6JJS4A",
+                "title": "RED CROSS EXPOSED",
+                "description": "If you do not follow a channel called a plain truth you really should do yourself a favor and check out his work the Red Cross is owned and operated by the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RTyAkKXuPkE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RTyAkKXuPkE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RTyAkKXuPkE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RichieFromBoston",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yJY-bVNuUv6Z8ZUR7kIKwCpo8iA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7V7pMM118xM"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-24T21:49:45.000Z",
+                "channelId": "UCCIn_o5NUBDGph7CQ3zrT3w",
+                "title": "Look Who the RED CROSS is Teaming Up With...",
+                "description": "If this doesn't wake the masses up, I don't know what will. Please share with as many people as possible!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7V7pMM118xM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7V7pMM118xM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7V7pMM118xM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hacking the Headlines",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pJtNW2D_6PmJ4xRYGx3JB14moW8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "U92cr46-W_s"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-23T01:26:10.000Z",
+                "channelId": "UC3u3NeCG1sRNTcQjLlNJo4w",
+                "title": "What is the Red Cross and how was it born?",
+                "description": "The story of the origin of the Red Cross is very interesting.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U92cr46-W_s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U92cr46-W_s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U92cr46-W_s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Extreme Knowledge",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/THaPp-YPzv6fIhPII0eTQC0pC7I\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "M8D3Z7PBng8"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-25T20:29:20.000Z",
+                "channelId": "UCjYig-6-NtcNRhaZvL0etaQ",
+                "title": "The Red Cross CEO Salary Is HOW MUCH?!?",
+                "description": "In which Gret puts into question the salary of the CEO of the Red Cross (Gail McGovern). And then goes onto explain how that's not even the most concerning ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M8D3Z7PBng8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M8D3Z7PBng8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M8D3Z7PBng8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gret Glyer",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4_-hlePdBMBD8ftBOJajUGt96Po\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TaPWeRmc7SQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-18T23:25:53.000Z",
+                "channelId": "UC2nQYGjfe9I_tgWpqgJorUg",
+                "title": "The Clintons, The Red Cross & BOXES OF BILLIONS IN CASH",
+                "description": "The ICRC claims the logos on the boxes are fake and they have nothing to do with the tens of millions of dollars seen in this video. Given the history of the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TaPWeRmc7SQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TaPWeRmc7SQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TaPWeRmc7SQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SGTreport",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/s644s1olP4s3Ijmetl6ziPYSnns\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DzXaePhrL0U"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-01T20:18:04.000Z",
+                "channelId": "UCjYig-6-NtcNRhaZvL0etaQ",
+                "title": "RED CROSS CEO APPEARS GREEDY ON LIVE TV (won't answer questions about Harvey)",
+                "description": "Many questions have arisen about the salary of the top level execs at the American Red Cross, including the salary of the CEO, Gail J. McGovern. Watch these ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DzXaePhrL0U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DzXaePhrL0U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DzXaePhrL0U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gret Glyer",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jjotArjiEO-gmhQXkS7Pr6AsgRs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_u1QmPgYxak"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-27T16:24:53.000Z",
+                "channelId": "UCgAvalds_Q4FLwt2K_L57Ug",
+                "title": "BEAUTIFUL \ud83d\udd34 First Lady Melania Trump AMAZING Speech at American Red Cross",
+                "description": "No Ads now, Solely Your Support, Please Donate $1 https://bit.ly/2Dewqmz. Thank you very much!) First Lady Melania Trump visits the Red Cross.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_u1QmPgYxak/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_u1QmPgYxak/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_u1QmPgYxak/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Space Force News",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7YdEmM2lOE8NTCAlZNa6dp0ZCxc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gmdJUU4b9FI"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-28T10:06:42.000Z",
+                "channelId": "UCnL6gi4fkJfetLw56k3GbXg",
+                "title": "Learn About Safety Tips - Red Cross First Aid Training Game",
+                "description": "Accidents can happen anytime, anywhere, and the solution to avoiding unpleasant surprises is prevention. Discover an innovative way that teaches you to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gmdJUU4b9FI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gmdJUU4b9FI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gmdJUU4b9FI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Voki Games",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/WHNCFOqHartdMjiU146Op1ZYw6A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7R8uCRwnVfY"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-22T18:57:30.000Z",
+                "channelId": "UCIcbWJtXOjzm38IxPxaOQ_Q",
+                "title": "Kids Learn About Safety Tips - Red Cross First Aid Training for Toddlers",
+                "description": "Kids Learn About Safety Tips - Red Cross First Aid Training for Toddlers Download ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7R8uCRwnVfY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7R8uCRwnVfY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7R8uCRwnVfY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Wolley Plays Educational Games For Kids, Babies & Toddlers",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/J9buEhGOYRSN_OWr73z07gHG404\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9MHC8WlyuS4"
+            },
+            "snippet": {
+                "publishedAt": "2011-06-09T17:42:11.000Z",
+                "channelId": "UCm3wdheYkFMkLGHpIkj5gZQ",
+                "title": "Red Cross Blood Drive: CFHS",
+                "description": "Red Cross Blood Drive held at Colonial Forge High School. Winner of the Get Reel Contest for the Mid-Atlantic region. Music: \"A-Punk\" by Vampire Weekend.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9MHC8WlyuS4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9MHC8WlyuS4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9MHC8WlyuS4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shannon Strong",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kHiULjFVcoqMnl4Jxyjz5mIPNXI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "avuNF4om-aM"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-17T15:15:04.000Z",
+                "channelId": "UCOs4eCbhguYkMuf8SkCs4Ow",
+                "title": "Red Cross Blood Drive",
+                "description": "Red Cross Blood Drive hosted by Highland Baptist Church and coordinated by L. Wray Dillard and Donna O'Daniel. Goal of 22 pints was exceeded by 1 pint!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/avuNF4om-aM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/avuNF4om-aM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/avuNF4om-aM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lynn Wray Dillard",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_SynMe4EwL-6-AZUDj6oB68G3Vg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uLf2l2d-fwI"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-26T17:51:44.000Z",
+                "channelId": "UCADaBeM0qiKEZIw9_OuYmuA",
+                "title": "Dr. Ken Redcross",
+                "description": "Achieve better sleep with these tips from Dr. Ken Redcross!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uLf2l2d-fwI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uLf2l2d-fwI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uLf2l2d-fwI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WMAR-2 News",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UbtijLYOW5Gn1I7t6_qKaNVvnP8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vFo3U5q6wsg"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-02T01:55:32.000Z",
+                "channelId": "UCIbsE1yXWO8VTyxg_yrpSMQ",
+                "title": "Red Cross SCAM!?! **EXPOSED* HARVEY EDITION!",
+                "description": "Red Cross SCAM!?! **EXPOSED* HARVEY EDITION!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vFo3U5q6wsg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vFo3U5q6wsg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vFo3U5q6wsg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Truthneversleeps",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/18J0PuyTjyAzA7MVvWY3E_34ZGo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CNOPPpIYci0"
+            },
+            "snippet": {
+                "publishedAt": "2014-12-23T06:42:04.000Z",
+                "channelId": "UC_916zXkHew_kwh_pZv8B4w",
+                "title": "OPM Artists support The Philippine Red Cross through  - I Am You (Official Music Video)",
+                "description": "This song is available for download on www.spinnr.ph and will be available on iTunes this January 2015. All proceeds will go to the continuing rehabilitation ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CNOPPpIYci0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CNOPPpIYci0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CNOPPpIYci0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UniversalRecPH",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ZwMVHhVZctMpE8wpXODY_NQsonw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TiWQJXAt900"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-06T04:38:08.000Z",
+                "channelId": "UCDASiwRHpkGxwN2zrtf25qQ",
+                "title": "THE DEEP DECEPTION OF THE AMERICAN RED CROSS FINALLY EXPOSED",
+                "description": "THE DEEP DECEPTION OF THE AMERICAN RED CROSS FINALLY EXPOSED.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TiWQJXAt900/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TiWQJXAt900/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TiWQJXAt900/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MAG TRUTH ATTACK LIVE",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/viUL1wFfVQ3UQCQtauRpZaZuFvg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pxO3X_c3TGo"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-14T21:32:31.000Z",
+                "channelId": "UCtBfQmeHxSMsU2ghPAhGoRQ",
+                "title": "LEAK! VIDEO OF WHAT RED CROSS IS DOING WITH HARVEY DONATIONS!",
+                "description": "Enjoy GotchaNews content? Show your support & leave a tip: https://www.patreon.com/gotchanewsnetwork Thank you!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pxO3X_c3TGo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pxO3X_c3TGo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pxO3X_c3TGo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gotcha News Network",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kX5NbHjSLAtX6T2RPyQ-jzSdf60\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BAWGjNAj_vA"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-30T15:19:43.000Z",
+                "channelId": "UCK-efptws155Sx1vM1W6rBg",
+                "title": "Using an AED by American Red Cross",
+                "description": "Using an AED.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BAWGjNAj_vA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BAWGjNAj_vA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BAWGjNAj_vA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Monika Choinska-Powell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_lDzxnIljZNqVhn8BoZwxm1M61w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kA5-wK3Dunk"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-09T19:27:08.000Z",
+                "channelId": "UCDbS96aqIpoj8BAQXZTs2Pw",
+                "title": "Re Houston Interview At Red Cross Fema Camp",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kA5-wK3Dunk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kA5-wK3Dunk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kA5-wK3Dunk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheShowmebby",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/S-y7wZBqiiuCuL6OTB-us0tvLq4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uFNnQmV-kS4"
+            },
+            "snippet": {
+                "publishedAt": "2011-09-02T12:39:10.000Z",
+                "channelId": "UC0aMPje3ZACnQPKM_qzY0vw",
+                "title": "Arm to Arm - Lifesaving Journey.m4v",
+                "description": "Follow the lifesaving journey of a American Red Cross Blood Donation.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uFNnQmV-kS4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uFNnQmV-kS4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uFNnQmV-kS4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "American Red Cross",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/es_So_Vj0nHTvt2SKQ2okKl88d8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SdHeaVTFnV4"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-20T17:01:35.000Z",
+                "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+                "title": "Red Cross assisting with Hurricane Florence recovery",
+                "description": "North and South Carolina are beginning the long recovery process now that Hurricane Florence has passed. Gail McGovern, president and CEO of the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SdHeaVTFnV4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SdHeaVTFnV4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SdHeaVTFnV4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CBS News",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/j-8MOlSgDABMq5KT25J2QOBADII\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "f0u8qchGQcw"
+            },
+            "snippet": {
+                "publishedAt": "2013-10-30T02:47:36.000Z",
+                "channelId": "UCoWq1roht-oPtkW8hMXmQ9g",
+                "title": "Malaria defeatet by the RED CROSS ! - THE PROOF - CRUZ ROJA vence Malaria !",
+                "description": "Published on October 29, 2013 Here is the Original video WRC an Affiliate of the International Red Cross, whose director is Klaas Proesmans and the president ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f0u8qchGQcw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f0u8qchGQcw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f0u8qchGQcw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Andreas Ludwig Kalcker",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kU3Hfdd7RfUZqGgby0IGNqqo9wo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7-BF0OmtTv4"
+            },
+            "snippet": {
+                "publishedAt": "2014-02-25T11:59:31.000Z",
+                "channelId": "UC_ACgqLVesMlagaC5-tlP4Q",
+                "title": "Red Cross - On arrive feat The Shin Sekai (Clip Officiel)",
+                "description": "Red Cross - On arrive feat The Shin Sekai (Clip Officiel) ABONNEZ-VOUS \u00c0 LA CHA\u00ceNE ICI : http://bit.ly/1pmitmB Le premier projet de Red Cross est une ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7-BF0OmtTv4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7-BF0OmtTv4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7-BF0OmtTv4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RED CROSS",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/skRk2LInXCvhADd-nn-w9tjutiQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w_mqMpCKe6o"
+            },
+            "snippet": {
+                "publishedAt": "2016-08-13T19:30:01.000Z",
+                "channelId": "UCfPhyExfcaqJBKc3HO3cNBw",
+                "title": "Red Cross Apologizes for \"Racist\" Posters ft. David So",
+                "description": "GoForBroke: http://goforbrokeapparel.com/ Red Cross apologizes for their 'super racist' pool safety poster. Previous Video: http://bit.ly/29rHKbA Follow Us On ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w_mqMpCKe6o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w_mqMpCKe6o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w_mqMpCKe6o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JustKiddingNews",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/v9Z6NeiIfc5jQCtF5cge2ajHquQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iBP6guGSyzU"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-27T18:18:56.000Z",
+                "channelId": "UCo2dVqFIKEbL_lRy2M8wYoA",
+                "title": "\ud83d\udc4d\ud83c\uddfa\ud83c\uddf8\ufe0f\ud83c\udde8\ud83c\udde6\ufe0f*Wonderful Speech. Amazing First Lady Melania Trump at Red Cross Gathering.",
+                "description": "Amazing Sight. The 2018 Christmas Decorations at the White House GOD BLESSING!            .         * An Amazing Sight to See. The 2018...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iBP6guGSyzU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iBP6guGSyzU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iBP6guGSyzU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RED PILL AWAKENED HEAVENS FREQUENCY",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hH2h5C2niKliN9g4Ot3pxtf1xYk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Xf2FyNs889k"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-05T11:01:08.000Z",
+                "channelId": "UChBsOxskMpDmBAsgJ91fKcg",
+                "title": "The Red Cross -- Stained with the Blood of Millions",
+                "description": "a video about how to HELP STOP mass immigration to Europe. If you're a regular viewer please DON'T try to become a Patreon supporter for as little as $1 per ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xf2FyNs889k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xf2FyNs889k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xf2FyNs889k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ThuleanPerspective",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/as3PQ0Z5mwN-Rt6qmV_-tDP8IN8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "37IlG0a_eXM"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-12T15:50:04.000Z",
+                "channelId": "UCp5x5kxCgg_A220jNIsLyfA",
+                "title": "RED CROSS BANS PRAYER!",
+                "description": "RED CROSS BANS PRAYER! LINK: http://www.foxnews.com/opinion/2016/08/24/good-lord-cop-says-red-cross-told-him-not-to-pray-with-flood-victims.html.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/37IlG0a_eXM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/37IlG0a_eXM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/37IlG0a_eXM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "A Call For An Uprising",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tSZUGXj85RlDW6yAswihKER3eEc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N-Vhfb3zUOU"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-04T23:02:49.000Z",
+                "channelId": "UC523VCLCPsRf0oVrrbKdaEg",
+                "title": "Nissan TITAN XD Ultimate Service Titan American Red Cross",
+                "description": "https://roadfly.com/2018/10/04/specialty-nissan-titan-xd-for-american-red-cross/ Vehicle: Nissan TITAN XD, Ultimate Service TITAN, American Red Cross Edition ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N-Vhfb3zUOU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N-Vhfb3zUOU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N-Vhfb3zUOU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RoadflyTV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0S1eSER8Y72nl0c6TsS-dUUVats\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3iAs97f0Ld0"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-11T18:01:48.000Z",
+                "channelId": "UCcTzK_2JDmFYGnUiaUleQYg",
+                "title": "Don't Donate To The Red Cross!",
+                "description": "Use caution when donating to Red Cross for hurricane relief ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3iAs97f0Ld0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3iAs97f0Ld0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3iAs97f0Ld0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lisa Cabrera",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/oLLDwPPbhs7XXknr8N0hcSWHq70\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-TpRymuoACs"
+            },
+            "snippet": {
+                "publishedAt": "2011-08-02T11:04:27.000Z",
+                "channelId": "UCSQbP73akrgdwqNj848JAOQ",
+                "title": "History of the Red Cross & Red Crescent (Expo'92)",
+                "description": "The History of the Red Cross (up to 1992) I made this work for the Red Cross Pavilion at the 1992 Seville Universal Expo. After the event, this work has been ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-TpRymuoACs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-TpRymuoACs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-TpRymuoACs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Toni Valls Pou",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ec6uxHH2ftyxmZJV2wSumZhLyp8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tU1c9boT5WI"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-05T23:19:40.000Z",
+                "channelId": "UCGf-GLyXspw5c1spGqVEsPA",
+                "title": "World Red Cross Day - Facts",
+                "description": "Top 20 Facts About World Red Cross Day 2018 Every year 8th may is celebrated as world red cross day to honor the international red cross crescent movement.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tU1c9boT5WI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tU1c9boT5WI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tU1c9boT5WI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Occence Media",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JvpphdcXZYVejEU0bh3zBrBgrGA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xQA8yte6f54"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-01T23:33:31.000Z",
+                "channelId": "UCKZGcrxRAhdUi58Mdr565mw",
+                "title": "Red Cross Sqandered 500M In Haiti Funds;Unsure What Portions Of Harvey Donations Will Go To Victims",
+                "description": "Donate to the Houston Flood Relief Fund http://bit.ly/2eMLKc3 Purchase Merchandise From Our Store https://teespring.com/stores/advise-media-network-store ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xQA8yte6f54/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xQA8yte6f54/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xQA8yte6f54/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheAdviseShowTV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9ugj8sC3zdgyWB7rWkmjNfvX4qk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZcEOnsvfpZw"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-10T00:59:23.000Z",
+                "channelId": "UCtqFUxpLnV-RaraQVu1rMTw",
+                "title": "Important items to have, storm preparation tips from the American Red Cross",
+                "description": "KHON2 News.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZcEOnsvfpZw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZcEOnsvfpZw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZcEOnsvfpZw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KHON2 News",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/w4BdH1FNtCS5-nG629MzharCRno\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RMSWH7yQMnM"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-31T23:43:21.000Z",
+                "channelId": "UC1JAwKeDUjN2orv5t7LWODQ",
+                "title": "Where are Red Cross donations going?",
+                "description": "Growing backlash for the charity has spread online -- claims of mismanagement of funds and lack of transparency. is that criticism fair? How much of your ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RMSWH7yQMnM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RMSWH7yQMnM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RMSWH7yQMnM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KARE 11",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DdkHTzH4cA0diYsKyUOo8pM7tLU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WmjI9Vn2ibI"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-27T18:24:46.000Z",
+                "channelId": "UCpPGJXgbwBmkIp291W0PCMw",
+                "title": "Volcanic ash swamps Hawaii school, Red Cross Screw Up, All  evacuation for Leilani Estates",
+                "description": "Watch \u201cVolcano Relief - May 2018\u201d by @InterviewWithED on #Vimeo https://vimeo.com/271873753 Schools still holding classes. No matter how often teachers ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WmjI9Vn2ibI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WmjI9Vn2ibI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WmjI9Vn2ibI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mary Greeley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Mc-Q99x4klPUjNySty8nY4-lFQs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VLgLaVlF-Uw"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-06T10:32:51.000Z",
+                "channelId": "UCfDAM9P2RF_ynz8B_j5enCw",
+                "title": "Red Cross Day in Gujarati - GK Video",
+                "description": "Hi, 8 May Red Cross Day in Gujarati Video By Paresh Chavda Welcome to EduSafar channel. This channel provides you information on Current affairs video, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VLgLaVlF-Uw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VLgLaVlF-Uw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VLgLaVlF-Uw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Edu Safar",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YqBzWkhylUC5vi3R5U6TTBAQ1Dk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TM27RJ2ATj4"
+            },
+            "snippet": {
+                "publishedAt": "2013-01-25T18:55:32.000Z",
+                "channelId": "UC_ACgqLVesMlagaC5-tlP4Q",
+                "title": "Red Cross - Salle du temps (Clip Officiel)",
+                "description": "Red Cross - Salle du temps (Clip Officiel) ABONNEZ-VOUS \u00c0 LA CHA\u00ceNE ICI : http://bit.ly/1pmitmB Le premier projet de Red Cross est une mixtape \" EN ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TM27RJ2ATj4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TM27RJ2ATj4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TM27RJ2ATj4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RED CROSS",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6oguacSEFYiRqatvfsGE4vO7mvc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GfiFvFKNt3Y"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-12T03:53:03.000Z",
+                "channelId": "UCp7zzDMR-77qQxqG_7_aMfQ",
+                "title": "Red Cross Stealing Donations From Houston",
+                "description": "SUPPORT THIS CHANNEL: PayPal: https://www.paypal.me/TheFunnyRedneck Merch:https://www.thefunnyredneck.com/store SOCIAL MEDIA Instagram: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GfiFvFKNt3Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GfiFvFKNt3Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GfiFvFKNt3Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Conservative Comedy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TwK1MwfC5N1R1eY_mlktb_ik5Tc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ky6yhDYCTfk"
+            },
+            "snippet": {
+                "publishedAt": "2013-04-21T03:27:15.000Z",
+                "channelId": "UCbm4pLU9ujJU1glta7oGjPw",
+                "title": "American Red Cross Interview",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ky6yhDYCTfk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ky6yhDYCTfk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ky6yhDYCTfk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "stargazerdi",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_kqwoMP-cL444UA9tF4fXswHy78\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uvOjwUDlWNA"
+            },
+            "snippet": {
+                "publishedAt": "2014-05-09T16:51:16.000Z",
+                "channelId": "UCjGgs1DrQMsMd3xf3i_JR5g",
+                "title": "KGP - Red Cross [LYRICS]",
+                "description": "Lyrics: Hahaha, I know what you're thinking, a love song, capital G no This ain't no love song man, but you'll take it This is more like a depressing motherfuckin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uvOjwUDlWNA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uvOjwUDlWNA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uvOjwUDlWNA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Horrorcore & Rap Lyrics",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fr8KhneUTvUHWPmhcjSumREsvrs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QLMrbCtacOA"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-07T12:04:05.000Z",
+                "channelId": "UCBKjH1UA51BOPqyzFK4levQ",
+                "title": "Redcross Day",
+                "description": "World Redcross Day -2018, Dist.Branch - Mathura (INDIA)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QLMrbCtacOA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QLMrbCtacOA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QLMrbCtacOA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mahesh Khandelwal",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BW0basROpekEe1p4KTxpcQau8fs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wn3GG8mWswU"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-23T09:12:45.000Z",
+                "channelId": "UCu6xoThFLsa-b7ZNSXUvcaQ",
+                "title": "Red Cross Independent College Choir - Indela/Koloi Medley",
+                "description": "Indela/Koloi Medley performed by the Red Cross Independent College Choir which is a sub unit of Zimbabwe Red Cross Society.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wn3GG8mWswU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wn3GG8mWswU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wn3GG8mWswU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hope Munyari",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/utNQm8AjTNVt6SVJ0AwDpZVkQQ0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fM7BPt8LSqk"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-04T00:00:47.000Z",
+                "channelId": "UCbjXuevvIj0NkhDp14zl6cA",
+                "title": "RED CROSS - Joe Magnarelli Quartet at The Green Mill",
+                "description": "Joe Magnarelli Quartet, playing Charlie Parker's Red Cross . Recorded at The Green Mill Lounge in Chicago June 1 2018 Joe Magnarelli - trumpet , Ron Perrillo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fM7BPt8LSqk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fM7BPt8LSqk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fM7BPt8LSqk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "George Fludas",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BnO7xwEYk1x1CIqMNDjVcXF8EzU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MqKX8Y8k31w"
+            },
+            "snippet": {
+                "publishedAt": "2015-02-09T08:00:01.000Z",
+                "channelId": "UC4ttvVA4oMggYcbm-n5PufQ",
+                "title": "Red Cross - Ma terre (Audio) ft. Dry",
+                "description": "Music video by Red Cross performing Ma terre (audio). (C) 2015 Wati B.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MqKX8Y8k31w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MqKX8Y8k31w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MqKX8Y8k31w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RedCrossVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/IxF6eQuxfvvjgLZiCyZW91WL3S4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4nf8Ao2Mi1I"
+            },
+            "snippet": {
+                "publishedAt": "2015-02-19T19:36:50.000Z",
+                "channelId": "UCc8FiTeWc8eI7bi41BWPEqw",
+                "title": "RED CROSS \u00ab \u00c0 LA CASE D\u00c9PART \u00bb ! [L'INTERVIEW DE ZO\u00c9]",
+                "description": "Le groupe de Bruxelles \"RED CROSS\" vient de sortir son EP \"Case D\u00e9part\" volume 1. A cette occasion Zo\u00e9 est parti \u00e0 leur rencontre pour une interview v\u00e9rit\u00e9.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4nf8Ao2Mi1I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4nf8Ao2Mi1I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4nf8Ao2Mi1I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "buzzdefou",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Qgiur9zXRWR-Q-DhZ6uKdPrETX8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ge1MC1n28ko"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-28T09:22:26.000Z",
+                "channelId": "UCUUyN3KoguVGbr0VO_lY3YA",
+                "title": "Urgent clear the way for Red Cross Ambulance in traffic jam//\u7d27\u6025\u4e3a\u6551\u62a4\u8f66\u5f00\u9053",
+                "description": "(Ambulance appeared at 00:35) Yesterday evening, I have dinner at home, hear outside siren for a long time, speedily downstairs command traffic, found the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ge1MC1n28ko/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ge1MC1n28ko/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ge1MC1n28ko/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Beijing Emergency Vehicle Fans",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/LnYIX8w2ebEX4DFzHEVJaUKUPPU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K0V7gOs4SZg"
+            },
+            "snippet": {
+                "publishedAt": "2015-08-23T20:55:08.000Z",
+                "channelId": "UCS-ix9RRO7OJdspbgaGOFiA",
+                "title": "The American Red Cross Blackout Buddy the emergency LED flashlight, blackout alert and nightlight",
+                "description": "Get it here... http://geni.us/kIqBj Lights up automatically when there is a power failure eliminating the need to search for a flashlight in the dark Fold-up prongs to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K0V7gOs4SZg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K0V7gOs4SZg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K0V7gOs4SZg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Peter von Panda",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8g-MkNavKbvZGIfIT-cGBNF_Zxo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "35IUJcsN6TU"
+            },
+            "snippet": {
+                "publishedAt": "2014-12-24T18:10:33.000Z",
+                "channelId": "UC3jTPc1jFKDp02aEuRp9D0w",
+                "title": "[141224] The Winter's Tale (\uc6b8\uba74 \uc548\ub3fc) - BTOB at Korean Red Cross Event in Myeongdong",
+                "description": "Watch in HD! Credit if GIF/Screencaps.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/35IUJcsN6TU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/35IUJcsN6TU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/35IUJcsN6TU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheSHINee27",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OY6SorgiCeOYS9lDniTvbvtHobk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qeHiidYwyNU"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-14T20:03:17.000Z",
+                "channelId": "UCrVpMA8a0KP9io6ejOwhWbA",
+                "title": "HURRICANE RELIEF SLIME | Making slime to raise money for the red cross | Slimeatory #135",
+                "description": "Hey, guys! So there has been a lot of hurricanes and I really wanted to help out with it! So I decided to make some slime to raise some money! The funds we ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qeHiidYwyNU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qeHiidYwyNU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qeHiidYwyNU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Just Ameerah",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QvGEC9WwhyQDXQw7-u3lvsN8ts0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0Ot4ZWPgIgg"
+            },
+            "snippet": {
+                "publishedAt": "2015-01-26T08:00:05.000Z",
+                "channelId": "UC4ttvVA4oMggYcbm-n5PufQ",
+                "title": "Red Cross - Terminator (Audio)",
+                "description": "Music video by Red Cross performing Terminator (audio). (C) 2015 Wati B.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0Ot4ZWPgIgg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0Ot4ZWPgIgg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0Ot4ZWPgIgg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RedCrossVEVO",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}

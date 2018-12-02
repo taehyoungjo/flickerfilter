@@ -1,0 +1,5 @@
+analysis/epilepsy_videos/*
+analysis/non_epilepsy_videos/*
+
+analysis/hsv_epilepsy/*
+analysis/hsv_non_epilepsy/*

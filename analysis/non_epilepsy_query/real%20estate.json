@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/iSz4DEB8cF63OGUSNFV5LeHVZtc\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vDNzom4GdSdZvji9yRk7OzCmcgc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "D69VhdRNok0"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-07T15:30:01.000Z",
+                "channelId": "UCokIq0eihRhkiqClyV0WCdw",
+                "title": "Real Estate For Beginners",
+                "description": "Real estate has a language to it. And if you understand some of the most important basic words and principles, it can help you understand how to make a lot of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D69VhdRNok0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D69VhdRNok0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D69VhdRNok0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kris Krohn - Limitless TV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0Sem3hvDgbBGlNrE20mePXa3_7w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eOyjl5gBNVg"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-26T23:33:08.000Z",
+                "channelId": "UCuXovghMTETSm-amUsoX8iA",
+                "title": "My First Year Earnings As A Real Estate Agent [ACTUAL NUMBERS]",
+                "description": "In this video, I'm showing the real dollar amount of money that I made in my first year as a real estate agent. I show you the actual figures and transactions I did ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eOyjl5gBNVg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eOyjl5gBNVg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eOyjl5gBNVg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Chastin J. Miles",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/X-yL-umRo-Afm-PSmotG9EreoEc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KZ4tc-X6Cbc"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-20T21:00:00.000Z",
+                "channelId": "UC7dVwtF_Fp6YlsU3bPHrInQ",
+                "title": "What Does a Real Estate Agent Do?",
+                "description": "What does a Real Estate agent actually do? What are some of there job duties? Explained here.. My podcast - Supreme Being - Available on Spotify, iTunes, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KZ4tc-X6Cbc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KZ4tc-X6Cbc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KZ4tc-X6Cbc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bryan Casella",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/AZ8vsBmLM4ufyqfnVB5_yWr2bEI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KTKoNEWqbBI"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-27T01:42:03.000Z",
+                "channelId": "UCQlVOYJyQp64rA12ac0mv6g",
+                "title": "Chatting with a 22-year-old Real Estate Millionaire",
+                "description": "Igor's insta \u25b7 http://www.instagram.com/whoiskaj My insta \u25b7 http://www.instagram.com/mrhales109 Have you tried Airbnb? Sign up with my link and you'll get ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KTKoNEWqbBI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KTKoNEWqbBI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KTKoNEWqbBI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LAHWF",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8iqnlVeW9m-401v3ANAbQgEbmrM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qA8CocdtuJA"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-02T20:00:06.000Z",
+                "channelId": "UCJjSDX-jUChzOEyok9XYRJQ",
+                "title": "Earning $7,000 vs $220 in a Day: Real Estate Agent & Pool Cleaner",
+                "description": "What does it look like to earn $7000 in a day vs. $220? Spend a day with Chase and Ronnie as we track their incomes and they share their thoughts on money.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qA8CocdtuJA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qA8CocdtuJA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qA8CocdtuJA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jubilee",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tiV9swV7ooSdI3JmaxvIxNBuCjw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EFaOBKSfweA"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-29T22:30:00.000Z",
+                "channelId": "UCV6KDgJskWaEckne5aPA0aQ",
+                "title": "Real Estate Investing for Beginners: Expectation vs Reality",
+                "description": "Let's debunk some common myths about real estate investing, and share what it's ACTUALLY like, no sugar coating - enjoy! Add me on Snapchat / Instagram: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EFaOBKSfweA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EFaOBKSfweA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EFaOBKSfweA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Graham Stephan",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/o9RnamvtB3-SJxgy4lj36dukb7k\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OT4IPUXBsG8"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T16:30:01.000Z",
+                "channelId": "UCokIq0eihRhkiqClyV0WCdw",
+                "title": "Retire In 5 Years With Real Estate",
+                "description": "Do you ever dream of retiring young? Wouldn't that be the dream? Real estate has done that for me and I want to share with you how you could retire in 5 years ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OT4IPUXBsG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OT4IPUXBsG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OT4IPUXBsG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kris Krohn - Limitless TV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/RZ8KSL3pLMYr8UV9EyozcMk242E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H317_gABbT8"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-07T12:02:54.000Z",
+                "channelId": "UCNjPtOCvMrKY5eLwr_-7eUg",
+                "title": "15 Things You Didn't Know About The Real Estate Industry",
+                "description": "15 Things You Didn't Know About The Real Estate Industry | Industry Wednesday SUBSCRIBE to ALUX: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H317_gABbT8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H317_gABbT8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H317_gABbT8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alux.com",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hVmactMN3gxDDZILyNcbKaSX-Fg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UgdemqI716M"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T21:00:08.000Z",
+                "channelId": "UCngq92xrmmsfEgGdfAJ6giQ",
+                "title": "Using Home As ATM HIGHEST Since 2007! Global Real Estate SLOWDOWN From U.S. To Hong Kong!",
+                "description": "LOOK THROUGH MY BOOKS! http://books.themoneygps.com SUPPORT MY WORK: https://www.patreon.com/themoneygps PAYPAL: https://goo.gl/L6VQg9 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UgdemqI716M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UgdemqI716M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UgdemqI716M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Money GPS",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KLGcNFt-O8eBZHsdRn6Co2CtMjk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ytb212CajTU"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-20T18:30:13.000Z",
+                "channelId": "UCUvvj5lwue7PspotMDjk5UA",
+                "title": "DANGER: Prepare for The 2019 Real Estate Market",
+                "description": "Prepare for The 2019 Real Estate Market. Will the housing market / bubble CRASH, CORRECT, or CONTINUE? What are the odds of each? We'll talk about ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ytb212CajTU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ytb212CajTU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ytb212CajTU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Meet Kevin",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/zzZdmsFmgZGWE4JE9UvJqEzf1y0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_wTzMKV-BhQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T18:28:01.000Z",
+                "channelId": "UCDkLCChDIvIKLaxIAqkhjuQ",
+                "title": "Harry Dent Recaps Trip to Australia, Talks Real Estate",
+                "description": "Just returning from his recent trip to Australia, Economist, Harry Dent recaps his tour and conversations about the country's demographics, real estate and other ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_wTzMKV-BhQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_wTzMKV-BhQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_wTzMKV-BhQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Harry S. Dent Jr.",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DriFslJD2DmBsf31wnWUUUU_a04\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WohNlOW45wY"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T16:30:00.000Z",
+                "channelId": "UC7eBNeDW1GQf2NJQ6G6gAxw",
+                "title": "Is the Real Estate Market Going to Crash?",
+                "description": "Is the Real Estate Market Going to Crash? Visit the Dave Ramsey store today for resources to help you take control of your money! https://goo.gl/gEv6Tj Become ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WohNlOW45wY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WohNlOW45wY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WohNlOW45wY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Dave Ramsey Show",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vTqHn7tOygP2NmDYHXYidFC5WeU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zTLtufTLCq8"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T22:30:00.000Z",
+                "channelId": "UC7dVwtF_Fp6YlsU3bPHrInQ",
+                "title": "Common Mistakes To Avoid Your FIRST Year As A Real Estate Agent",
+                "description": "There are many mistakes people make their first year in Real estate... let's talk about the biggest 3 to avoid all together! Enjoy www.bcbundle.com - Black Friday ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zTLtufTLCq8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zTLtufTLCq8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zTLtufTLCq8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bryan Casella",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5QTjBHjoCZxdGeAEPEamijx9lKE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xgmTPL0ndEI"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T14:59:32.000Z",
+                "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
+                "title": "President Donald Trump Tweets He 'Lightly Looked' At Real Estate Project | Morning Joe | MSNBC",
+                "description": "In tweets from Friday, the president while in Argentina defended looking at a real estate project in Russia at the same time he was securing the nomination for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xgmTPL0ndEI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xgmTPL0ndEI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xgmTPL0ndEI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MSNBC",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/l6TXZL5X71_6vog-d9pRwvOKKqs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tWRRuj9mhJ4"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-15T16:30:04.000Z",
+                "channelId": "UCokIq0eihRhkiqClyV0WCdw",
+                "title": "What Is The Best Real Estate Investing Strategy?",
+                "description": "In a short period of time, real estate investment started to change my life in so many ways. And if you're here because you want to pursue real estate but you ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tWRRuj9mhJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tWRRuj9mhJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tWRRuj9mhJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kris Krohn - Limitless TV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3c6NvhhDLMRJrLxwbS4n69ru_Qk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LdAqhHlYg1E"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-24T15:38:08.000Z",
+                "channelId": "UCokIq0eihRhkiqClyV0WCdw",
+                "title": "Getting Into Real Estate As a Beginner",
+                "description": "I get a lot to share how I got started in real estate. So I share how it all began and what has inspired and motivated me to create this self made success. Through ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LdAqhHlYg1E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LdAqhHlYg1E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LdAqhHlYg1E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kris Krohn - Limitless TV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vqkgrWYm5lj8eamdVq6VJHLgffc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rHE7uZjdum0"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-21T16:00:07.000Z",
+                "channelId": "UC7dVwtF_Fp6YlsU3bPHrInQ",
+                "title": "Cold Calling LIVE (New Real Estate Agent)",
+                "description": "This is Valerie making some calls, LIVE. She is our newest edition to the team and what better way to get introduced to this business than hop on the phones ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rHE7uZjdum0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rHE7uZjdum0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rHE7uZjdum0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bryan Casella",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UiqHsM_mkKGF9TMmrDgn63uZaeE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bPITNAvtDzQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-04T11:00:03.000Z",
+                "channelId": "UCnkmQCJ4f6rRl1PXCblppvA",
+                "title": "Wholesaling Real Estate | How to start with $1000",
+                "description": "I talk about how to start wholesaling with only $1000. I also talk about why you don't really need any money to start wholesaling. GET YOU EVENT TIX HERE: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bPITNAvtDzQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bPITNAvtDzQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bPITNAvtDzQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Max Maxwell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pp19Ekzb5FfpDmtbLn_XnV-S9dI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cQJYPdGleRc"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-10T16:33:52.000Z",
+                "channelId": "UCUvvj5lwue7PspotMDjk5UA",
+                "title": "Day in the Life: Real Estate Agent",
+                "description": "Follow me in the day of the life of a real estate agent and explore / deal with over $6000000 in real estate ($450k listing, $700k listing, $2275000 buy-deal, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cQJYPdGleRc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cQJYPdGleRc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cQJYPdGleRc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Meet Kevin",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pouqqlyqefCkLg5Xm6gfCC55960\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b6FEeHtGOc8"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-29T19:03:59.000Z",
+                "channelId": "UCngq92xrmmsfEgGdfAJ6giQ",
+                "title": "Home Sales DROPPING FAST as Inventory RAPIDLY Builds! Real Estate Weakest Since Crisis!",
+                "description": "LOOK THROUGH MY BOOKS! http://books.themoneygps.com SUPPORT MY WORK: https://www.patreon.com/themoneygps PAYPAL: https://goo.gl/L6VQg9 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b6FEeHtGOc8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b6FEeHtGOc8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b6FEeHtGOc8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Money GPS",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xwFKzz01w0ijXQ1RXRySTzDbK6U\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1YEGEDPZwQM"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-28T21:00:01.000Z",
+                "channelId": "UCG98giOsUxIlXV0rNUhxLew",
+                "title": "WHY REAL ESTATE IS THE GREATEST CAREER IN THE WORLD | Ryan Serhant Vlog #006",
+                "description": "Ryan Serhant vlog #006 Connect with Ryan Serhant here: Instagram: http://instagram.com/RyanSerhant Facebook: http://facebook.com/RyanSerhant Twitter: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1YEGEDPZwQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1YEGEDPZwQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1YEGEDPZwQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ryan Serhant",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hKQnWEo9QbrSo3tbTepWqoq4kDo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VXeaU0i54H0"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-18T22:30:00.000Z",
+                "channelId": "UCV6KDgJskWaEckne5aPA0aQ",
+                "title": "The ULTIMATE Beginner's Guide to Investing in Real Estate Step-By-Step",
+                "description": "Here's a Real Estate beginner tutorial where I can really cover the blueprints and outline the basics of what's needed in order to prepare for, and actually invest ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VXeaU0i54H0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VXeaU0i54H0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VXeaU0i54H0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Graham Stephan",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/RiDt6nTPSahRt4ivmub3l2AE7Mo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VUFr4SK1-l4"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-24T14:55:03.000Z",
+                "channelId": "UC98Kd6oO2SrXP3XlNRVi5Pg",
+                "title": "Real Estate - Darling (Official Video)",
+                "description": "Real Estate - \u201cDarling\u201d from 'In Mind', released 2017 on Domino Record Co. Subscribe to Real Estate on YouTube: http://bit.ly/RealEstateYT Find 'In Mind' on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VUFr4SK1-l4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VUFr4SK1-l4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VUFr4SK1-l4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "realestateband",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Yc_U2_-LSx9e8RL1K2xKFkH36qY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4PEqpBzbxaI"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T23:28:39.000Z",
+                "channelId": "UCnq2fsmXDDcXKqVfhveBzGg",
+                "title": "How to Respond To Low Budget Clients in Real Estate : Sanat Thakur",
+                "description": "I have answered here the query of my regular viewer. What to do when client gives low offer than your asked price. How to handle his queries and convince him.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4PEqpBzbxaI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4PEqpBzbxaI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4PEqpBzbxaI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sanat Thakur: Real Estate Expert",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/a6yOROzIyA9aU9qduEuIF_pFfOI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TT35reMYELI"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T19:57:23.000Z",
+                "channelId": "UCx3fMQP8tc7YjP8E4VxDXyg",
+                "title": "Best 2019 Real Estate Strategies To Revisit",
+                "description": "Best 2019 Real Estate Strategies To Revisit In todays video we touch on foreclosures, subject to , and short sales briefly look at why these strategies are looking ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TT35reMYELI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TT35reMYELI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TT35reMYELI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Investor Army",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/puJ2YniXEO3NYZv1ppthq_kgebw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jyze_lz6uDw"
+            },
+            "snippet": {
+                "publishedAt": "2013-03-09T03:51:46.000Z",
+                "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+                "title": "Inside Secrets of a Real Estate Agent",
+                "description": "\"You think the shark tank is brutal - wait till you see this,\" said realty maven Barbara Corcoran.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jyze_lz6uDw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jyze_lz6uDw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jyze_lz6uDw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ABC News",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gX1oxDDS_bbcMbRiFAy2g-Acoyg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oVsyZqz64PA"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T16:30:02.000Z",
+                "channelId": "UCokIq0eihRhkiqClyV0WCdw",
+                "title": "Have Real Estate Pay For Your Lifestyle",
+                "description": "Real estate is my main source of income and it has blessed me with a life that I've always dreamed of. Real estate is different from other investments, it pays you.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oVsyZqz64PA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oVsyZqz64PA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oVsyZqz64PA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kris Krohn - Limitless TV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/uo-FPaRcs5aMjFZi9N671d3HNpo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HHEcHqEUeWQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T11:00:02.000Z",
+                "channelId": "UCnkmQCJ4f6rRl1PXCblppvA",
+                "title": "Wholesaling Real Estate | Ebert Project is Finally Done!",
+                "description": "Francis goes over the completed Ebert house and the things that we did to really add value to the house. Game Changing Software My Team & I Created: www.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HHEcHqEUeWQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HHEcHqEUeWQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HHEcHqEUeWQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Max Maxwell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DX9XrQFv5zk3mCbaEjVgoZGBb3s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XtwB7AL5vHA"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-24T19:58:30.000Z",
+                "channelId": "UCG98giOsUxIlXV0rNUhxLew",
+                "title": "The Reality of Real Estate Investing for Beginners | Ryan Serhant Vlog #039",
+                "description": "Real Estate Investing for beginners can be overwhelming and confusing. Ryan Serhant gives advice for anyone getting started in Real Estate and how you can ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XtwB7AL5vHA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XtwB7AL5vHA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XtwB7AL5vHA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ryan Serhant",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/qhHZIWJyXV2udrwH2i-1rHygvMU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TDHUnBnYoNg"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-23T11:00:04.000Z",
+                "channelId": "UCnkmQCJ4f6rRl1PXCblppvA",
+                "title": "Wholesaling Real Estate | The Ugly House SOLD",
+                "description": "I take you on a day of running around getting errands done and finishing up some projects before heading out of town. Game Changing Software My Team & I ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TDHUnBnYoNg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TDHUnBnYoNg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TDHUnBnYoNg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Max Maxwell",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/degKL3y8vee_oC4gR-cAP7Xj1k0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wXg50Q1jO0U"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-27T16:00:07.000Z",
+                "channelId": "UCpVj89CY-1kVucDpMmVFb3w",
+                "title": "10 Tips to CRUSH it in Real Estate - New Agents MUST watch",
+                "description": "Here are 10 ways how you can crush it in real estate specially if it'll be your first year! MY PRODUCTS: http://bit.ly/2utjsw5 SCRIPTS: The Book of Yes: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wXg50Q1jO0U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wXg50Q1jO0U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wXg50Q1jO0U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Loida Velasquez",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-eZd7ODAERZPCYKw-VbYl_EybZQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w0M01Btd1H4"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T16:00:12.000Z",
+                "channelId": "UCc_ZSKvyowp-ycDexOLv9Yg",
+                "title": "Luxury Single Family Home And Real Estate For Sale  | Lovely Tiny House",
+                "description": "LUXURY SINGLE FAMILY HOME AND REAL ESTATE FOR SALE PRICE: $730000 2 BEDROOMS 2 FULL BATHS 1284 SQ. FT. Interior: 1284 sq. ft. (approx.)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w0M01Btd1H4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w0M01Btd1H4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w0M01Btd1H4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lovely Tiny House",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/CIdgtzikFNtKXLmR5NJ48e3M1Yc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dD2DzHpbPRs"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-25T14:28:42.000Z",
+                "channelId": "UC3k3floOm_HtKOv0l6JU-xQ",
+                "title": "Benefits of International Real Estate Ownership",
+                "description": "https://www.nomadcapitalist.com Why is foreign real estate investment such a great idea to consider? Investing in real estate overseas offers a range of benefits, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dD2DzHpbPRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dD2DzHpbPRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dD2DzHpbPRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nomad Capitalist",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ne4fR8Vq0s6VBau0U8AaA4OzLiQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qeSZAI0z7SQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-04T18:27:15.000Z",
+                "channelId": "UC6FED81YqiDYCrgZoD_v5Ew",
+                "title": "How to Make Money From Real Estate Business ?",
+                "description": "How to Make Money From Real Estate Business ? In this movie we will guide you how you can make money from Real Estate Buiness in Pakistan. Some Tips ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qeSZAI0z7SQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qeSZAI0z7SQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qeSZAI0z7SQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "bahriatownhelp",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/rud2n4Trn2fIhl_skXd3U1xrk98\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cXv-fJXylOw"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-27T21:34:35.000Z",
+                "channelId": "UC5UWwxaa0-ybl6jfF6ZiJkA",
+                "title": "REAL ESTATE INVESTMENT ON THE BLOCKCHAIN | SWINCA ICO REVIEW",
+                "description": "Welcome to Crypto Chemist. SWINCA aims to disrupt the Crypto Real-Estate industry by lowering the barrier and become a multi-properties owner of worldwide ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cXv-fJXylOw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cXv-fJXylOw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cXv-fJXylOw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crypto Chemist",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/a1AnZfqtVdAda7biYQWS1aeKcNo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xiIizvKvQmc"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-17T17:16:04.000Z",
+                "channelId": "UCdlNK1xcy-Sn8liq7feNxWw",
+                "title": "How to Get Started in Real Estate with Grant Cardone",
+                "description": "Our offerings under Regulation D Rule 506(c) are available to accredited investors only. For our Regulation A offering: Until such time that the Offering Statement ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xiIizvKvQmc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xiIizvKvQmc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xiIizvKvQmc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Grant Cardone",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yjdpgYIXiXPYZh-UXN5RpUCz8Ag\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "R4CXaZYTm14"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-05T19:51:59.000Z",
+                "channelId": "UChi08h4577eFsNXGd3sxYhw",
+                "title": "Mark Whitten Talks Strategies To Invest In Real Estate & Flipping Houses",
+                "description": "Listen LIVE: http://power1051fm.com/ \u25bb Facebook: https://www.facebook.com/Power1051NY/ \u25bb Twitter: https://twitter.com/power1051/ \u25bb Instagram: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R4CXaZYTm14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R4CXaZYTm14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R4CXaZYTm14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Breakfast Club Power 105.1 FM",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MxGyOkvtpw6_R5cL8Ltl6vcwfDQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L3qUfnt6wI8"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-29T16:30:00.000Z",
+                "channelId": "UCokIq0eihRhkiqClyV0WCdw",
+                "title": "How To Use Real Estate To Buy A Car",
+                "description": "I'm very blessed to have my passion create financial freedom for me and if you ask me what real estate pays for, I can say that it pays for my living. In this video ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L3qUfnt6wI8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L3qUfnt6wI8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L3qUfnt6wI8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kris Krohn - Limitless TV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3mZhHuYLLt6zPw9TEZGpXCBxAAA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hZFrTOjLzWU"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-27T19:35:20.000Z",
+                "channelId": "UCngq92xrmmsfEgGdfAJ6giQ",
+                "title": "Global Real Estate Slowdown HAS BEGUN From the U.S. to Canada to Australia to the UK!",
+                "description": "LOOK THROUGH MY BOOKS! http://books.themoneygps.com SUPPORT MY WORK: https://www.patreon.com/themoneygps PAYPAL: https://goo.gl/L6VQg9 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hZFrTOjLzWU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hZFrTOjLzWU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hZFrTOjLzWU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Money GPS",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VFwF0qjhsjHTsJhTW8fmo17eSjI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1EUMcsNOP7E"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-13T23:43:18.000Z",
+                "channelId": "UCnMn36GT_H0X-w5_ckLtlgQ",
+                "title": "IS THE REAL ESTATE MARKET CRASHING IN 2019?",
+                "description": "Today we have a discussion if the real estate market is crashing. I am seeing a lot of youtube videos lately around real estate crashing in 2018. Meet Kevin has ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1EUMcsNOP7E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1EUMcsNOP7E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1EUMcsNOP7E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Financial Education",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mATm-IGW7_utuASRG2fyeY1DT3Q\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fVIe1pBtfZ8"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-15T22:30:00.000Z",
+                "channelId": "UCV6KDgJskWaEckne5aPA0aQ",
+                "title": "The TRUTH about Fundrise Real Estate Investing",
+                "description": "Fundrise. Real Estate Investing with some pretty substantial returns. Is it worth it? Is it legit? Should you invest in it? Here's what I discovered. Enjoy! Add me on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fVIe1pBtfZ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fVIe1pBtfZ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fVIe1pBtfZ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Graham Stephan",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tsnw8fzy9K2U3NAJMqWY9qGJO4A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HK5JEPwndbw"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-17T15:30:00.000Z",
+                "channelId": "UCokIq0eihRhkiqClyV0WCdw",
+                "title": "Getting Into Real Estate At Age 21",
+                "description": "I've got a question from one of my viewers and he's asked me about getting into real estate at 21. Allow me to share with you some thoughts based on my ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HK5JEPwndbw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HK5JEPwndbw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HK5JEPwndbw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kris Krohn - Limitless TV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mRzaYvKn2izzkXmasAGiGHy-Oy0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h0g9f-titXw"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T19:35:04.000Z",
+                "channelId": "UC-2MJlKSq9_pYk5-bdvMhnw",
+                "title": "Online Trading Academy: Learn more about OTA Real Estate.",
+                "description": "Be one of the first 25 callers to receive two free tickets to a OTA Real Estate half-day class!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h0g9f-titXw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h0g9f-titXw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h0g9f-titXw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Denver7 \u2013 The Denver Channel",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/V6b2IMNNC2BSUDfqOr1Cu0GYd4g\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_L89ibE_ZJs"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-25T21:39:29.000Z",
+                "channelId": "UCpVj89CY-1kVucDpMmVFb3w",
+                "title": "How to Pass the Real Estate License Exam - Tips",
+                "description": "PREP AGENT EXAM PREP: https://aff.prepagent.com/SHL PREP AGENT 20% OFF CODE: LOIDA Hi everyone! Here are some tips on the entire process from ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_L89ibE_ZJs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_L89ibE_ZJs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_L89ibE_ZJs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Loida Velasquez",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/1ZG9tOLxJs5RIBMh9Stou2STF8E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9qVMsjFNwTE"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-28T18:01:45.000Z",
+                "channelId": "UC45hHuqWfdi7TIZg0RDG9_g",
+                "title": "Side Hustle Real Estate Investment Option: Little Pink Houses of America",
+                "description": "Matthew Pillmore, president of VIP Financial Education, is joined by Michael Mathe of Little Pink Houses of America to talk about a very interesting side hustle ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9qVMsjFNwTE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9qVMsjFNwTE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9qVMsjFNwTE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VIPFinancialEd",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fab1H1yrEsf5ogPzaR4-GZNIGLg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HKxxfjRE2P0"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-05T21:00:00.000Z",
+                "channelId": "UCV6KDgJskWaEckne5aPA0aQ",
+                "title": "How I earned over $3 Million as a Real Estate Agent",
+                "description": "This is something I felt was very important to discuss for all the real estate agents out there, especially for all the newer agents out there who may be concerned ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HKxxfjRE2P0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HKxxfjRE2P0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HKxxfjRE2P0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Graham Stephan",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/C4JZc_663ibp_Az9FcbqM2AbbB4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ngkJKJOYcKA"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-23T15:30:01.000Z",
+                "channelId": "UCokIq0eihRhkiqClyV0WCdw",
+                "title": "Can Teens Invest In Real Estate? Best Age To Start",
+                "description": "Is there an ideal age for real estate? Is real estate a game for adults only? What is the perfect age to get involved with real estate? These are some of the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ngkJKJOYcKA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ngkJKJOYcKA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ngkJKJOYcKA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kris Krohn - Limitless TV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/1U_rfY_SYYRtefrekDVL5vTjLXw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3Z1LMvyzUYk"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-17T23:43:17.000Z",
+                "channelId": "UCUvvj5lwue7PspotMDjk5UA",
+                "title": "20 Steps: 0 to RICH in Real Estate",
+                "description": "Hack the banks -- take advantage of what the United States offers YOU in terms of financing! Dave Ramsey might disagree, but here's a a quick overview of 20 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3Z1LMvyzUYk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3Z1LMvyzUYk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3Z1LMvyzUYk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Meet Kevin",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NYSdUWqLdESYHJq4JU0X4_YGD8A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fTuG40zFxG8"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-15T20:00:01.000Z",
+                "channelId": "UCV6KDgJskWaEckne5aPA0aQ",
+                "title": "The Real Estate Investor who has over 80 tenants paying him EVERY MONTH!",
+                "description": "Matt McKeever is a real estate investor in London Ontario, Canada who's quickly built up a portfolio of 16 rental properties - and over 80 tenants paying him rent ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fTuG40zFxG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fTuG40zFxG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fTuG40zFxG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Graham Stephan",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Co0mopF3dirp7gDb3vZG0kbnBBY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9hQKaByKb9c"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T17:00:01.000Z",
+                "channelId": "UC70MCjtX9GKDyPXwKSWOkWQ",
+                "title": "The Dichotomy Of Leadership | How It Relates To Real Estate Investing",
+                "description": "Want to learn how Navy Seals lead their teams, and how that can transform your business? You need to watch this today. Find out exactly how to get higher ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9hQKaByKb9c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9hQKaByKb9c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9hQKaByKb9c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tax Lien Certificate School",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}

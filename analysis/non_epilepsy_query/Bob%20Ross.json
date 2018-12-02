@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/rCFcvkMNjaXDD-PEGPABQZxfo5o\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kVnAWV7o5JfNwoKESYdyQCaflYg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VFcJSmgM_ck"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-25T17:13:35.000Z",
+                "channelId": "UCap97Ue8K_BpKlrvQRYd6JA",
+                "title": "Following A Bob Ross Painting Tutorial",
+                "description": "click to join the #prettylittlelaurs fam!! http://bit.ly/2bIXkpJ \u2702 SHOP LAURDIY PRODUCTS: http://laurdiy.com/ omg I bob rossed.... lol. Let me know in the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VFcJSmgM_ck/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VFcJSmgM_ck/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VFcJSmgM_ck/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LaurDIY",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dh2rQHtDdabigJF1eR23hS3dx_A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-ZW-ZnQoj5g"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-13T09:11:54.000Z",
+                "channelId": "UC9gFih9rw0zNCK3ZtoKQQyA",
+                "title": "Following A Bob Ross Painting Tutorial",
+                "description": "Please subscribe to my channel and my vlog channel! I make new videos here every Wednesday and make vlogs during my majestical daily life.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-ZW-ZnQoj5g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-ZW-ZnQoj5g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-ZW-ZnQoj5g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JennaMarbles",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/t9n9iBbOOgjoAw1cJo5dmQYQGvU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ACoyRGDkd2A"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T01:00:03.000Z",
+                "channelId": "UCZ4j054qqhF_J0oSFDdDWlA",
+                "title": "Following a Bob Ross Tutorial with my Twin Brother! (Drew Phillips)",
+                "description": "This was a disaster... for me at least! Lol DREW'S VIDEO: https://www.youtube.com/watch?v=rkewvUbZKmg twitter\u2661: ayexmadeline instagram\u2661: ayexmadeline ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ACoyRGDkd2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ACoyRGDkd2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ACoyRGDkd2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ayexmadeline",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hzzGCHMvBUvR5yDPSy7vURdV-E4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vqt5YB11c1c"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-08T21:43:55.000Z",
+                "channelId": "UCCFVYozQjMVOjkSTbBVK_3Q",
+                "title": "I follow a Bob Ross painting tutorial with only audio",
+                "description": "I tried following a Rob Boss painting tutorial using just the audio because I'm a pleeb. Check out my other videos! REACTING TO ANTI-GAY COMMERCIALS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vqt5YB11c1c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vqt5YB11c1c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vqt5YB11c1c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MacDoesIt",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yhAj3TFxBCJmyzOClzfp9eXmW2E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0x8Njz3UxNk"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-15T05:49:50.000Z",
+                "channelId": "UCiIFLzjBUX5WpkVqVDVWMTQ",
+                "title": "Following a Bob Ross Painting Tutorial with Liza",
+                "description": "WATCH THE 200TH VIDEO HERE!! - https://youtu.be/71EnmYFe6SI BUY NEW MERCH HERE: https://www.swipeupinc.com/collections/zane-hijazi Liza and I ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0x8Njz3UxNk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0x8Njz3UxNk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0x8Njz3UxNk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zane Hijazi",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nBQHwNw3Qsx_UeXth0A1E55q8R4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "26XoeKq3Ics"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-04T18:00:00.000Z",
+                "channelId": "UCWlIGsKGsvgFJHkiZml4O1A",
+                "title": "The Untold Truth Of Bob Ross",
+                "description": "If you're new, Subscribe! \u2192 http://bit.ly/Subscribe-to-Grunge Bob Ross. Just his name brings a calm. The soft-spoken painter who didn't make mistakes, only ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/26XoeKq3Ics/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/26XoeKq3Ics/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/26XoeKq3Ics/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Grunge",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/T1IPnW7huDohysLgNPZZudFA51E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rkewvUbZKmg"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T01:00:23.000Z",
+                "channelId": "UCXcn2mBqcdqe6EwsBFrJmDA",
+                "title": "following a bob ross tutorial tripping on mushrooms w/ my twin sister",
+                "description": "madelines video: https://www.youtube.com/watch?v=ACoyRGDkd2A click \"open more\" business inquires: Drewphillipsbusiness@gmail.com (\u273f\u25d5 \u203f\u25d5\u0e3a)\u30ce))\u3002",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rkewvUbZKmg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rkewvUbZKmg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rkewvUbZKmg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "drew phillips",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4T2N4RNl4d8JpphBjKas0C3BoKY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3Vzk-iptndw"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T21:27:04.000Z",
+                "channelId": "UCNX3rMfnBOCWnHyyQdU2ymQ",
+                "title": "Bob Ross Banned Me on YouTube!! 90 Days Live Stream Ban",
+                "description": "Become my \"Lazy Peon\" by subscribing here: https://www.youtube.com/c/Lazypockets ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3Vzk-iptndw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3Vzk-iptndw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3Vzk-iptndw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LazyPocketz",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ESVTV3tGPWX36iwXeB3-ARVoRHs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5uazthebp8Y"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-27T22:30:51.000Z",
+                "channelId": "UCghooJjCGtg2Kw2PSB9B0NA",
+                "title": "Following A Bob Ross Painting Tutorial With ONLY AUDIO",
+                "description": "Today I'm going to be following a Bob Ross painting tutorial with ONLY AUDIO. So I have no idea what he's painting, I can only guess lol NEW Unicorn Slime: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5uazthebp8Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5uazthebp8Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5uazthebp8Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jessii Vee",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HC3K4TRhSl66yIBj0NsZ7O83J_U\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "40Ir-s0bfL0"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-31T23:26:44.000Z",
+                "channelId": "UCuYL2N4lBOtb_p3txmad9XQ",
+                "title": "Tyler1 Bob Ross funny stream highlights",
+                "description": "stutter LUL.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/40Ir-s0bfL0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/40Ir-s0bfL0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/40Ir-s0bfL0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Claude",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/bD9xJeLZXUs337P11HvkoyxiCNU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u5rtxBu6QNw"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-13T12:54:32.000Z",
+                "channelId": "UCxiWERk7dyCC9gwHS1gmIjQ",
+                "title": "Krita - Painting in the style of Bob Ross",
+                "description": "Again a short timelapse video where i tested my new brushset Environments 2.0 for the wonderful free and open source painting software Krita. You can ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u5rtxBu6QNw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u5rtxBu6QNw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u5rtxBu6QNw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "iforce 73",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/bKR2ErSxpwle7MPisbjgAuAQ8Ns\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p-GbmVo9fRM"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-08T19:00:06.000Z",
+                "channelId": "UCaWd5_7JhbQBe4dknZhsHJg",
+                "title": "Top 10 Facts About Bob Ross",
+                "description": "Top 10 Facts About Bob Ross Subscribe: http://goo.gl/Q2kKrD // Have a Top 10 idea? Submit it to us here! http://watchmojo.com/my/suggest.php He may have ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p-GbmVo9fRM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p-GbmVo9fRM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p-GbmVo9fRM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WatchMojo.com",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8CCkIDEnhUZrtchYBNpZwN6t0AQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qK1KwBaMVDc"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-23T23:04:23.000Z",
+                "channelId": "UCSmUMOEPlAfAzbXIVuXso2w",
+                "title": "I TRIED TO FOLLOW A BOB ROSS PAINTING TUTORIAL BLINDFOLDED!!!",
+                "description": "Art challenge, anyone?! FOLLOW ME ON MY PATH & SUBSCRIBE: https://www.youtube.com/throughryanseyes *TURN ON MY POST NOTIFICATION FOR ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qK1KwBaMVDc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qK1KwBaMVDc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qK1KwBaMVDc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Through Ryan's Eyes",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/72f35w_pDK3Wrnxbfoz40OWGsVk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sS9V_Zx-FjM"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-13T22:59:02.000Z",
+                "channelId": "UC2rScBVAJSkL4qXn-27t80A",
+                "title": "Siguiendo Una Pintura De BOB ROSS",
+                "description": "No es por agrandarme pero, Dal\u00ed un poroto al lado mio. Empece a decorar mi habitacion pegando posters en la pared porque ahora que soy Youtuber le tengo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sS9V_Zx-FjM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sS9V_Zx-FjM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sS9V_Zx-FjM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Angie Velasco",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/q5XzVCHL4OtkfMpb02AlJ4hoYqM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MCxxvb_wpt0"
+            },
+            "snippet": {
+                "publishedAt": "2015-11-05T01:30:01.000Z",
+                "channelId": "UCneC60ueLDbk6NVzMHUUhKg",
+                "title": "Bob Ross Adventure",
+                "description": "Bob Ross Adventure - Can you paint happy trees like Bob Ross from the Joy of Painting with no painting experience at all? ***OUR YouTube CHANNELS*** ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MCxxvb_wpt0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MCxxvb_wpt0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MCxxvb_wpt0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Carl & Jinger Family",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/i3tUTe--3cvRmx0qg474KpEkBJo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pJ8Qa1FNMx0"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-29T20:51:58.000Z",
+                "channelId": "UChjgbWckrYgDYh8YJhOlrxQ",
+                "title": "A trip to the Bob Ross....\"The Joy of Painting\" Artist Gallery & Workshop New Smyrna Beach, Florida",
+                "description": "The iconic Bob Ross The Happy Little Painter whose tv series of amazing 30 minute painting segments with his wonderful soothing voice...A trip back in time for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pJ8Qa1FNMx0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pJ8Qa1FNMx0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pJ8Qa1FNMx0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thrifting 101...Identify & Buy! Vintage Glassware",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/e7ZFicriT_v0L3WxxNcPrxTN0BE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H6t7n7tLE4o"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-25T18:54:12.000Z",
+                "channelId": "UCbZgDzTkBQMkPWYBFESJ3sQ",
+                "title": "Miniature Bob Ross Painting Challenge / That YouTub3 Family",
+                "description": "We take our painting skills to the next level and try to paint super small paintings that are just like Bob Ross paintings. We are That YouTub3 Family! We like to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H6t7n7tLE4o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H6t7n7tLE4o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H6t7n7tLE4o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "That YouTub3 Family",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/x27OqrHcVKZ6yCqlWn-LvbXBP4E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "l21qoE42ilg"
+            },
+            "snippet": {
+                "publishedAt": "2015-03-25T19:06:59.000Z",
+                "channelId": "UCxcnsr1R5Ge_fbTu5ajt8DQ",
+                "title": "Bob Ross: Warm Winter Days",
+                "description": "Bob Ross - The Joy of Painting - Season 20 is now available on iTunes! http://bit.ly/iTunesBobRoss Subscribe for full length episodes!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l21qoE42ilg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l21qoE42ilg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l21qoE42ilg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bob Ross",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3Zit26Zprel3NaKeAXFpmhn8Bi4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mpDOVajzlV4"
+            },
+            "snippet": {
+                "publishedAt": "2016-01-13T14:00:05.000Z",
+                "channelId": "UCLMLTE5R-LR26VKfnaDQtEA",
+                "title": "How To Paint with Dayvin Ross",
+                "description": "Learn how to paint beautiful landscape paintings with Dayvin Ross, and be the envy of your friends! Subscribe for new, funny videos every Wednesday!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mpDOVajzlV4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mpDOVajzlV4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mpDOVajzlV4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nuclear Family",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Oz87hGYn1214DuPYiUrsDzYpl-E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_oSXYCEdMHQ"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-09T15:55:41.000Z",
+                "channelId": "UCFg0IrcSMbxzPPPaPRpuMag",
+                "title": "Bob Ross Had a Bad Night",
+                "description": "Bob gets a little too personal in this episode... www.robmarnell.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_oSXYCEdMHQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_oSXYCEdMHQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_oSXYCEdMHQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Foggy Joggans",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/uYNHE6gugr-cyzG_FIJLsMVIEIw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W5idfW6LJws"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-10T22:05:33.000Z",
+                "channelId": "UCItAnWpuUZOEr4HXjkTBxcA",
+                "title": "Bob Ross all intro in the Joy on Painting [*FullHD*]",
+                "description": "Joy the Painting [1-31 seasons + instructional series]",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W5idfW6LJws/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W5idfW6LJws/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W5idfW6LJws/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041c\u0430\u0442\u044e\u0445\u0438\u043d MSA_21",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VBGapqbUqAxUn7p37XyCSwTqRGk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NjWgOsIAd3k"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-25T23:52:42.000Z",
+                "channelId": "UC6Z2Lct3JNgjjz7he14xACg",
+                "title": "How to play Bob Ross: Art of Chill Game in 6 minutes",
+                "description": "How to play Bob Ross: Art of Chill Game, designed by Prospero Hall For an alphabetical list of my videos: http://bit.ly/2vlymoz ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NjWgOsIAd3k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NjWgOsIAd3k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NjWgOsIAd3k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Teach The Table",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nszyjgsIIqalqk93z7uxBFbHPFw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0b41gEy2PMY"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-26T16:00:00.000Z",
+                "channelId": "UC3v6sjWuPxtW36jQ-if4OuA",
+                "title": "PAINTING THE SMALLEST BOB ROSS PAINTING!",
+                "description": "Happy little dooders..everywhere!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0b41gEy2PMY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0b41gEy2PMY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0b41gEy2PMY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Imbrandonfarris",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/O_h425sBsUbsQw1W6mLyrMNak70\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8Y3QUkjzPCQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-15T21:58:21.000Z",
+                "channelId": "UCqf_ls6ic8DUD_-lAPAUWkg",
+                "title": "Bob Ross Knife Only #10",
+                "description": "this is not my content. i just edited all the knife parts out of 2 episodes.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Y3QUkjzPCQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Y3QUkjzPCQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Y3QUkjzPCQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Asmr Before sleep",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/C2SHEoonfR9NdVINefX5FBEJuAM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jfFzcKc2gk4"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-22T01:53:32.000Z",
+                "channelId": "UCUfF2SXdGNXmi1XcZoqj8oQ",
+                "title": "Painting A Bob Ross Painting As Bob Ross On A Bob Ross Painting!",
+                "description": "SUBSCRIBE!: http://bit.ly/SubCraigThompson Gaming Channel: http://bit.ly/SubMiniLaddd Friends in this video: fourzer0seven: http://bit.ly/1YXyFLX Ty: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jfFzcKc2gk4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jfFzcKc2gk4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jfFzcKc2gk4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Craig Thompson",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/le2CUNVCu77rzPjvHCi1t2WMdso\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "x-PNbQZdteU"
+            },
+            "snippet": {
+                "publishedAt": "2011-10-27T02:17:15.000Z",
+                "channelId": "UCey6cVqRSmxadBxklfRvI6w",
+                "title": "Bob Ross Painting Technique - Mountain, Sea and Clouds [time lapse]",
+                "description": "Please like, share, subscribe and check out my other videos :) The music is produced by me, you can hear more..here: www.soundcloud.com/octavenoize ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x-PNbQZdteU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x-PNbQZdteU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x-PNbQZdteU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "octavenoize",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BA-sXU0ywNIAeq2r2NcKG0tEubs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ym4EFS-Fxuw"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-24T15:52:21.000Z",
+                "channelId": "UCOy7wLmQZUFkin51jcSxR3A",
+                "title": "Bob Ross Palette Knife Review",
+                "description": "Bob Ross Oil Painting Palette Knife On the hunt for a oil painting palette knife that will work best for your wet on wet oil painting needs? The Bob Ross palette ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ym4EFS-Fxuw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ym4EFS-Fxuw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ym4EFS-Fxuw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Wild4Games",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/WoXWSxUt8bco6XBHAYqZF6BzQnE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nsRDJLu8CaA"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-26T15:13:45.000Z",
+                "channelId": "UCIVMFp3Q63W5ZadePkTIKdA",
+                "title": "Following a Bob Ross Painting Tutorial",
+                "description": "For this video, I'll be following a Bob Ross painting tutorial. I've wanted to do this for awhile now and I'm so happy I finally got to get to try it out. It was definitely ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nsRDJLu8CaA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nsRDJLu8CaA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nsRDJLu8CaA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Twiggy Vittoria",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/eWHPa1Y5MsVdcNlsWIZBIK8e68s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "drBJIeBmvGc"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-29T21:49:01.000Z",
+                "channelId": "UCGP7x_9GxBTGQst5xhAOf3g",
+                "title": "following a BOB ROSS PAINTING TUTORIAL",
+                "description": "Picasso could never.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/drBJIeBmvGc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/drBJIeBmvGc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/drBJIeBmvGc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "goodluckfabio",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/survBZh8iWAOvJQU19Pd5Usvsr8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4DhThev8jKw"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-28T20:41:34.000Z",
+                "channelId": "UCj652ImjbL9nL9yLhBdEOCw",
+                "title": "Halloween - Dressing up as Bob Ross",
+                "description": "G'day all MrPaladin here. I've often been named the Bob Ross of TF2. Lets take it a step furthur today and paint a happy little picture with the enemies blood as I ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4DhThev8jKw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4DhThev8jKw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4DhThev8jKw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MrPaladin",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/26ZlxQ9cldiublCrZ9m4JqcJi_s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5P5bNAjHyFw"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-09T18:05:30.000Z",
+                "channelId": "UCKy8UiG_NjxDl581q1sU5zw",
+                "title": "I Tried Following The HARDEST Bob Ross Tutorial..",
+                "description": "PART ONE: I FOLLOW A BOB ROSS TUTORIAL https://www.youtube.com/watch?v=EVmtSBoLq8M Just as a disclaimer, if I make a joke or complain, its no ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5P5bNAjHyFw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5P5bNAjHyFw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5P5bNAjHyFw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SuperRaeDizzle",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mFaAjxKGM7cnxiHXQHwfWkejnDw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fk0_N2PDbkU"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-21T19:55:45.000Z",
+                "channelId": "UCbZgDzTkBQMkPWYBFESJ3sQ",
+                "title": "Bob Ross Face Painting Challenge / That YouTub3 Family",
+                "description": "We try to create a Bob Ross Masterpiece on our partners face! Let us know who you think did the best face painting job. We are That YouTub3 Family! We like to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fk0_N2PDbkU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fk0_N2PDbkU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fk0_N2PDbkU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "That YouTub3 Family",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5utIIEWsJ64BxnZXTByFWDZPpfo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GFDzTGyHlBA"
+            },
+            "snippet": {
+                "publishedAt": "2016-08-03T20:20:33.000Z",
+                "channelId": "UCs1APU4_lj3PgZz2B4HeadA",
+                "title": "Bob Ross Remixed Happy Little Clouds REACTION!!",
+                "description": "Eric and Aaron react to and discuss Bob Ross Remixed | Happy Little Clouds Watch it here: https://www.youtube.com/watch?v=YLO7tCdBVrA Enjoy our stuff and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GFDzTGyHlBA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GFDzTGyHlBA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GFDzTGyHlBA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Blind Wave",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/12Tduc0sMPFVFQ2ENkvOvp4ZH6s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BdQ5wBoirzg"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-08T22:04:01.000Z",
+                "channelId": "UCbC7fK_u7HN88xZK2R8KOmQ",
+                "title": "PAINTING WITH BOB ROSS // WITH MICROSOFT PAINT",
+                "description": "I take on the Bob Ross challenge, with MS Paint! Please remember to like, share and comment. It helps me out so much! I'm also available on other social ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BdQ5wBoirzg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BdQ5wBoirzg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BdQ5wBoirzg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Captain Falcore",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UaO-fzNp8EljykFjrFMzAWyUX1s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d0M_0M0JjyQ"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-13T20:00:02.000Z",
+                "channelId": "UC0EdF6nBOmGb1mbiYrtkjQg",
+                "title": "Men Try Bob Ross - Valley View Painting",
+                "description": "Today we embark on a journey of inner peace; channeling our inner Bob Ross while painting his always popular Valley View scene. We hope this video brings ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d0M_0M0JjyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d0M_0M0JjyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d0M_0M0JjyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Men Try Videos",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8XGuFa4Xf3izJZTsZPIuHwCdmuY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Dnr0gLEmhvw"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-30T13:48:09.000Z",
+                "channelId": "UCwBnBiqsWTSpgRnX08wweYQ",
+                "title": "Twitch Chat meets Bob Ross",
+                "description": "\"32 year stream delay\" \"RUINED\" \"WHY\" \"Kreygasm\" Never change, chat.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Dnr0gLEmhvw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Dnr0gLEmhvw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Dnr0gLEmhvw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TimesTwo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5wiK33-do2uzPg_-yY8s4b7BSmM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EI4HQz-Y1_U"
+            },
+            "snippet": {
+                "publishedAt": "2012-12-25T09:15:01.000Z",
+                "channelId": "UCbXmNtCMC8G35CO3Olw8jCw",
+                "title": "Bob Ross Time Lapse   YouTube",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EI4HQz-Y1_U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EI4HQz-Y1_U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EI4HQz-Y1_U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "karwan kalary",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ezlAV0lKmsM0AWv5Qu_8e_I5SI8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BxyB4EswoZU"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-12T17:00:07.000Z",
+                "channelId": "UCOy7wLmQZUFkin51jcSxR3A",
+                "title": "Bob Ross Liquid White Review",
+                "description": "Bob Ross Liquid White Review Bob Ross Magic White Review Liquid or Magic White is one of the best tools out there for anyone looking to paint like Bob Ross ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BxyB4EswoZU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BxyB4EswoZU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BxyB4EswoZU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Wild4Games",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/bRFYq2agqdhXgsey5Lk0WfNPZXc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6wEkT1od3f0"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-21T11:01:41.000Z",
+                "channelId": "UCeWztYwRgC0I8jH_T_jNGaA",
+                "title": "OLMS - Bob Ross (VIDEOClip HD/HQ)",
+                "description": "OLMS - Bob Ross (2017) OLMS/ Dennis Hudson , Darkwave electronic ,experimental Detroit Michigan, https://olms.bandcamp.com/music ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6wEkT1od3f0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6wEkT1od3f0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6wEkT1od3f0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PIPER WAVE Underground Music Video",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xc9lsaxkwFnRSgIU_1hT2FjRafo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PzQviUtxjyc"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-02T17:44:24.000Z",
+                "channelId": "UCF4kiFq62VbPtctbeZ_Ykrw",
+                "title": "Bob Ross Master Paint Set | Unboxing and Review | Bob Ross Tutorial",
+                "description": "Thanks for watching where to get the Bob Ross Master Paint Set ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PzQviUtxjyc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PzQviUtxjyc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PzQviUtxjyc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Luz Galmiche",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-oNkgG2craiaq5WX9HQBdC9fxZo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7GW5sNN27rA"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-14T11:44:25.000Z",
+                "channelId": "UCbVC6WBmLrcFBgI4E5cW1iQ",
+                "title": "i tried (and failed) to follow a bob ross tutorial ep.1",
+                "description": "Picasso who? Chill & chat with me and watch me take 3 hours to do a 27 minute Bob Ross painting tutorial and fail miserably. \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2736 MY LINKS \u2736...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7GW5sNN27rA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7GW5sNN27rA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7GW5sNN27rA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "itsdivya",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fAYdB0diejB4hx7xnO9fC02rcdQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qRtWY7ay460"
+            },
+            "snippet": {
+                "publishedAt": "2015-11-11T16:00:03.000Z",
+                "channelId": "UCNPlSBggCmH8FJiMC2FYYpQ",
+                "title": "Minecraft Build Off #79 - BOB ROSS",
+                "description": "Abonneer gratis \u21aa http://bit.ly/SubscribeDHD \u27a4 Vorige video: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qRtWY7ay460/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qRtWY7ay460/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qRtWY7ay460/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DagelijksHaaDee",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3CpE7kSGOiRF0C_Up88neTnrzTw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Pb30QZJdqE4"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-21T15:00:01.000Z",
+                "channelId": "UCN98z0HLI504R0jGqfEC9Zw",
+                "title": "Renegades React to... Epic Rap Battles of History - Bob Ross vs. Pablo Picasso",
+                "description": "Like the video? Subscribe! \u25bb https://www.youtube.com/channel/UCN98z0HLI504R0jGqfEC9Zw Original Video: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pb30QZJdqE4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pb30QZJdqE4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pb30QZJdqE4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Renegade Media Group",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Sm-npW0Zsh9t0hGnIXJhWWXQCB0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2tEgHHz0qtE"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-18T00:29:09.000Z",
+                "channelId": "UC-n8gmaQ41OIR7uaXcw9pUA",
+                "title": "Bob Ross Painting in MS Paint - Speedart",
+                "description": "I decided to follow along Bob Ross in creating a painting with a bit of a catch - I used MS Paint in place of actual tools. The final product was not as great as some ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2tEgHHz0qtE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2tEgHHz0qtE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2tEgHHz0qtE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OnceUponAnIndie",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OCByrgprNcQUxURZhtDhWXLDchs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0Yb68bvwMLw"
+            },
+            "snippet": {
+                "publishedAt": "2013-07-11T03:20:27.000Z",
+                "channelId": "UC1z4FrlDCTrMwaGDXimJK2g",
+                "title": "Bob Ross-\u30dc\u30d6\u306e\u7d75\u753b\u6559\u5ba4 \uff5e\u30d1\u30b9\u30c6\u30eb\u8272\u306e\u6d77\uff5e\u30002\uff0f2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0Yb68bvwMLw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0Yb68bvwMLw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0Yb68bvwMLw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "From 2013",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TltLlemJKISziTHYXnLpH1EMC7s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v-ikkpyX5NQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-13T08:00:08.000Z",
+                "channelId": "UCwQXm0Q8qnoBAVQaZo82Umg",
+                "title": "BOB ROSS \u0130LE RES\u0130M E\u011e\u0130T\u0130M\u0130 | Following A Bob Ross Painting Tutorial",
+                "description": "\u00c7ok k\u0131sa zamanda do\u011fa resimleri yap\u0131p ailemizin ressam\u0131 rahmetli Bob Ross'a meydan okuyorum! :) Evet bu \u201cchallenge\u201d\u0131m yapt\u0131\u011f\u0131m en zorlu challenge belki ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v-ikkpyX5NQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v-ikkpyX5NQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v-ikkpyX5NQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "G\u00fclse G\u00f6\u00e7er",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PiSfvQ8IuumV9Jj0jxzfHZuFmdA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v49NyGh1BOo"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-04T22:00:03.000Z",
+                "channelId": "UCd6WAfcm_fiRtTNlqSWGhqg",
+                "title": "DANCING WITH BOB ROSS! | Friday the 13th Game (Funny Moments) #7",
+                "description": "We return to paint happy little trees! Make sure you leave a like to support the channel! MOAR Friday the 13th! \u27a1 http://bit.ly/2rAlRDV Subscribe ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v49NyGh1BOo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v49NyGh1BOo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v49NyGh1BOo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "dlive22891",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2W1E07U3K0u7XvkZkch74uQGvmE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QqwoN6FXYk8"
+            },
+            "snippet": {
+                "publishedAt": "2012-07-04T22:33:30.000Z",
+                "channelId": "UCw85i7GOCTyKqE7Jh_PnC3Q",
+                "title": "Bob Atroz - Pintando un Banco",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QqwoN6FXYk8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QqwoN6FXYk8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QqwoN6FXYk8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "hh3105",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Xl4PUbooIM4CtstCFgc0qy8bdfY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JofeYchy0-k"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-08T00:27:38.000Z",
+                "channelId": "UCLTV1mbEttt-OuJh9PfpddA",
+                "title": "How to paint Bob Ross mountains with acrylic paint",
+                "description": "How to paint Bob Ross mountains using water based paint.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JofeYchy0-k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JofeYchy0-k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JofeYchy0-k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Evan Jones Art",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YgUONttpo4EPR4xOIc88oQqFijk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rpZjgBen8GU"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-02T21:01:19.000Z",
+                "channelId": "UC-kOXc3gBwksVfmndSEz7jg",
+                "title": "BOB ROSS IS SHOOTING HAPPY LITTLE BULLETS AT US!! - PUBG Funny Moments & Fails! (Battlegrounds)",
+                "description": "Thanks for watching! LIKE the video if you enjoyed and always leave comments, I read them all! :D Thanks for your support! Follow me on twitter: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rpZjgBen8GU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rpZjgBen8GU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rpZjgBen8GU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "I AM WILDCAT",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wKrS6eFg2Beq-Optrppx6AwAdfU\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/A9egitCIcRuvHmSUhP4m8-7zar0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dijG95ki5IY"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-26T19:45:02.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Amazing Barbers Skills Compilation #109",
+                "description": "Arefni market on Amazon https://www.amazon.com/shop/influencer-60da0a01 The Barbers in this video : @shelwinijafet Seminarian and Professional Educator ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dijG95ki5IY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dijG95ki5IY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dijG95ki5IY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/O2hUtqX1FHAQrCWFoTiBxhSu7KU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ei9hfxHaLt0"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-25T21:30:05.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Amazing Haircut Designs and Hairstyles # 103",
+                "description": "Arefni market on Amazon https://www.amazon.com/shop/influencer-60da0a01 Will be happy when you visit our shop https://teespring.com/arefni The Barbers in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ei9hfxHaLt0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ei9hfxHaLt0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ei9hfxHaLt0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/haHgi9anCPd-kWB4hFbuAVzjRJY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AwTYgqwJNpw"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-09T14:38:07.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Amazing Barber Skills Compilation #94",
+                "description": "The Barbers in this video : @wester_barber Elegance ambassador TEXT (787)565-4056 Los Angeles California Hollywood www.elegancestudio.com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AwTYgqwJNpw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AwTYgqwJNpw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AwTYgqwJNpw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dbY7dWIDIYOS0IXioDWJouTcjD4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OXPoQxDoulg"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-15T19:48:31.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Amazing Barbers Skills Compilation #106",
+                "description": "Arefni market on Amazon https://www.amazon.com/shop/influencer-60da0a01 Will be happy when you visit our shop https://teespring.com/arefni The Barbers in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OXPoQxDoulg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OXPoQxDoulg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OXPoQxDoulg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/AJuPoC9G9RNbi3F0R7_ENnBq2AY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "etXKwFdYICs"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-16T18:48:11.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Amazing Haircut Designs and Hairstyles # 108",
+                "description": "Arefni market on Amazon https://www.amazon.com/shop/influencer-60da0a01 The Barbers in this video : @wester_barber Elegance ambassador TEXT ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/etXKwFdYICs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/etXKwFdYICs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/etXKwFdYICs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7jjdbbSGQk0WFbNC3uEprk2yDV0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "smoWHOMWGFM"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-17T19:23:36.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Oddly Satisfying Barbers Skills #102",
+                "description": "Arefni market on Amazon https://www.amazon.com/shop/influencer-60da0a01 Will be happy when you visit our shop https://teespring.com/arefni @dratillakaya ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/smoWHOMWGFM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/smoWHOMWGFM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/smoWHOMWGFM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yiE9LW53VoSKOnZ-tXWCX0s1DkU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EP4BTu9ls-0"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-16T18:19:47.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Amazing Barbers Skills Compilation #99",
+                "description": "Arefni market on Amazon https://www.amazon.com/shop/influencer-60da0a01 The Barbers in this video : @wester_barber Elegance ambassador TEXT ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EP4BTu9ls-0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EP4BTu9ls-0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EP4BTu9ls-0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/N85jDcMLvik-4A8gqOrmRXV2f4Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Gd6IpAE95_Y"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-19T10:54:57.000Z",
+                "channelId": "UC0E0XbM_QyPRkwjQRlFqLhg",
+                "title": "CRAZY FEMALE BARBERS \ud83d\udc88\ud83d\udc69\u2702\ufe0f SKILLS LEVEL 999\ud83d\udd25 SICK MEN HAIRCUTS",
+                "description": "Subscribe and activate the \"  \" to make sure that you will never miss any VIDEO! Songs: Veorra - Save Me https://youtu.be/yy9HAA5ODJA Veorra - Run ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Gd6IpAE95_Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Gd6IpAE95_Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Gd6IpAE95_Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Men's Corner",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/i11uo6iEf5J84jMWdI19xuArwJw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "72_zMZxzS6s"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-23T14:21:23.000Z",
+                "channelId": "UCQGNygz_tRt1dgss8-Wya7g",
+                "title": "\u2702\ufe0f\ud83d\udc88 BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's",
+                "description": "BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's - Thanks for subscribing!! LIKE & SHARE . Turn on the notification bell to be ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/72_zMZxzS6s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/72_zMZxzS6s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/72_zMZxzS6s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MUMMY CHANNEL",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OJF6vVtezYLMb4QLIve4AgfJav4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VjLhORaemZc"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-10T18:06:21.000Z",
+                "channelId": "UCYenDLnIHsoqQ6smwKXQ7Hg",
+                "title": "THESE BARBERS MAKE MIRACLES! DO YOU WANT THE SAME?",
+                "description": "For copyright matters please contact us at: Copymanager.mn@gmail.com TechZone \u25bb https://goo.gl/Gj3wZs Do you know who a barber is? It's not just the name ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VjLhORaemZc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VjLhORaemZc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VjLhORaemZc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "#Mind Warehouse",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aktPPdh4pdaJba7-U7Q683pqXP8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0JWu5vNpqyQ"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-01T21:02:10.000Z",
+                "channelId": "UC9deX25Xus0U-Znt3_ILSpw",
+                "title": "10 TOP THINGS BARBERS HATE REACTION",
+                "description": "Follow me on Instagram: https://www.instagram.com/360jeezy/ To Purchase The Tools I Use In This Video: Oster Fast Feed: http://amzn.to/2DhZ4ir Andis GTX: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0JWu5vNpqyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0JWu5vNpqyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0JWu5vNpqyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "360Jeezy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BAFDE7Nl3jaLPAxs_z1z0GZ_XoU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uvs82RGOQg4"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-17T13:30:02.000Z",
+                "channelId": "UCQGNygz_tRt1dgss8-Wya7g",
+                "title": "\u2702\ufe0f\ud83d\udc88 BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's",
+                "description": "BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's - Thanks for subscribing!! LIKE & SHARE . Turn on the notification bell to be ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uvs82RGOQg4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uvs82RGOQg4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uvs82RGOQg4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MUMMY CHANNEL",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/doCWwmAfG3i5vw_EshR66lhZeVw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EevMOBMQeC0"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-27T21:22:38.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Amazing Barbers Skills Compilation #107",
+                "description": "Arefni market on Amazon https://www.amazon.com/shop/influencer-60da0a01 The Barbers in this video : @shelwinijafet Seminarian and Professional Educator ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EevMOBMQeC0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EevMOBMQeC0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EevMOBMQeC0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JSg6qW0LXwlOALAt0400RN4BiDM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1VbQZBNzvRw"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-05T21:34:04.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Oddly Satisfying Barbers Skills #101",
+                "description": "Arefni market on Amazon https://www.amazon.com/shop/influencer-60da0a01 Will be happy when you visit our shop https://teespring.com/arefni @dratillakaya ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1VbQZBNzvRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1VbQZBNzvRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1VbQZBNzvRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/78FtS8bKWdOU2bQcBlAitv-U400\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ke0ufcsbyvU"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-20T15:38:08.000Z",
+                "channelId": "UCfIvleu7Cb_iDvt4BJyJ8GQ",
+                "title": "Best Barbers in The World /Barbershop U.S.A 2018/ Haircut Hairstyle",
+                "description": "Subscribe / Share / Comment / Like / buy products that have been in the video from amazon.es / HERE : http://amzn.to/2y0lXbT Download music from the video ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ke0ufcsbyvU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ke0ufcsbyvU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ke0ufcsbyvU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Barberos Conectados HD",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0vVp775Qe64ft70zenLfyRn3Hok\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JqswT5jFD-w"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-11T14:03:04.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Cool and Popular Hairstyle #69",
+                "description": "Enjoy With Amazing Barber Skills Track: Cartoon - On & On (feat. Daniel Levi) [NCS Release] Music provided by NoCopyrightSounds. Watch: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JqswT5jFD-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JqswT5jFD-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JqswT5jFD-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MbJQ6aKuQ2sMSgiqGosFdU1J4DA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bLBZhXBrdsk"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T14:10:54.000Z",
+                "channelId": "UC0E0XbM_QyPRkwjQRlFqLhg",
+                "title": "Best Barbers in The World \ud83c\udf0d\ud83d\udc88 Crazy Barber Skills \ud83d\udd25",
+                "description": "Subscribe and activate the \"  \" to make sure that you will never miss any VIDEO! Music: Track: Andromedik - Titan [NCS Release] Music provided by ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bLBZhXBrdsk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bLBZhXBrdsk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bLBZhXBrdsk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Men's Corner",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5XT7OdcCtFNYAisQd-XkouLI0Kk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mudrN8kj1JE"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-03T16:31:40.000Z",
+                "channelId": "UC9deX25Xus0U-Znt3_ILSpw",
+                "title": "BARBERS GONE WILD REACTION 16",
+                "description": "Follow me on Instagram: 360Jeezy https://www.instagram.com/360jeezy/ Channel Donations: https://www.paypal.me/360Jeezy To Purchase The Tools I Use In ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mudrN8kj1JE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mudrN8kj1JE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mudrN8kj1JE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "360Jeezy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/eWNevz2rMbe-rPf6jesmxQIVJRE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IUDTlvagjJA"
+            },
+            "snippet": {
+                "publishedAt": "2007-05-05T23:39:01.000Z",
+                "channelId": "UCPOHp2g7UhEOgpyJVhg3Njg",
+                "title": "Virtual Barber Shop (Audio...use headphones, close ur eyes)",
+                "description": "You'll need headphones for this to work. Make sure there is no noise around, close your eyes, turn the volume up a little bit, hold and press headphone on your ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IUDTlvagjJA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IUDTlvagjJA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IUDTlvagjJA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LovelyVirus",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tophiJz6dlmVsbHPHUXqA3lSE78\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ee18t10ZNUM"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-13T13:30:00.000Z",
+                "channelId": "UCQGNygz_tRt1dgss8-Wya7g",
+                "title": "\u2702\ufe0f\ud83d\udc88 BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's",
+                "description": "BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's - Thanks for subscribing!! LIKE & SHARE . Turn on the notification bell to be ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ee18t10ZNUM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ee18t10ZNUM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ee18t10ZNUM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MUMMY CHANNEL",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HbAmBuL1wPrmhkWSSjx500hDRPw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uaYDtVOhzEQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-02T19:11:33.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Amazing Barbers Skills Compilation #100",
+                "description": "Arefni market on Amazon https://www.amazon.com/shop/influencer-60da0a01 Will be happy when you visit our shop https://teespring.com/arefni The Barbers in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uaYDtVOhzEQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uaYDtVOhzEQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uaYDtVOhzEQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2oMcDey6sYHUGqo2z7K1rdCFlAE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0za4XMq9W8U"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-07T15:00:01.000Z",
+                "channelId": "UCm0f2zUj2eSEKfH8IpyHV3Q",
+                "title": "Two Barbers One Cut",
+                "description": "Shop Beardbrand: https://bdbd.us/2sJsFxx Instagram: https://www.instagram.com/beardbrand Twitter: https://www.twitter.com/beardbrand DESCRIPTION Two ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0za4XMq9W8U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0za4XMq9W8U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0za4XMq9W8U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Beardbrand",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9iBUqDX5L6ZizNcYb9V7-p6ahkI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NgfIaIWBeIM"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T13:30:00.000Z",
+                "channelId": "UCQGNygz_tRt1dgss8-Wya7g",
+                "title": "\u2702\ufe0f\ud83d\udc88 BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's",
+                "description": "BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's - Thanks for subscribing!! LIKE & SHARE . Turn on the notification bell to be ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NgfIaIWBeIM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NgfIaIWBeIM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NgfIaIWBeIM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MUMMY CHANNEL",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/m20PAu185wMU4lte8Q_wjzPYjXI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QTe2YR8qbp0"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-29T17:53:24.000Z",
+                "channelId": "UCzQJ71AA2bHOB4Zx_hrC9Ow",
+                "title": "The Most Beautiful Barbers in The World \u2605 Best Barbers Compilation 2018",
+                "description": "Have a Nice Time enjoy Amazing and Beautiful Women Barber Skills and Hair styles of cute kids, boys & men. * SUB 4 More! Songs: 1. 3rd Prototype ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QTe2YR8qbp0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QTe2YR8qbp0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QTe2YR8qbp0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SoFu TV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ifxdxvgiW5jpe2xCzptU76mvbsU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TyV2LT76s7o"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-30T15:55:01.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Amazing Barber Skills \u2605 Best Videos Barbers Compilation \u2605 Best Workers #18",
+                "description": "Have a Nice Time With Amazing Barber Skills Song: Culture Code - Make Me Move (feat. Karra) [Tobu Remix] | NCS Release Music provided by ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TyV2LT76s7o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TyV2LT76s7o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TyV2LT76s7o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Vf3CGcOwoRTz0cAFZzMMhKjuS2M\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8I-2MvJCQlQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-30T22:48:00.000Z",
+                "channelId": "UCfIvleu7Cb_iDvt4BJyJ8GQ",
+                "title": "Best Barbers in The World /Barbershop U.S.A 2018/ Haircut Hairstyle",
+                "description": "Subscribe / Share / Comment / Like / buy products that have been in the video from amazon.es / HERE : http://amzn.to/2y0lXbT Download music from the video ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8I-2MvJCQlQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8I-2MvJCQlQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8I-2MvJCQlQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Barberos Conectados HD",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KY1ncUYBGGdwSNOjS0ei4Zp3QBE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "E2MdRT-RCns"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-28T13:30:00.000Z",
+                "channelId": "UCQGNygz_tRt1dgss8-Wya7g",
+                "title": "\u2702\ufe0f\ud83d\udc88 BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's",
+                "description": "BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's - Thanks for subscribing!! LIKE & SHARE . Turn on the notification bell to be ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E2MdRT-RCns/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E2MdRT-RCns/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E2MdRT-RCns/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MUMMY CHANNEL",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/GiVEg-yrYyXZMt_2otfmT66O1W8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3LMrmWOPP3I"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-14T21:49:35.000Z",
+                "channelId": "UC0E0XbM_QyPRkwjQRlFqLhg",
+                "title": "BEST MEN HAIRCUTS & BARBER SKILLS COMPILATION",
+                "description": "Subscribe and activate the \"  \" to make sure that you will never miss any VIDEO! Music: Electro-Light - Symbolism ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3LMrmWOPP3I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3LMrmWOPP3I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3LMrmWOPP3I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Men's Corner",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/q-hxs-8wZS2m6A47J6zf2IYe2Ko\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qb11ZCUBZ-g"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-16T03:34:15.000Z",
+                "channelId": "UCUhYEsx1sYMtuy_dwGyZQIg",
+                "title": "Necessary Tools For Beginner Barbers",
+                "description": "Het Beginner Barbers made this one especially for you! If you are confused on how to start this is a great video to help you! Instagram: Thebarberstable ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qb11ZCUBZ-g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qb11ZCUBZ-g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qb11ZCUBZ-g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Barber's Table",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/L6V_7vFzJ36h_OTYLghnRbCPDUc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tfCvzTZ0WK4"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-05T16:42:37.000Z",
+                "channelId": "UC9deX25Xus0U-Znt3_ILSpw",
+                "title": "BARBERS GONE WILD 18",
+                "description": "Follow me on Instagram: 360Jeezy https://www.instagram.com/360jeezy/ BEATS HustleDreamProduction Youtube Channel: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tfCvzTZ0WK4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tfCvzTZ0WK4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tfCvzTZ0WK4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "360Jeezy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/stsxOrEktTPXLHz7xsfmhoFvCR8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dpEMCu1ExPY"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-01T18:58:07.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Amazing Barbers Skills Compilation #97",
+                "description": "Arefni market on Amazon https://www.amazon.com/shop/influencer-60da0a01 The Barbers in this video : @Mustafa_polatogluu Mustafa Polatoglu Mevlana halit ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dpEMCu1ExPY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dpEMCu1ExPY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dpEMCu1ExPY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ou0PNY5dR41k_4TzEzwiiwuctVA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nNHKImAJj8k"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-18T16:57:04.000Z",
+                "channelId": "UCeOZ5bNnJWZtOWTw4DzZIUA",
+                "title": "Funny Hairline Fails | Best Barbers Skills In The World | Barber Fails Designs Hairstyles Haircut",
+                "description": "Watch New Video: Funny Hairline Fails https://bit.ly/2RS458Z Here are some of the funniest and worst hairlines i've ever seen Funny Hairline Fails Best Barbers ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nNHKImAJj8k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nNHKImAJj8k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nNHKImAJj8k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alpha",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fz2wDXKhWrX52exSv3BHMYmSX3M\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X1NAH4r0Mew"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-27T18:29:25.000Z",
+                "channelId": "UCfIvleu7Cb_iDvt4BJyJ8GQ",
+                "title": "Best barbers in the world /barbershop U.S.A 2018",
+                "description": "Subscribe / Share / Comment / Like / buy products that have been in the video from amazon.es / HERE : http://amzn.to/2y0lXbT Copyright Disclaimer: I do not ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X1NAH4r0Mew/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X1NAH4r0Mew/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X1NAH4r0Mew/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Barberos Conectados HD",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/GJgu-TulJ0sRPRc4PmE4PEIfcUc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pcuyGPUS_Z4"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-28T15:24:35.000Z",
+                "channelId": "UC9deX25Xus0U-Znt3_ILSpw",
+                "title": "BARBERS GONE WILD REACTION 15",
+                "description": "Follow me on Instagram: 360Jeezy https://www.instagram.com/360jeezy/ To Purchase The Tools I Use In This Video: Clippers: Andis Cordless T Outliner: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pcuyGPUS_Z4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pcuyGPUS_Z4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pcuyGPUS_Z4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "360Jeezy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/97xOBf_lXRqlJ-ACCUeTbZUeMg4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r1OfD9PV8cY"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-09T15:53:45.000Z",
+                "channelId": "UC9deX25Xus0U-Znt3_ILSpw",
+                "title": "BARBERS GONE WILD REACTION 2",
+                "description": "Follow Me on Instagram: https://www.instagram.com/360jeezy/ To Purchase The Tools I Use In This Video: Oster Fast Feed: http://amzn.to/2DhZ4ir Andis GTX: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r1OfD9PV8cY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r1OfD9PV8cY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r1OfD9PV8cY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "360Jeezy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OlCZKVl_xDO5CicoLFp1pjcPuoo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YnoAiKrVY3c"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-13T18:59:46.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Amazing Barber Skills Compilation #48",
+                "description": "Have a Nice Time With Amazing Barber Skills Track: Raven & Kreyn - So Happy [NCS Official Video] Music provided by NoCopyrightSounds. Watch: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YnoAiKrVY3c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YnoAiKrVY3c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YnoAiKrVY3c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/W9Fds1191BpWj5lxUsM1AvaEqhI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IOl5y369lyE"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-21T13:30:01.000Z",
+                "channelId": "UCQGNygz_tRt1dgss8-Wya7g",
+                "title": "\u2702\ufe0f\ud83d\udc88 BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's",
+                "description": "BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's - Thanks for subscribing!! LIKE & SHARE . Turn on the notification bell to be ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IOl5y369lyE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IOl5y369lyE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IOl5y369lyE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MUMMY CHANNEL",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XcGeJeEtL-Lmpcvkr0MAUr4cFjc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Rd84tySwIZc"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-10T15:45:45.000Z",
+                "channelId": "UC9deX25Xus0U-Znt3_ILSpw",
+                "title": "CRAZY BARBERS GONE WILD REACTION 9",
+                "description": "Follow me on Instagram: 360Jeezy https://www.instagram.com/360jeezy/ To purchase Beats/Instrumentals Email: HustleDreamProduction@gmail.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rd84tySwIZc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rd84tySwIZc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rd84tySwIZc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "360Jeezy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hWH6I1E6rHqBFCHnSqNwYW25eRk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ReNrtrZj508"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-10T21:16:38.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Amazing Haircut Designs and Hairstyles # 104",
+                "description": "Arefni market on Amazon https://www.amazon.com/shop/influencer-60da0a01 Will be happy when you visit our shop https://teespring.com/arefni The Barbers in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ReNrtrZj508/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ReNrtrZj508/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ReNrtrZj508/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hDlEfeFAieTZDz4O09WZR_Ir4T4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GkNf27qsXhc"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-13T15:52:17.000Z",
+                "channelId": "UCW55zuK3PV0DuLw_4u41w_Q",
+                "title": "Best Barbers in The World \u2605 Amazing Barbers Skills Compilation \u2605 Hair Transplant #95",
+                "description": "The Barbers in this video : @Barberobengie Bengie Barbero @hagopart Hagopart Barbershop Member of @officialbarbersleague Address : Adonts 9 St (Yeraz ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GkNf27qsXhc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GkNf27qsXhc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GkNf27qsXhc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0639\u0631\u0641\u0646\u064a",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hyNXD5T9PNVysXorQJtbOhwcuk0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "THr6qCtQcCA"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-05T02:40:56.000Z",
+                "channelId": "UC1qk1_oGTfrJazNLkarYp4A",
+                "title": "Funniest Barbershop Videos Of August 2016\ud83d\udc88\ud83d\ude02\u2702\ufe0f.",
+                "description": "Enjoy another month as we clown around about what goes on a daily basis at the barbershop.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/THr6qCtQcCA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/THr6qCtQcCA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/THr6qCtQcCA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Garrick Dixon",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/460La1sXpFXFKfgcd2qbnUm7InM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UPP4Gvtl2oM"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-28T16:14:44.000Z",
+                "channelId": "UCLZ4R7Q1MBohJRTw3i5jvEQ",
+                "title": "Kid Tries To Cut His Own Hair Barber Saves The Day",
+                "description": "Here is a Tutorial by A ROD @arod23pr performing a Kids Hair Transformation . I hope you enjoy this video , give me thumbs up & comment below what you ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UPP4Gvtl2oM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UPP4Gvtl2oM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UPP4Gvtl2oM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "A ROD",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cBbmPQTdPA1DRvR7HyV77Vlr3s0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yuttWoGtwfg"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-30T14:58:26.000Z",
+                "channelId": "UC9deX25Xus0U-Znt3_ILSpw",
+                "title": "BARBERS GONE WILD REACTION 13",
+                "description": "Follow me on Instagram: 360Jeezy https://www.instagram.com/360jeezy/ To Purchase The Tools I Use In This Video: Clippers: Andis Cordless T Outliner: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yuttWoGtwfg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yuttWoGtwfg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yuttWoGtwfg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "360Jeezy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/u_ALB6apkv09nFP3-j3sbC040rI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fNBPVlnrd1A"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-21T16:00:07.000Z",
+                "channelId": "UCm0f2zUj2eSEKfH8IpyHV3Q",
+                "title": "My First Haircut in 5 Months | South Austin Barber Shop",
+                "description": "Shop Beardbrand: https://bdbd.us/2RXsKJc Instagram: https://www.instagram.com/beardbrand Twitter: https://www.twitter.com/beardbrand DESCRIPTION Jack ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fNBPVlnrd1A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fNBPVlnrd1A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fNBPVlnrd1A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Beardbrand",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fQ_oUmAkkj8rG9rbw3evRQ101nE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gV8Zw1qOR4o"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-20T00:24:55.000Z",
+                "channelId": "UC0E0XbM_QyPRkwjQRlFqLhg",
+                "title": "Best Kids Haircuts by Best Barbers in The World #4",
+                "description": "Subscribe and activate the \"  \" to make sure that you will never miss any VIDEO! Songs: Veorra - The City https://www.youtube.com/watch?v=tHDmgS0ViaQ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gV8Zw1qOR4o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gV8Zw1qOR4o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gV8Zw1qOR4o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Men's Corner",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/E_IVROOtVnvIjkakwwphkg2DOHM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "n0xK7irl6Tk"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-25T18:14:58.000Z",
+                "channelId": "UCLZ4R7Q1MBohJRTw3i5jvEQ",
+                "title": "Cholo Barber Ruins Barbershop",
+                "description": "Arod a barber and barbershop owner hires a CHOLO barber (@dinerocutz) that Takes Over the entire barbershop and trains all the barbers to be drug dealers ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n0xK7irl6Tk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n0xK7irl6Tk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n0xK7irl6Tk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "A ROD",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8LYWsCkuH8oyHKOe4suY1kN6Z6A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AAIrAfK4D78"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-19T14:56:49.000Z",
+                "channelId": "UC9deX25Xus0U-Znt3_ILSpw",
+                "title": "BARBERS GONE WILD REACTION 3",
+                "description": "Follow me on Instagram: https://www.instagram.com/360jeezy/ To Purchase The Tools I Use In This Video: Oster Fast Feed: http://amzn.to/2DhZ4ir Andis GTX: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AAIrAfK4D78/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AAIrAfK4D78/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AAIrAfK4D78/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "360Jeezy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hX61Kx_1_8Iyk5Lk0qNUm3WEWAI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L1qHzUWRR4E"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-26T13:30:01.000Z",
+                "channelId": "UCQGNygz_tRt1dgss8-Wya7g",
+                "title": "\u2702\ufe0f\ud83d\udc88 BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's #18",
+                "description": "BEST BARBER IN THE WORLD 2018 U.S.A / Videos Compilation Styles for Men's #18 - Thanks for subscribing!! LIKE & SHARE . Turn on the notification bell ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L1qHzUWRR4E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L1qHzUWRR4E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L1qHzUWRR4E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MUMMY CHANNEL",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pHg2pJ7Wz9tVc-GZWcwAnECJ7fM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Qvq__10qYTg"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-29T12:52:08.000Z",
+                "channelId": "UCwCzpu1YXdfHd85HR7IWEwQ",
+                "title": "THE BEST BARBER IN THE WORLD ! BEST HAIRCUTS COMPILATIONS ! E.P#86",
+                "description": "THE BEST BARBER IN THE WORLD ! BEST HAIRCUTS COMPILATIONS ! E.P#86 Like us on facebook! https://www.facebook.com/menhairdos Follow us on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qvq__10qYTg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qvq__10qYTg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qvq__10qYTg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Maestros Classic Barbers",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/qr13nAO-HntXaPjnvBWjvpHAmYs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yXWE0vurSgg"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-31T10:00:57.000Z",
+                "channelId": "UCou6pqxzTSYf8t-ISPmeQQw",
+                "title": "Amazing Barber Skills Compilation 2018 - Incredible Hair Art Designs - Best Barbers In The World",
+                "description": "Amazing Barber Skills Compilation 2018 - Incredible Hair Art Designs - Best Barbers In The World - Watch, rate, share and Comment - Please leave a like if you ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yXWE0vurSgg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yXWE0vurSgg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yXWE0vurSgg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheSoundProject",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}

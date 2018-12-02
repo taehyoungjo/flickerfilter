@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cK7NLchWlawpRHtw1eBCtnZxvno\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/FmVvkT10GoNHN-9wEUui1xnDCvU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dWxLLz0CMR4"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-23T02:56:59.000Z",
+                "channelId": "UCY0EH68-wnTJ_xlDVWX15Pw",
+                "title": "Top 10 Highest Paid Nursing Professions",
+                "description": "Click here to see how much money nurses actually make: https://www.youtube.com/watch?v=pQXt0jByImU&t=1s Click here to watch my Scrub Lookbook ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dWxLLz0CMR4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dWxLLz0CMR4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dWxLLz0CMR4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Nurse Nook",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Js87ZlFdF2q7LQUWlUi-hWs_Ylw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3cYbYBsLMSo"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-06T15:00:00.000Z",
+                "channelId": "UC0QHWhjbe5fGJEPz3sVb6nw",
+                "title": "My Take on NURSES | Hospital Vlog | Doctor Mike",
+                "description": "Since I began watching medical dramas for the reacts series, I've found more and more that nurses get overlooked within media. Being a family medicine ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3cYbYBsLMSo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3cYbYBsLMSo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3cYbYBsLMSo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Doctor Mike",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cqqF3U9QuPYnfModUHjEXgsRyl0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sZva_KB-r7U"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-13T17:29:04.000Z",
+                "channelId": "UCaG5yzKvcE_HjmyDR-PcKdQ",
+                "title": "ICU NURSES vs ER NURSES",
+                "description": "The Nomad Nurse (Crosby Steen) visited me in AZ and of course we had to knock out some awesome videos! Crosby has his own travel nurse YouTube ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sZva_KB-r7U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sZva_KB-r7U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sZva_KB-r7U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ashley Adkins, RN",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OTnYNW1h8LdwHyGq9gxLb74ycVI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pQXt0jByImU"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-05T03:32:32.000Z",
+                "channelId": "UCY0EH68-wnTJ_xlDVWX15Pw",
+                "title": "How Much $ Do Nurses Actually Make | How To Make The Most $$$",
+                "description": "Click here to watch my Scrub Lookbook https://www.youtube.com/watch?v=A3MxcyUgAao&t=3s Click here to see my night time RN routine ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pQXt0jByImU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pQXt0jByImU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pQXt0jByImU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Nurse Nook",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Au18OM3GzAbA_lbnzRBLYKXybAI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3JVr-cphf8s"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-02T21:38:47.000Z",
+                "channelId": "UCPyMN8DzkFl2__xnTEiGZ1w",
+                "title": "5 Things Most Nurses Hate",
+                "description": "In this video, I talk about the top five things that most nurses hate or get annoyed about. I would love to hear from any nursing students or nurses about the top 5 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3JVr-cphf8s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3JVr-cphf8s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3JVr-cphf8s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RegisteredNurseRN",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nKR4U7HzxgWVw1yfViqn8rGKYm8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Msnxt2qflMw"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-23T00:06:36.000Z",
+                "channelId": "UCfhakx4wkmCM8XVu1KHsOww",
+                "title": "IS NURSING FOR ME? MY SALARY + WHAT DO NURSES REALLY MAKE?!",
+                "description": "OPEN FOR MORE INFO & WATCH IN HD \u2661 Hey everyone! Just wanted to give some background information for those that may be new. I worked in the ICU as ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Msnxt2qflMw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Msnxt2qflMw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Msnxt2qflMw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fatima Francesa",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EmGQ7rMUo_v2tkAy5QCAEM6ujCc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wPTC-e9sRp0"
+            },
+            "snippet": {
+                "publishedAt": "2017-12-08T01:56:46.000Z",
+                "channelId": "UCbEJuXWpEoDdMA780Y6TY2w",
+                "title": "10 Things To Know When Dating A Nurse",
+                "description": "1- We like sleep Besides being awesome at saving lives, we are also awesome at sleeping! Most people like diamonds, we like sleep. When our eyes are ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wPTC-e9sRp0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wPTC-e9sRp0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wPTC-e9sRp0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nurse Blake",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Fk31iZx9jDTSCW5AbX8BPrUcf8I\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5xBKNIf0dMg"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T01:58:32.000Z",
+                "channelId": "UCY0EH68-wnTJ_xlDVWX15Pw",
+                "title": "Why I Quit My First Job As A Nurse",
+                "description": "Hey my Nurse Fam! So excited to be sharing this news with you!!! Can't wait to start this new journey and to bring y'all along with me. XO Lexi CHECK OUT MY ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5xBKNIf0dMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5xBKNIf0dMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5xBKNIf0dMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Nurse Nook",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9Lh_tZmOM1waplxigThCS8DDzGw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oSAVLT_2miY"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-25T22:00:02.000Z",
+                "channelId": "UCSDhPOwItNEgoHHXy4jIG2Q",
+                "title": "10 Nurses You Won\u2019t Believe Actually Exist",
+                "description": "Nurses are often thought to be warm and nurturing, like a helping hand from a mother. But what happens when a nurse fulfills the opposite of our innocent ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oSAVLT_2miY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oSAVLT_2miY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oSAVLT_2miY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Top Most Rare",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_VHf37oF0kqiGu4LvyWY2YWuwpI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6bqHazJm7Lg"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-13T19:49:14.000Z",
+                "channelId": "UCt3mOg88T0My5vZpbE0TG_g",
+                "title": "Top 10 Nurses You Won\u2019t Believe Actually Exist 2017",
+                "description": "Top 10 Nurses You Won't Believe Actually Exist 2017 Subscribe https://goo.gl/eSqEEO Nobody enjoys their time in the hospital, it isn't the most happening and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6bqHazJm7Lg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6bqHazJm7Lg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6bqHazJm7Lg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "2 Minute Facts",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NQj6jqIrDTd0c22qtHSTHFd6ASw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "E5jH2tobwGs"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-26T11:00:03.000Z",
+                "channelId": "UCaG5yzKvcE_HjmyDR-PcKdQ",
+                "title": "MISTAKES NEW NURSES MAKE",
+                "description": "As new nurses...we all tend to make the same mistakes. I wanted to make this video not to shame new nurses for making these mistakes, but to help educate ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E5jH2tobwGs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E5jH2tobwGs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E5jH2tobwGs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ashley Adkins, RN",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/f-BQlBdYJczUzIOvt_s0F7R4MM0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tVQ0JEEmwcA"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-26T23:35:07.000Z",
+                "channelId": "UCqV0wwAyIG6sfQeGnMqFJFw",
+                "title": "ER NURSE AM ROUTINE  || CARLERAE",
+                "description": "HEY BABIES!!! IN THIS VIDEO IM BRINGING YALL MY MORNING ROUTINE BEFORE I HEAD OUT FOR A 12HR SHIFT IN THE ER! IF YOU GUYS LIKE THE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tVQ0JEEmwcA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tVQ0JEEmwcA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tVQ0JEEmwcA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Carle Rae",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/CxmroaM6Da4irDsCVNbnP0EdXHg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "A8f6dbqhQ-8"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-29T17:04:21.000Z",
+                "channelId": "UCYZydu5qYUuDP_vnCK_kHtQ",
+                "title": "What's It REALLY Like To Date A Nurse?",
+                "description": "In this skit, we show what I thought dating a nurse would be like, compared to how it really is. My expectation vs reality was definitely a big contrast, and it turns ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A8f6dbqhQ-8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A8f6dbqhQ-8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A8f6dbqhQ-8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt and V",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Y3V_oave3XAOpac1UQUa_VlbQYY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LGHtvP4opbc"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-18T00:13:51.000Z",
+                "channelId": "UCoJDrp5VASUJEqWlt0Vpmeg",
+                "title": "Nursing Salaries| How Much Do Nurses Make?",
+                "description": "Hey guys, so I wanted to share what nursing salaries are like in NYC. I share my actual salary to give you an idea of about what you could expect to make in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LGHtvP4opbc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LGHtvP4opbc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LGHtvP4opbc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nurse Kerima",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aDxy10Ia6lEenKmAfszEsWLF6IY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "93C548DbPic"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-22T12:57:23.000Z",
+                "channelId": "UCQl9p4k63ObJ0EK29q5MM2Q",
+                "title": "WHAT I WISH I KNEW BEFORE NURSING SCHOOL",
+                "description": "I truly believe God put me here to be a nurse, and I couldn't see myself doing anything else. I love you all! Thank you for your continued support. \u2764\ufe0f",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/93C548DbPic/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/93C548DbPic/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/93C548DbPic/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nurse Mary",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Q5f6GfFdukZ1O3bsRHXClxH-xpQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PpGIELKsvdE"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-06T21:27:42.000Z",
+                "channelId": "UCrKE6lsllHfJgcUexz3BBhA",
+                "title": "I\u2019m a Trauma Nurse | My Life \u2605 Glam.com",
+                "description": "Jennifer Dukes, RN, is an emergency room nurse at a Level 1 trauma hospital in Atlanta. She endures fast-paced 12-hour shifts and organized chaos in a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PpGIELKsvdE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PpGIELKsvdE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PpGIELKsvdE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Glam, Inc.",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/uJWzepHKPXaHbEJatkDNBjKCzM4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Iort-Vmx2OM"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-09T18:32:31.000Z",
+                "channelId": "UCRXuIrY0w8NPvBptXtfDKvA",
+                "title": "A day in the life of a nurse at SickKids",
+                "description": "In recognition of National Nursing Week, leaders at SickKids had the opportunity to become Nurses for a Day by shadowing a nurse and experiencing firsthand ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Iort-Vmx2OM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Iort-Vmx2OM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Iort-Vmx2OM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SickKidsInteractive",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7SsAS66jBJekBVSM4TR17NPPA4g\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "htL1dY5qK8w"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-07T14:17:19.000Z",
+                "channelId": "UCdymaTS_ZeUW2P5KTKWMwdQ",
+                "title": "National Hospital Week and Nurses Week 2018",
+                "description": "National Nurses Week and National Hospital Week is May 6th \u2013 May 12th. Midland Health is proud and thankful to have so many devoted employees dedicated ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/htL1dY5qK8w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/htL1dY5qK8w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/htL1dY5qK8w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Midland Health",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Re84jmHHqPeYct1PgJeDQn6vY30\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j578QSlhlnw"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-03T17:04:35.000Z",
+                "channelId": "UCiamy6DLsjIeCgfz8TLXg9Q",
+                "title": "DO DOCTORS ANNOY NURSES? (Doctor Vlogging in Hospital)",
+                "description": "Have you ever wondered how doctors and nurses work together? Join me in the ICU, meet some amazing ICU nurses and hear about what doctors can do to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j578QSlhlnw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j578QSlhlnw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j578QSlhlnw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Violin MD",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ZAo2lyQ8OsgoIrlsLEFurQmNHQ8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OCkSTLY56f8"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-26T08:18:49.000Z",
+                "channelId": "UCAjBd-r8JWfnRjfhg23nqLQ",
+                "title": "GNM \u09a8\u09be\u09f0\u09cd\u099b\u09f0 \u09aa\u09cd\u09f0\u09a4\u09bf\u09ac\u09be\u09a6, \u09b9\u09be\u09b9\u09be\u0995\u09be\u09f0 \u09b9\u09c8\u099b\u09c7 \u09ac\u09b9\u09c1\u09a4\u09cb \u099a\u09bf\u0995\u09bf\u09ce\u09b8\u09be\u09b2\u09df\u09a4",
+                "description": "\u09f0\u09be\u099c\u09cd\u09af\u099c\u09c1\u09f0\u09bf \u09b8\u09a6\u09cc \u0985\u09b8\u09ae \u09a8\u09be\u09f0\u09cd\u099b \u09b8\u09a8\u09cd\u09a5\u09be\u09f0 \u0995\u09f0\u09cd\u09ae\u09ac\u09bf\u09f0\u09a4\u09bf\u0964 \u09b7\u09cd\u099f\u09be\u09ab \u09a8\u09be\u09f0\u09cd\u099b\u0995 \u09b8\u09ae\u09b9\u09be\u09f0\u09a4 \u09a6\u09f0\u09ae\u09b9\u09be \u09aa\u09cd\u09f0\u09a6...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OCkSTLY56f8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OCkSTLY56f8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OCkSTLY56f8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "News18 Assam/Northeast",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/oQiFNxDOmhtJrDtn2LFNXwGeGBU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w1ZM4U1gyjc"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-12T20:30:08.000Z",
+                "channelId": "UC5eLoXabiSrVlFyeNJUihnQ",
+                "title": "PAYCHECK BREAKDOWN: \"How Much do Travel Nurses Make???\"",
+                "description": "A travel nurse's paycheck breakdown! (example)FYI- If eligible you can receive the travel reimbursement and a referral bonus which are both one time pay outs.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w1ZM4U1gyjc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w1ZM4U1gyjc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w1ZM4U1gyjc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Black Travel Nurse",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ZmeLhYS2rEDEtF5Ps5LpWcGeHnY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZoQDOvTzagQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-29T13:39:27.000Z",
+                "channelId": "UCg8l3ig7_k4zQGGIq-Q6z0w",
+                "title": "WHY is it ok to TREAT NURSES LIKE SH&T",
+                "description": "INSTAGRAM: https://www.instagram.com/crosby_steen/ NURSING SCHOOL GEAR: Nursing School Thrive Guide: 5 stars on Amazon- https://amzn.to/2Ocz5hR ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZoQDOvTzagQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZoQDOvTzagQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZoQDOvTzagQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crosby Steen, MSN, RN",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8TrGWZjswUa2W4G4qqBuj403EAk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0WnLA6bSmwA"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-18T15:57:52.000Z",
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "title": "What if You Became a Nurse? | Sana Goldberg | TEDxHarvardCollege",
+                "description": "In revealing many of the hidden connections between a liberal arts education and nursing, Sana explains why we should think about nursing in a profoundly ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0WnLA6bSmwA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0WnLA6bSmwA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0WnLA6bSmwA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TEDx Talks",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7jZVt1pWYpubPBNH3w6KUGt1Y30\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1cvNO3LRsa4"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-29T13:44:13.000Z",
+                "channelId": "UC1JkYCOb4wKvdWreGQ0CR9g",
+                "title": "Nurses\u2019 Protest Leads To 4 Deaths At JMCH With 24 Hours",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1cvNO3LRsa4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1cvNO3LRsa4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1cvNO3LRsa4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pratidin Time",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ia84nz6q4LYuZo1e8Dk1hnLyqQg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QZOaMbTRxWY"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-24T13:00:02.000Z",
+                "channelId": "UCb1odBsfUVstnlaYW_IiHWw",
+                "title": "Getting Dressed in WW1 - VAD Nurse",
+                "description": "A World War One VAD Nurse gets dressed ready for work. Thanks to support from https://www.loveniplaw.co.uk/ Director/Cinematographer: Nick Loven ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QZOaMbTRxWY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QZOaMbTRxWY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QZOaMbTRxWY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CrowsEyeProductions",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/bu6P_9gHrsquGB3iriKMQPPwl_c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LIVFN3N6aVo"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-27T07:30:01.000Z",
+                "channelId": "UCeDzVIfXdWZe7mCFduIRaFA",
+                "title": "LONELY NIGHT NURSE 2 / TRENDING MOVIES / NIGERIAN MOVIES",
+                "description": "You may not be able to rate the standard of Latest african movies until you view them as separate genre like latest ghanaian movies,latest yoruba movies ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LIVFN3N6aVo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LIVFN3N6aVo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LIVFN3N6aVo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NollywoodStreams",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NpaWD992CacUKRyNNzycgSjIs9E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xbvRkl7uTsw"
+            },
+            "snippet": {
+                "publishedAt": "2013-03-21T12:34:11.000Z",
+                "channelId": "UCmhPgswuoCd--XV4Lu34Kkw",
+                "title": "Looking your BEST as a Nurse!",
+                "description": "www.EmpoweRN.com Hello My fellow Youtube Nurses and Soon to Be Nurses! Thank you so much for watching my channel! Your views, shares, likes, emails ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xbvRkl7uTsw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xbvRkl7uTsw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xbvRkl7uTsw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EmpoweRN",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JXUouB1YXWBh92l1GEIZs5wabyo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ddKRpNl9bDY"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-08T18:06:25.000Z",
+                "channelId": "UCk83s6ertzScinZSIDXGswA",
+                "title": "Starting an IV - for Nurses",
+                "description": "Demonstration and explanation for nurses of how to start an intravenous catheter. www.NurseMastery.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ddKRpNl9bDY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ddKRpNl9bDY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ddKRpNl9bDY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nurse Mastery",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MicydVki2kLomgd2Xt6HytI-B8o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L5gopk28tyw"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T17:28:13.000Z",
+                "channelId": "UCVIiO3Yx9R5bX7O5U5oQjpQ",
+                "title": "WHAT DR TERRENCE BAKER SAYS  ABOUT NIGERIAN NURSES IN US. (NANNNA)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L5gopk28tyw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L5gopk28tyw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L5gopk28tyw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NABNTV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PHBCuJdARexfbjpqGm2knYeKVEc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NU5Gk6w1OVk"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-28T20:13:44.000Z",
+                "channelId": "UCkTsYr9gB40oMr6GDiDsL0Q",
+                "title": "TIPS FOR NIGHT SHIFT NURSES | 10 Ways to Be the Best Nocturnal Nurse",
+                "description": "Night shift nurse tips on how to be the best nocturnal nurse! Being a night shift nurse can be challenging! Many times, the patients are not happy that you are ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NU5Gk6w1OVk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NU5Gk6w1OVk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NU5Gk6w1OVk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nurse Liz",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/X6h13KUCWyUFtClMvm8Hie-RI-0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8vjrlriT-SE"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-22T12:14:12.000Z",
+                "channelId": "UCPyMN8DzkFl2__xnTEiGZ1w",
+                "title": "New Nurse Time Management Tips",
+                "description": "New nurse time management tips and advice: I will discuss some new nurse tips and tricks for time management you can use as a new nurse. Many new nurses ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8vjrlriT-SE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8vjrlriT-SE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8vjrlriT-SE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RegisteredNurseRN",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KgtAF9h8ODkBbSzeN0MGGYnWvcA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DeDiaW1A4NU"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-05T02:04:07.000Z",
+                "channelId": "UClshhscBvIuzeb-oSkkMFlw",
+                "title": "TRAVEL NURSING 101",
+                "description": "I answer a bunch of questions about travel nursing! what it is..how to become one.. pros/cons, ETC! HOPE YOU ENJOY! feel free to comment below any ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DeDiaW1A4NU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DeDiaW1A4NU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DeDiaW1A4NU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bianca",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lo1hi_rGAsE1klA3MdoPCutcWG0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pV9Yt4b3uFc"
+            },
+            "snippet": {
+                "publishedAt": "2013-09-02T02:46:06.000Z",
+                "channelId": "UCmhPgswuoCd--XV4Lu34Kkw",
+                "title": "Tips for High School Students Who Want to be Nurses!",
+                "description": "Tips for High School Students Who Want to be Nurses! Preparing for your future starts in high school. The harder you study now.... The more doors will be open ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pV9Yt4b3uFc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pV9Yt4b3uFc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pV9Yt4b3uFc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EmpoweRN",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NjWK9P1KEiz938kp-xmmxZskanU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1mhhBdMMawM"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-26T09:34:01.000Z",
+                "channelId": "UCP_536qwh8UByXgMqRjarbA",
+                "title": "Short film dedicated to nurses",
+                "description": "Nurses dispense comfort, compassion, and caring without even a prescription \u2013 Val Saintsbury Published on May 25, 2016 RN - A TRIBUTE TO NURSES Vfx: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1mhhBdMMawM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1mhhBdMMawM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1mhhBdMMawM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gleneagles Global Hospitals",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kkDQRoO4E_15EGKUkxoMSwoA4s4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-q5QJW8q7qc"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-06T15:59:48.000Z",
+                "channelId": "UCiamy6DLsjIeCgfz8TLXg9Q",
+                "title": "Day in the life of a DOCTOR SHADOWING an ICU NURSE for 12 hours",
+                "description": "Hi! I'm an internal medicine resident, but today I'm shadowing a nurse! Join me for a unique day in the life of a DOCTOR SHADOW an ICU NURSE for a 12 hour ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-q5QJW8q7qc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-q5QJW8q7qc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-q5QJW8q7qc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Violin MD",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/O0CiLIIK--hsyEULkDYOlOcAR_w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rwyAI3_0DjM"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-22T23:01:24.000Z",
+                "channelId": "UCPyMN8DzkFl2__xnTEiGZ1w",
+                "title": "Nursing Job Interview Questions | Top 21 Questions Asked to Registered Nurses and LPNs",
+                "description": "Nursing Job Interview Questions: This video lists the top 21 interview questions asked during a nursing job interview. It is best to practice these questions with a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rwyAI3_0DjM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rwyAI3_0DjM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rwyAI3_0DjM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RegisteredNurseRN",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/oAoJZVWWloTIXu81kMowyn7nSFw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jMaPULthYho"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T01:30:00.000Z",
+                "channelId": "UCAjBd-r8JWfnRjfhg23nqLQ",
+                "title": "\u09b8\u09be\u09ae\u09df\u09bf\u0995 \u09ad\u09be\u09ac\u09c7 \u09b8\u09cd\u09a5\u0997\u09bf\u09a4 GNM \u09a8\u09be\u09f0\u09cd\u099b\u09b8\u0995\u09b2\u09f0 \u09aa\u09cd\u09f0\u09a4\u09bf\u09ac\u09be\u09a6",
+                "description": "GNM \u09a8\u09be\u09f0\u09cd\u099b\u09b8\u0995\u09b2\u09f0 \u09aa\u09cd\u09f0\u09a4\u09bf\u09ac\u09be\u09a6\u09c0 \u0995\u09be\u09f0\u09cd\u09af\u09b8\u09c2\u099a\u09c0 \u09b8\u09cd\u09a5\u0997\u09bf\u09a4\u0964 \u09aa\u09c1\u09a8\u09f0 \u0986\u09b2\u09cb\u099a\u09a8\u09be\u09f0 \u09ac\u09be\u09ac\u09c7 \u0986\u09ae\u09a8\u09cd\u09a4\u09cd\u09f0\u09a3 \u099c\u09a8\u09cb\u09f1...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jMaPULthYho/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jMaPULthYho/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jMaPULthYho/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "News18 Assam/Northeast",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0we8qgCiK8801xqTdVHpKHp0ENc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zBm0i-JuLJ0"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T14:08:37.000Z",
+                "channelId": "UCAjBd-r8JWfnRjfhg23nqLQ",
+                "title": "Assam nurses\u2019 call off strike, Govt to hold talks on Dec 4",
+                "description": "News18 Assam is one of the Assam's leading news channel. Please follow up page to watch live and breaking news with latest videos added very hour. Please ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zBm0i-JuLJ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zBm0i-JuLJ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zBm0i-JuLJ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "News18 Assam/Northeast",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MgiLkqW5uibz5Mylfoj3v63rBt4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rGMWy3pGB1k"
+            },
+            "snippet": {
+                "publishedAt": "2012-02-24T04:59:26.000Z",
+                "channelId": "UC5ruFCWsnjhm8zlTQtJHweQ",
+                "title": "Be kind to Nurses... They keep doctors from accidentally killing you!",
+                "description": "A that 70s show montage to all the nurses out there, especially mine!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rGMWy3pGB1k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rGMWy3pGB1k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rGMWy3pGB1k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "guht",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kub6kU0GGxKSZWNxAA6zwjAiu48\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "egmfTZRuqzA"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-29T20:00:01.000Z",
+                "channelId": "UCV3Nm3T-XAgVhKH9jT0ViRg",
+                "title": "Why Are There So Many Filipino Nurses In The U.S.? | AJ+",
+                "description": "The United States has a lot of Filipino nurses. How did that happen? Watch more AJ+ In-Depth: http://ajplus.co/ajindepth The Philippines and the U.S. have a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/egmfTZRuqzA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/egmfTZRuqzA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/egmfTZRuqzA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AJ+",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TRzJCeAp36_OCiFY8elfeDwDzWc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "myIFeOojPKg"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-07T13:10:26.000Z",
+                "channelId": "UCRXuIrY0w8NPvBptXtfDKvA",
+                "title": "SickKids Nursing Week 2018: What makes our nurses so special?",
+                "description": "SickKids President and CEO Mike Apkon finds out from those who know our nurses best -- our patients! Happy National Nursing Week to all our wonderful ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/myIFeOojPKg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/myIFeOojPKg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/myIFeOojPKg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SickKidsInteractive",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PhDL7oONW4KODBmix3uvgiycaxY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dDuiSWj3GIQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T19:23:17.000Z",
+                "channelId": "UC1fmbIsztZUgBp3UO-Og7iQ",
+                "title": "Gift Guide For Nurses & Students~Graduation, Nurse Week, Holidays Affordable & Unisex",
+                "description": "Don't know what to get that nurse or nursing student in your life? Or do you want to lay a hint for you spouse, family or friends on what to get you? This video is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dDuiSWj3GIQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dDuiSWj3GIQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dDuiSWj3GIQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "yourfavnurseb",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ei83zCq1i34v1n-9eWeuBk__Puk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QJo25oTTqTg"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-23T22:38:51.000Z",
+                "channelId": "UCOxy1H_nwnPe-cIbQ7ymUyQ",
+                "title": "Inspiring Non Traditional Jobs in Nursing",
+                "description": "Inspiring Non-Traditional Jobs in Nursing: From Changing the World to Leading the Way: What Can I Do with a Nursing Degree? Find out here! Nursing ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QJo25oTTqTg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QJo25oTTqTg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QJo25oTTqTg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nursejournal",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/z0nrn5YmK93mmChC224rJInzTT0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Z3pR-pzutZE"
+            },
+            "snippet": {
+                "publishedAt": "2014-03-27T21:55:38.000Z",
+                "channelId": "UCCoHsB5Hyfpd7TtkO6SjT1w",
+                "title": "Quality and Safety Education for Nurses",
+                "description": "UNLV School of Nursing Graduating Class of Spring 2014 Capstone Project.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z3pR-pzutZE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z3pR-pzutZE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z3pR-pzutZE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matthew Hopkins",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XYaiLT3V3sTO8lTGeVskfrukz2c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "T6xO3-Oj1l8"
+            },
+            "snippet": {
+                "publishedAt": "2009-09-03T18:39:10.000Z",
+                "channelId": "UCiL1WZFl3RnsqzzEMhe8Aog",
+                "title": "Role of Licensed Practical Nurses in Alberta, Canada",
+                "description": "This video showcases the role of the Licensed Practical Nurse (LPN) in Alberta, Canada. The College of Licensed Practical Nurses of Alberta (CLPNA), the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T6xO3-Oj1l8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T6xO3-Oj1l8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T6xO3-Oj1l8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "College of Licensed Practical Nurses of Alberta",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4YsdbrQJedruYI7K3v2BSKGFJoQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WJ7LSpY1Bh0"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-26T15:00:03.000Z",
+                "channelId": "UCl2_BgroUwXwlEkUuoriYWQ",
+                "title": "How Nurses and Doctors Can Make 1 Million Dollars!!",
+                "description": "How Nurses and Doctors Can Make 1 Million Dollars!! Here are some tips for things you can do during your medical career to help make money and make your ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WJ7LSpY1Bh0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WJ7LSpY1Bh0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WJ7LSpY1Bh0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Buck Parker, M.D.",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6qxfz9QLyQ2d-ZKBUYCT27NNQPk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zqD1rOWjHUY"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-24T19:00:03.000Z",
+                "channelId": "UCprs0DXUS-refN1i8FkQkdg",
+                "title": "\"Christian nurses ignored atheist me during birth\" | Jennifer - KY | Atheist Experience 22.46",
+                "description": "The Atheist Experience 22.46 November 18, 2018 with Jen Peeples & Clare Wuellner. Call the show on Sundays 4:00-6:00pm CT: 1-512-686-0279 Don't like ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zqD1rOWjHUY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zqD1rOWjHUY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zqD1rOWjHUY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Atheist Experience",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/bDMvH_zS1Q2VffDeRPjXIsYX2Ts\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ka56AlyRgQU"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-29T14:12:07.000Z",
+                "channelId": "UCAjBd-r8JWfnRjfhg23nqLQ",
+                "title": "Assam Nurses\u2019 protest: 5 infants, 2 mother die within 24 hours in JMCH",
+                "description": "News18 Assam is one of the Assam's leading news channel. Please follow up page to watch live and breaking news with latest videos added very hour. Please ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ka56AlyRgQU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ka56AlyRgQU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ka56AlyRgQU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "News18 Assam/Northeast",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Lmzl9HRBZTKkcGwD_NdJzwtaj7s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jyKJDzrfnys"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-28T20:59:27.000Z",
+                "channelId": "UC_5_b04Oa1dp_H9uf9rGJaQ",
+                "title": "Cardiac meds made easy",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jyKJDzrfnys/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jyKJDzrfnys/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jyKJDzrfnys/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Josiah Shoon",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XuoG9X9cA__bRKuiP7Soll7fpSw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xXDVuVxZVFg"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-28T15:05:47.000Z",
+                "channelId": "UCrQHRYuJG8jmpUVALIC9Gkw",
+                "title": "Nurses continue protest!! But when will they end their strike?",
+                "description": "\u09f0\u09be\u099c\u09cd\u09af\u09bc\u099c\u09c1\u09f0\u09bf \u09a8\u09be\u09f0\u09cd\u099b\u09f0 \u09aa\u09cd\u09f0\u09a4\u09bf\u09ac\u09be\u09a6\u0995 \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09f0 \u0995\u09f0\u09bf \u0989\u09a4\u09cd\u09a4\u09aa\u09cd\u09a4 \u099a\u09f0\u0995\u09be\u09f0\u09c0 \u099a\u09bf\u0995\u09bf\u09ce\u09b8\u09be\u09b2\u09af\u09bc\u0964 \u09aa\u09cd\u09f0\u09a4\u09bf\u09ac...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xXDVuVxZVFg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xXDVuVxZVFg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xXDVuVxZVFg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "News Live",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}

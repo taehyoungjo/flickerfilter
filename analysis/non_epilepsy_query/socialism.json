@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Hg46H_rKc-0EOTJbw6FGS8F6RoU\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dWZpKiicDH6sxBNNVcnY2XAZcwU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B3u4EFTwprM"
+            },
+            "snippet": {
+                "publishedAt": "2012-09-06T22:21:55.000Z",
+                "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+                "title": "Capitalism and Socialism: Crash Course World History #33",
+                "description": "Crash Course World History is now available on DVD! Visit http://store.dftba.com/products/crashcourse-world-history-the-complete-series-dvd-set to buy a set for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B3u4EFTwprM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B3u4EFTwprM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B3u4EFTwprM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CrashCourse",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/rPOUJKzQpSx3ixcov2P7dErosQI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zhLa6I72K_g"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-16T12:30:04.000Z",
+                "channelId": "UCmYesELO6axBrCuSpf7S9DQ",
+                "title": "Capitalism, Socialism, and Communism Compared",
+                "description": "Mr. Beat explains the difference between capitalism, socialism, and communism. Karl Marx was the one who first articulated it, but boy is he misunderstood by ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zhLa6I72K_g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zhLa6I72K_g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zhLa6I72K_g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mr. Beat",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7NxmQ_uVf75Pj1ovuvD8jc0MbKs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OBYmeLBWjeI"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-10T12:00:00.000Z",
+                "channelId": "UCgRvm1yLFoaQKhmaTqXk9SA",
+                "title": "What Is Socialism?",
+                "description": "Chemical weapons are considered illegal across the globe, but many countries continue to secretly use them in war zones, including the U.S. So what exactly ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OBYmeLBWjeI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OBYmeLBWjeI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OBYmeLBWjeI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NowThis World",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/coIry8e_eJOiJyS1UeCYffYUNP8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_ZDQAsvNK3E"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-27T21:47:56.000Z",
+                "channelId": "UCJjSDX-jUChzOEyok9XYRJQ",
+                "title": "Can Socialists and Capitalists Find Middle Ground?",
+                "description": "Socialists and capitalists come together to find middle ground. Can they push past their beliefs and understand each other? SUBSCRIBE for more!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_ZDQAsvNK3E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_ZDQAsvNK3E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_ZDQAsvNK3E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jubilee",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/WPzTEp4oz7QEY7GiHxrMN10Fy18\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vnbVu8QXCMY"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-30T22:00:02.000Z",
+                "channelId": "UCy-N04M3rGQMznjIv5g2LGQ",
+                "title": "Ben Shapiro PERFECTLY Explains Why Socialism Always FAIL",
+                "description": "Subscribe today to my channel for more videos: http://tiny.cc/20b0ty.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vnbVu8QXCMY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vnbVu8QXCMY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vnbVu8QXCMY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Patriotic Report",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HsI_8zgACLuaYc1Cuwlde9oOlJ4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FrtDZ-LOXFw"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-21T13:00:01.000Z",
+                "channelId": "UCgRvm1yLFoaQKhmaTqXk9SA",
+                "title": "Communism vs. Socialism: What's The Difference? | NowThis World",
+                "description": "There's a lot of confusion surrounding the terms Communism and Socialism. The two are often used interchangeably, even by entire governments and political ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FrtDZ-LOXFw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FrtDZ-LOXFw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FrtDZ-LOXFw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NowThis World",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TD-ff6g7vnePbDc0BouDue2G7y0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iH_HJs88HzQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-11T17:45:27.000Z",
+                "channelId": "UC90Mw0H5sdUEHI5Jnq9XlpQ",
+                "title": "Joe Rogan - Capitalism vs Socialism with Steven Pinker",
+                "description": "Taken from The Joe Rogan Experience, JRE 1073. Full podcast - https://www.youtube.com/watch?v=VUDAdOdF6Zg.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iH_HJs88HzQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iH_HJs88HzQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iH_HJs88HzQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Curious Content",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OTxDzudj8iU9k0PkbAcgZ3e7TgE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RSbRo99MiEM"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-25T23:51:09.000Z",
+                "channelId": "UCWJ5bPEppPw46-8OCcbMJIw",
+                "title": "Ben Shapiro Dismantles Socialism",
+                "description": "\"Socialism is a shitty idea in theory and an immoral idea in practice.\"",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RSbRo99MiEM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RSbRo99MiEM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RSbRo99MiEM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zane",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YTZI9Or-idh1XUS4O21HjhqWRtA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-r3-oWCYM3k"
+            },
+            "snippet": {
+                "publishedAt": "2015-09-11T01:02:20.000Z",
+                "channelId": "UCCXoCcu9Rp7NPbTzIvogpZg",
+                "title": "Dave Ramsey breaks down capitalism vs. socialism",
+                "description": "'The Dave Ramsey Show' host Dave Ramsey on the economy, capitalism versus socialism and the 2016 presidential election. Watch Charles Payne talk about ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-r3-oWCYM3k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-r3-oWCYM3k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-r3-oWCYM3k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox Business",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/sWyZs0t2Q5pS1tfuDoGsPRDgNf4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lN0HkA6APKk"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-18T22:00:04.000Z",
+                "channelId": "UCnHXmyuAUm9eBR27NMDsSzQ",
+                "title": "The Biggest Myths About Socialism",
+                "description": "Why are Americans so afraid of socialism? Because its powerful detractors have been lying to the American people about it for decades. Here Francesca runs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lN0HkA6APKk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lN0HkA6APKk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lN0HkA6APKk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Newsbroke",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Iluce1HN2iLXxQwemmE6JKpFCiA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "k79wCaFgU40"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-22T20:30:01.000Z",
+                "channelId": "UCvixJtaXuNdMPUGdOPcY8Ag",
+                "title": "Debunked: \"Socialism Has Never Worked\"",
+                "description": "Our long form deep dive debunking the false notion that \"socialism has never worked.\" Become a Member: https://www.davidpakman.com/membership Support ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k79wCaFgU40/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k79wCaFgU40/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k79wCaFgU40/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "David Pakman Show",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/r3vP8cJh3QIMX3sKs3ROAnUjoDA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7K7pzTejBlM"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-17T14:00:01.000Z",
+                "channelId": "UCJdKr0Bgd_5saZYqLCa9mng",
+                "title": "Socialism Isn\u2019t Cool.",
+                "description": "The ideas of socialism, that the means of production, distribution and labor should be owned, controlled and regulated by the community as a whole are the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7K7pzTejBlM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7K7pzTejBlM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7K7pzTejBlM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Rubin Report",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wG3LVtLmW7eZbFJZnEPEYSWKHFM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bKhR9i5CGkA"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-30T08:20:43.000Z",
+                "channelId": "UCZWlSUNDvCCS1hBiXV0zKcA",
+                "title": "How Socialism Ruined My Country",
+                "description": "Is Bernie Sanders right? Are people living under socialism better off? Brazil is a good case study. Felipe Moura Brasil, a journalist and Veja magazine columnist, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bKhR9i5CGkA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bKhR9i5CGkA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bKhR9i5CGkA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PragerU",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-XCjctgXz2plJ6xSr4sZdX4u2KA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8Af0gLa3OBg"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T11:10:14.000Z",
+                "channelId": "UCARtG8vf1yyu2kVfsLchnjw",
+                "title": "Dominatrix Turns Right-Wing Men Socialist?",
+                "description": "Honestly what's next....? Buy some merch! https://teespring.com/stores/leftist-cuck-merchandise?pr=CUCK20 Support the channel!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Af0gLa3OBg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Af0gLa3OBg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Af0gLa3OBg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Leftist Cuck",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ey9ysQUgN2LaE1_w-vfuQRWMdRI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-XgdtHewGR0"
+            },
+            "snippet": {
+                "publishedAt": "2016-03-31T15:06:41.000Z",
+                "channelId": "UCIveFvW-ARp_B_RckhweNJw",
+                "title": "Why \"Democratic\" Socialism Doesn't Work",
+                "description": "\"Democratic\" Socialism. What is it really? And does it even work. Read more at http://LouderWithCrowder.com including all sources at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-XgdtHewGR0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-XgdtHewGR0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-XgdtHewGR0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "StevenCrowder",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0GQlChhQhUE4sGf07Y4emUdSnxQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "l3GfCmbPDN0"
+            },
+            "snippet": {
+                "publishedAt": "2016-07-18T09:06:22.000Z",
+                "channelId": "UCZWlSUNDvCCS1hBiXV0zKcA",
+                "title": "Socialism Makes People Selfish",
+                "description": "Which is better: socialism or capitalism? Does one make people kinder and more caring, while the other makes people greedy and more selfish? In this video ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l3GfCmbPDN0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l3GfCmbPDN0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l3GfCmbPDN0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PragerU",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aC_zQge7bc2q2cYxzvJv_JbF-wE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HmDBTHxYZ7Q"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-09T13:50:00.000Z",
+                "channelId": "UCjo1uN-aM3rmBV46xj7l2KA",
+                "title": "Socialism Fails Every Time",
+                "description": "Socialism has become cool in America, under the nice name \"democratic socialism\". --------- Subscribe to my YouTube channel: http://youtube.com/johnstossel ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HmDBTHxYZ7Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HmDBTHxYZ7Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HmDBTHxYZ7Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "John Stossel",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/GbiYu4_Uj0rauWJUnooCalzpnsU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kAg2nrPiCpA"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-11T01:10:23.000Z",
+                "channelId": "UCX1US38AIKEJbyZhUi97Aaw",
+                "title": "Socialism in 5 Minutes",
+                "description": "A rather brief explanation of what Socialism actually is.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kAg2nrPiCpA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kAg2nrPiCpA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kAg2nrPiCpA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Socialism Explained",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/GcF1wHdotTGfwVd57y2EVQEPjgo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Rnny2C1RFHk"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-14T02:00:46.000Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Tucker versus socialist college student",
+                "description": "'Tucker Carlson Tonight' host takes on member of Socialist Students Organizing Committee on their plans to stage walkouts on the day of Trump's inauguration ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rnny2C1RFHk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rnny2C1RFHk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rnny2C1RFHk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/FVg0y95N_DsmwgjMnXzIb8-Nagc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IgSSJ8amS4Q"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-30T20:00:03.000Z",
+                "channelId": "UCV3Nm3T-XAgVhKH9jT0ViRg",
+                "title": "Can Social Democracy Work In America? | AJ+",
+                "description": "The middle class is dying. And that has young Americans turning to democratic socialism for solutions. Subscribe for more videos: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IgSSJ8amS4Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IgSSJ8amS4Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IgSSJ8amS4Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AJ+",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/GRMNKA9iDXwL_JYekOWfbqReNJA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RysYZM1Z_xM"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-15T22:30:17.000Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Breaking down the differences between socialism, communism",
+                "description": "Heritage economist Steve Moore breaks down the difference between socialism and communism.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RysYZM1Z_xM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RysYZM1Z_xM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RysYZM1Z_xM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vIW91skpo25NnvmhwN_zREQO4aI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bb0QdShBh1c"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-27T14:30:01.000Z",
+                "channelId": "UCNiNWbmPWehjpQohglWsKxw",
+                "title": "Why Alexandria Ocasio Cortez Just Doesn't Get It | Socialism VS Democratic Socialism |",
+                "description": "We are 100% viewer funded - Become a patron on Patreon for hidden videos and rewards: Patreon for membership: https://bit.ly/2HsGief Subscribe to our 2nd ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bb0QdShBh1c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bb0QdShBh1c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bb0QdShBh1c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Red Elephants Vincent James",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MH2Rfu-9UrhpeDLdPQqbSlj7lHs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pZvAvNJL-gE"
+            },
+            "snippet": {
+                "publishedAt": "2013-12-18T12:08:51.000Z",
+                "channelId": "UCY7dD6waquGnKTZSumPMTlQ",
+                "title": "Socialism DOES Work | Jeremy Corbyn | Oxford Union",
+                "description": "Jeremy Corbyn gives his argument that Socialism does work. SUBSCRIBE for more speakers \u25bb http://is.gd/OxfordUnion Jeremy Corbyn addresses the issue of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pZvAvNJL-gE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pZvAvNJL-gE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pZvAvNJL-gE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OxfordUnion",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_n1uYR0qqd-WIIS4-oULrSL7OV8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZBXUBYYEHhk"
+            },
+            "snippet": {
+                "publishedAt": "2014-09-25T20:23:00.000Z",
+                "channelId": "UCHuLYgw4dGbC2BuZQqPWV1g",
+                "title": "Noam Chomsky on Socialism",
+                "description": "Noam Chomsky on the misuse of the word \"socialism\", and what it actually means.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZBXUBYYEHhk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZBXUBYYEHhk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZBXUBYYEHhk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Chomsky's Philosophy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-ZKFftqWhi6Zd4CzHGPSGsG-c3A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XRFI3SyLR78"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-27T15:02:38.000Z",
+                "channelId": "UCjo1uN-aM3rmBV46xj7l2KA",
+                "title": "Socialism Leads To Violence",
+                "description": "Socialism is now cool in some circles. Newly elected Congresswoman Alexandria Ocasio-Cortez praises \"Democratic Socialism\" and told comedian Stephen ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XRFI3SyLR78/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XRFI3SyLR78/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XRFI3SyLR78/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "John Stossel",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HuQFvRCcDhlrthGS8EDMqmd6uBs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mjaUlpkD8yI"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-04T17:00:03.000Z",
+                "channelId": "UC7eBNeDW1GQf2NJQ6G6gAxw",
+                "title": "Millennials Like Socialism",
+                "description": "Learn to budget, beat debt, & build a legacy. Visit the online store today: https://goo.gl/GjPwhe Subscribe to stay up to date with the latest videos: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mjaUlpkD8yI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mjaUlpkD8yI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mjaUlpkD8yI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Dave Ramsey Show",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/G7z2FWCbDOoEbBiEKiHox_jwydA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MEFEWgOExUM"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-28T16:42:39.000Z",
+                "channelId": "UCyoQK-mZXr2ws4C0nXGCH1w",
+                "title": "Is Socialism Against \"Human Nature\"?",
+                "description": "Support Zero Books on Patreon: https://www.patreon.com/zerobooks Subscribe: http://bit.ly/SubZeroBooks Ben Burgis, author of Give Them An Argument:Logic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MEFEWgOExUM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MEFEWgOExUM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MEFEWgOExUM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zero Books",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/e8RsyQvIZf8ow7d5cKc1QhRpPNY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3R75RnqbAow"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-31T20:07:50.000Z",
+                "channelId": "UC0RJJ_Wm7jyOU9eY10LgcwA",
+                "title": "Socialism? I thought this was capitalism!",
+                "description": "Should America try socialism? Should America try MORE socialism? This woman had no idea what she was walking into here. To help support this production ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3R75RnqbAow/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3R75RnqbAow/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3R75RnqbAow/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AdamKokesh",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mHMiVeiN07d7hYofUY7nJjgMPrY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nqgY_gNd8H4"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-03T13:49:07.000Z",
+                "channelId": "UCYUS-7YqNQR31DEVoNDVNfg",
+                "title": "Ben Shapiro DEBUNKS 7 Democratic Socialism Myths",
+                "description": "Ben Shapiro expertly debunks 7 democratic socialism myths the like of Bernie Sanders and Alexandria Ocasio-Cortez are promoting. Full Ben Shapiro Show: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nqgY_gNd8H4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nqgY_gNd8H4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nqgY_gNd8H4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TRUTHBOMBS",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/rxLrii0mmWDXfIWcAcnPaRbW4eE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hF9uSOqEF9E"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-26T02:00:02.000Z",
+                "channelId": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+                "title": "Sam Seder Unravels The Components Of Socialism and Capitalism",
+                "description": "In this Majority Report clip, Sam Seder delves into socialism and capitalism with a caller. We need your help to keep providing free videos! Support the Majority ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hF9uSOqEF9E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hF9uSOqEF9E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hF9uSOqEF9E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Majority Report w/ Sam Seder",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/1hr1dr2doqNpCuX_x9iAlEU0YO8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "80htU0SwU9w"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-19T20:30:00.000Z",
+                "channelId": "UCvixJtaXuNdMPUGdOPcY8Ag",
+                "title": "Ben Shapiro is Painfully Ignorant About \"Socialism\"",
+                "description": "Save on thousands of audiobooks \u2192 http://www.blinkist.com/pakman --Ben Shapiro proves himself to be painfully ignorant of the tenets of socialism and social ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/80htU0SwU9w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/80htU0SwU9w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/80htU0SwU9w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "David Pakman Show",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cINSEBFFVn8Jx2UODrhfb6pqAQo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0zq-2cKENOc"
+            },
+            "snippet": {
+                "publishedAt": "2015-08-06T18:42:54.000Z",
+                "channelId": "UCV3Nm3T-XAgVhKH9jT0ViRg",
+                "title": "5 Ways America Is Already Socialist",
+                "description": "Socialism, turns out the dirtiest word in U.S. politics is as American as apple pie. From the U.S. labor movement to the New Deal to corporate subsidies, America ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0zq-2cKENOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0zq-2cKENOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0zq-2cKENOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AJ+",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/s3gADKkst2cXrsHYfEwpJ9T27CI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VvGNf5WqQvM"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-01T01:00:00.000Z",
+                "channelId": "UCvixJtaXuNdMPUGdOPcY8Ag",
+                "title": "Socialism vs Social Democracy Debate w/ Peter Coffin",
+                "description": "Peter Coffin, author if \"Custom Reality and You,\" creator of several YouTube series, and postmodernist Marxist, joins David to discuss socialism vs social ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VvGNf5WqQvM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VvGNf5WqQvM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VvGNf5WqQvM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "David Pakman Show",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/zqPZ7i5mepM9x-u45vqiOdGa1Y0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rl-JYD7Ss8A"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-17T15:00:03.000Z",
+                "channelId": "UCW5BbfOqiBPIf_SZOe85Wjg",
+                "title": "\"Socialism Will NEVER Work\" - Jordan Peterson Red Pills Russell Brand On Socialism",
+                "description": "T-SHIRT STORE: https://goo.gl/oF5nTk.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rl-JYD7Ss8A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rl-JYD7Ss8A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rl-JYD7Ss8A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "American Justice",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/FKLSQQo2VPZiHn3EUX4vsHTQD7I\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IHWVPtfOT6w"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-16T10:17:52.000Z",
+                "channelId": "UCrcrV4J6exbyTY4gcbvL_lA",
+                "title": "DEBUNKING SOCIALISM PROPAGANDA",
+                "description": "SUPPORT THE SHOW------------------------------- Donate Via Paypal: AshJamesWilliams@gmail.com Patreon: https://www.patreon.com/MrDapperton Shop: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IHWVPtfOT6w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IHWVPtfOT6w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IHWVPtfOT6w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mr. Dapperton",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YZTYWUGzr8Fhxw1y85KqYcDYfuU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0lxD-gikpMs"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-23T14:30:35.000Z",
+                "channelId": "UC0uVZd8N7FfIZnPu0y7o95A",
+                "title": "Stossel: Sweden is Not a Socialist Success",
+                "description": "Many people think Sweden is socialist, but its success comes from free markets. --------- Subscribe to our YouTube channel: http://youtube.com/reasontv Like us ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0lxD-gikpMs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0lxD-gikpMs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0lxD-gikpMs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ReasonTV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/I6tiiEQhuLmrqWAyA2zK24ANVco\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "exdr6KxW5g0"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-27T15:38:01.000Z",
+                "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+                "title": "Is Bernie Sanders really a socialist? | With Chris Cillizza",
+                "description": "Two of the biggest names in Democratic politics -- Sen. Bernie Sanders and House candidate Alexandria Ocasio-Cortez -- are actually democratic socialists.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/exdr6KxW5g0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/exdr6KxW5g0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/exdr6KxW5g0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CNN",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YwMEvrcPEkNVZM3WHUI7AamHlBo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MvF_D4tVfYU"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-31T08:44:09.000Z",
+                "channelId": "UCZWlSUNDvCCS1hBiXV0zKcA",
+                "title": "Democratic Socialism is Still Socialism",
+                "description": "What is democratic socialism? What makes it different than regular socialism? Has it been tried? Could it work in the United States? Comedian and political ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MvF_D4tVfYU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MvF_D4tVfYU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MvF_D4tVfYU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PragerU",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wUfkUprlC_Jem9-JF-VBWetOgzI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vahAxPl_YtY"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-20T12:36:26.000Z",
+                "channelId": "UCv44oz0OD99I6PusKPBs_Aw",
+                "title": "Ayn Rand destroys socialism forever",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vahAxPl_YtY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vahAxPl_YtY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vahAxPl_YtY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Simply explained",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/22f4mNh0ESBtWY3fOV3xY6jXUsQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4rRSnCKs-hM"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-17T01:00:01.000Z",
+                "channelId": "UCvixJtaXuNdMPUGdOPcY8Ag",
+                "title": "Why I'm Not a Socialist",
+                "description": "Get unlimited online access to a licensed therapist \u2192 https://betterhelp.com/pakman --David explains why he isn't a socialist, but rather a social democrat, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4rRSnCKs-hM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4rRSnCKs-hM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4rRSnCKs-hM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "David Pakman Show",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xKrhZcKimyYTZMZq5p_x6jh2Hds\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Kqf6VrwmpQI"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-21T03:38:24.000Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Tomi Lahren asks: Do liberals understand socialism?",
+                "description": "Tomi Lahren quizzes people in Los Angeles; reaction from Sebastian Gorka, Fox News national security strategist, and Dan Bongino, NRATV contributor.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kqf6VrwmpQI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kqf6VrwmpQI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kqf6VrwmpQI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/RceZ7WkuHNuaUPwwRLfCRV7WudM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uyyxWFWNROk"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-22T22:40:40.000Z",
+                "channelId": "UCDwm-QufrnPIasIxVaivpJg",
+                "title": "Ben Shapiro Explains Capitalism and Socialism",
+                "description": "Ben Shapiro Explains what the difference is between capitalism and socialism.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uyyxWFWNROk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uyyxWFWNROk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uyyxWFWNROk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Conservative Central",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/I0eG4gqnyUgWIHZ_VIxyV3hQwZU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZjMMFJHclJw"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-22T21:00:06.000Z",
+                "channelId": "UCDgchsbJnrX604K-xWsd-fQ",
+                "title": "Ridiculously Ungrateful Youth wants Socialism",
+                "description": "GET REKT EP 4 | Do the pathetic youth ever look at what socialism has done in the past or do they ignore the facts and hope it'll be better with Bernie? Please ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZjMMFJHclJw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZjMMFJHclJw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZjMMFJHclJw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hunter Avallone",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9IFbq9PsKVWjFUNh74f397dhu3s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kuc6C2_Txmw"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-07T01:26:37.000Z",
+                "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+                "title": "Tucker takes on Cornel West over Democratic socialism",
+                "description": "Has Democratic socialism ever worked? DSA honorary chair Cornel West weighs in on 'Tucker Carlson Tonight.' #Tucker FOX News Channel (FNC) is a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kuc6C2_Txmw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kuc6C2_Txmw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kuc6C2_Txmw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fox News",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-Vurm-aVYCe2VDUYV7bGe-F9hGM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IuNdBiMz0uE"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-07T09:38:26.000Z",
+                "channelId": "UCvCFNLwK0IZsB_YdUE2SJ8A",
+                "title": "How Socialism has destroyed Kerala, West Bengal & Tamilnadu",
+                "description": "Make Videos like me : http://amzn.to/2wlHFmd.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IuNdBiMz0uE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IuNdBiMz0uE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IuNdBiMz0uE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "themangoindian",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6RLgt04mBq31a615NZaP41ixtvE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AupRGM2hmRo"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-26T04:30:01.000Z",
+                "channelId": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+                "title": "Meghan McCain Has Panic Attack After The View Begins Accepting Socialism",
+                "description": "Meghan McCain SNAPS on live TV after her View-mates start going left. Sam Seder and the Majority Report crew discuss this. We need your help to keep ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AupRGM2hmRo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AupRGM2hmRo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AupRGM2hmRo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Majority Report w/ Sam Seder",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/SUvC65zfMLEa9RYi8zJem_Pv3sw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TKyynvy86pg"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-16T12:50:43.000Z",
+                "channelId": "UCpimAnNpH_JQxDa0YMTwdnw",
+                "title": "The HORRIFIC \"BEAUTY\" of SOCIALISM THEY DON'T WANT YOU to KNOW!",
+                "description": "Subscribe to my website: http://bit.ly/HighImpactFlixOfficial \u2705 My Bitchute channel: http://bit.ly/HighImpactFlixonBitChute \u2705 Steemit: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TKyynvy86pg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TKyynvy86pg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TKyynvy86pg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HighImpactVlogs",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/scHBIJ2t5hdZKJywStHXYUxFWCE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K4Tq4VE8eHQ"
+            },
+            "snippet": {
+                "publishedAt": "2009-08-02T22:38:03.000Z",
+                "channelId": "UCiDL9YvuGJQn9jRgIf_tycw",
+                "title": "Chomsky on Socialism",
+                "description": "Noam Chomsky responds to a caller's request for his thoughts on socialism, during a 2003 interview by Brian Lamb, for C-SPAN's \"In Depth\" program.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K4Tq4VE8eHQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K4Tq4VE8eHQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K4Tq4VE8eHQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "vktrsx",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0DNHwwbmYwfzbbQJLHp3VQLgqxQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tph7X1TKJy4"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-15T13:05:11.000Z",
+                "channelId": "UCpmXoljAfUmrLANxzMSewWA",
+                "title": "\u0938\u092e\u093e\u091c\u0935\u093e\u0926 \u0935 \u0938\u093e\u092e\u094d\u092f\u0935\u093e\u0926 \u092e\u0947\u0902 \u092b\u0930\u094d\u0915 Difference Between Socialism and Communism",
+                "description": "This video explains differences between concepts of socialism and communism. \u0907\u0938\u092e\u0947\u0902 \u092c\u0924\u093e\u0928\u0947 \u0915\u093e \u092a\u094d\u0930\u092f\u093e\u0938 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u0915\u093f \u0938\u092e\u093e\u091c\u0935\u093e\u0926...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tph7X1TKJy4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tph7X1TKJy4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tph7X1TKJy4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dr. A. K. Verma",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YaZ9C2saCQcnJ7XbkgpSRhXmmB8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lEvWDwZYvk8"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-15T14:14:19.000Z",
+                "channelId": "UCQhaXBJ30DLyGDOkFNwMVlQ",
+                "title": "\u201cSocialism Throws People Like Your Ass Into Labor Camp\u201d Commie Student To Former Soviet Citizen-5/5",
+                "description": "Part 2/5 archived link: https://web.archive.org/web/20160530091022/https://www.youtube.com/watch?v=IuYgIfHzQTg Part 2/5 \"has been removed for violating ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lEvWDwZYvk8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lEvWDwZYvk8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lEvWDwZYvk8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vladimir Jaffe",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}

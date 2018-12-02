@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/z5oXCJGSAr3xJoDfPV8zLKpGK08\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ElNmjnU4uWlHXUXDcTLYln7TTKQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "siMal6QVblE"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-15T23:00:04.000Z",
+                "channelId": "UCqnbDFdCpuN8CMEg0VuEBqA",
+                "title": "A Conversation With Native Americans on Race | Op-Docs",
+                "description": "This week we bring you \u201cA Conversation With Native Americans on Race,\u201d the latest installment in our wide-ranging \u201cConversation on Race\u201d series. Directed by ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/siMal6QVblE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/siMal6QVblE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/siMal6QVblE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The New York Times",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cSmXkc7h1TyHJ04n-ml-BRJKvP8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-stkMRVkCIU"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-28T14:42:45.000Z",
+                "channelId": "UC3K6S38V3aF1VBMvQfebK9Q",
+                "title": "Oldest Native American footage ever",
+                "description": "Amazing, rare and heartfelt tribute to Native American tribes. Footage dating back to 1895, with rare vintage audio recording of Native American music. American ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-stkMRVkCIU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-stkMRVkCIU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-stkMRVkCIU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yestervid",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aFb2ueE4v_lXJlsBfI6nI4b5OiM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eU7Ko9lv5f4"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-04T22:30:52.000Z",
+                "channelId": "UC5zNFCCH5a1_7li5rh2rmcw",
+                "title": "Why African Americans Think They Are Aboriginal Native American Indians",
+                "description": "The following videos will answer any questions you may have about this topic in great detail. \u201cAfrican Americans Are Not Native American Indians\u201d ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eU7Ko9lv5f4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eU7Ko9lv5f4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eU7Ko9lv5f4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Everybody Hates Angel",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PCLeVnnuAajM8cLtNh9gbz5C12Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "myo9ZsdY2DA"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-24T20:07:55.000Z",
+                "channelId": "UC2DQV55vrjx5fmVj-kEht2Q",
+                "title": "NATIVE AMERICAN SLANG!",
+                "description": "Hey guys! If you ever wondered how we talk on the rez, this is it! haha Thank you so much for watching! Let me know if you liked this video by giving it a like and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/myo9ZsdY2DA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/myo9ZsdY2DA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/myo9ZsdY2DA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Raquel Lemery",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/P_wHK-7fVBgfKyEOVDoNQdVWGgg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0XLUrW_4ZMs"
+            },
+            "snippet": {
+                "publishedAt": "2009-01-19T20:48:15.000Z",
+                "channelId": "UCIUI6RjqmHQrdZ2kPawluSQ",
+                "title": "Dave Chappelle - Native Americans",
+                "description": "Dave Chappelle - Native Americans (For What It's Worth)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0XLUrW_4ZMs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0XLUrW_4ZMs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0XLUrW_4ZMs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "davechappelletv",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EMlC8qOgcHE0RyhCkXuZ3MPB1RY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1Wo841YaHu8"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-27T17:00:05.000Z",
+                "channelId": "UCJ7hqXLdgXlzjKpZY-K_6HA",
+                "title": "Chelsea Visits a Native American Tribe | Chelsea | Netflix",
+                "description": "Chelsea visits Montana to learn about Native American culture and participate in a ceremonial bison harvest. Watch the full episode: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1Wo841YaHu8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1Wo841YaHu8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1Wo841YaHu8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Chelsea",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YqlCZ48un-o6tKg4CcCz1KsV1mY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b79hlokyxG8"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-11T22:36:55.000Z",
+                "channelId": "UCD26FNVb2uBtlJvXQ2XJ46g",
+                "title": "Native American Confronts Racist White Man In Montana",
+                "description": "The employee in the video was fired and a manager at the store said that neither of the Natives had a record of shoplifting allegations against them. The guy is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b79hlokyxG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b79hlokyxG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b79hlokyxG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Indigenous Americans",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yvoPALuQKznvt25GNy79K46d35g\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xH95TGgdKjg"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-07T20:05:31.000Z",
+                "channelId": "UC86awc96YGUMoU-VaaKIqTA",
+                "title": "Native American Indian check White lady",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xH95TGgdKjg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xH95TGgdKjg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xH95TGgdKjg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lawrence Wilson",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/zLCQ4JOb1UFaKCqTnytNZS4AoYA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7SiwaBrFr8Q"
+            },
+            "snippet": {
+                "publishedAt": "2017-12-15T14:30:59.000Z",
+                "channelId": "UCYrLKe5ZAHGjTCS53guNG3g",
+                "title": "Native American Ancestry DNA Results",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7SiwaBrFr8Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7SiwaBrFr8Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7SiwaBrFr8Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Savage Brownie",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VbO8gvYNWlh-N9JLrJVsx8hvT0c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aafGVKK-qlw"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-08T16:12:21.000Z",
+                "channelId": "UCn4sPeUomNGIr26bElVdDYg",
+                "title": "Voting While Native American in Montana | NowThis",
+                "description": "'For 500 years they've tried to kill us off, and for 500 years we keep coming back.' \u2014 These activists are trying to make 2018 the year Native Americans change ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aafGVKK-qlw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aafGVKK-qlw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aafGVKK-qlw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NowThis News",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4LcW5p70B1gRAsUsX0Y7LjXPW88\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SM8WZ0ztMuc"
+            },
+            "snippet": {
+                "publishedAt": "2015-01-02T15:39:16.000Z",
+                "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+                "title": "'America is a stolen country'",
+                "description": "Subscribe to BBC News www.youtube.com/bbcnews Alcoholism, unemployment and suicide are problems associated with Native American reservations in the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SM8WZ0ztMuc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SM8WZ0ztMuc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SM8WZ0ztMuc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BBC News",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NLd66ja3BN7yp9c83fqMMr_5VEQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hQ1W33gG9K0"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-22T22:35:12.000Z",
+                "channelId": "UCIczOFxwgv27AlTkZZMj8yw",
+                "title": "Native American Elders Predict The End Of The US",
+                "description": "Native American elders predict the end of the US. In this video we take a look at the predictions of native American elders. Native Americans are very in tuned ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hQ1W33gG9K0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hQ1W33gG9K0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hQ1W33gG9K0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Unexplained Mysteries",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/g_0I1SDFeE_i-c3QvqHSx_pAHNQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XrZ4fDYmyt0"
+            },
+            "snippet": {
+                "publishedAt": "2014-01-04T16:06:29.000Z",
+                "channelId": "UCeIJ8XBfg-s6ZdhkkYduyzA",
+                "title": "We visit a real Native American POW WOW / USA",
+                "description": "You can't get more American than Native Americans, who were and still are an important part of US culture. While their people have lived on the land for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XrZ4fDYmyt0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XrZ4fDYmyt0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XrZ4fDYmyt0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Glimpsed",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xoqf1VTRf42O1Nq4cEg4YZ5o_dU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0jRgs8hddfY"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-31T02:05:23.000Z",
+                "channelId": "UCOsxl41eKO-tD0q7gNecrUQ",
+                "title": "Why are the Native Americans so angry?",
+                "description": "Time for the truth.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0jRgs8hddfY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0jRgs8hddfY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0jRgs8hddfY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phoenix Moon",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jDP6VIebziUUGUKfeeE_716zqXE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EpowJaNaAXM"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-04T05:30:11.000Z",
+                "channelId": "UCMNxphlLmiv8jsOCZX9-7sg",
+                "title": "Cops harassing innocent native americans walking on the road",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EpowJaNaAXM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EpowJaNaAXM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EpowJaNaAXM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mermy Yower",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KLgMgrhD1cCMLx-GIinBva1wY8Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EreA6ItomuI"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-14T19:32:12.000Z",
+                "channelId": "UCnxGkOGNMqQEUMvroOWps6Q",
+                "title": "Joe Rogan - Stories of Native American History",
+                "description": "Daniele Bolelli tells fascinating stories of the early conflict with Native Americans.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EreA6ItomuI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EreA6ItomuI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EreA6ItomuI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JRE Clips",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/J9SduWCGw4OgWgLUIrEYOKqf_wk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eMHY9HAQKcA"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-18T15:49:32.000Z",
+                "channelId": "UCzuqE7-t13O4NIDYJfakrhw",
+                "title": "Native Americans React to Elizabeth Warren\u2019s DNA Test: Stop Making Native People \u201cPolitical Fodder\u201d",
+                "description": "https://democracynow.org - Native Americans across the country are criticizing Senator Elizabeth Warren's decision to use a DNA test to assert her Native ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eMHY9HAQKcA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eMHY9HAQKcA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eMHY9HAQKcA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Democracy Now!",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ay9paExIq-gCCym0Un4XCSwQs1A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DF4lySKTru8"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-24T06:33:24.000Z",
+                "channelId": "UC5Twx2TuzRaOmnjP97HHwyA",
+                "title": "NATIVE AMERICANS ARE ISRAELITES",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DF4lySKTru8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DF4lySKTru8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DF4lySKTru8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YAHAWASHI IS COMING BACK!",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/RJKzNV0pwO9QT1JZUzqiRNxkHKA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jUeAYiKHcvo"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-10T13:55:50.000Z",
+                "channelId": "UCTiJFF8uRmAJwdkAXsTH8Jw",
+                "title": "100+ million Native Americans Were Murdered By The American Government",
+                "description": "CLICK HERE TO WATCH: Tony Redhouse on Native American Healing https://goo.gl/kS2UGY For hundreds of years a mixture of colonial conflict, disease, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jUeAYiKHcvo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jUeAYiKHcvo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jUeAYiKHcvo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Billy Carson 4biddenknowledge",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/srSFEdnAarWiWUr_pQIUVEDT8co\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Tb25kawfz9g"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-07T01:51:02.000Z",
+                "channelId": "UCD26FNVb2uBtlJvXQ2XJ46g",
+                "title": "What Do Native Americans Look Like?",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Tb25kawfz9g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Tb25kawfz9g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Tb25kawfz9g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Indigenous Americans",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/IhSYahbJmhjh211iqMatY6mEzgc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PabVX73zTAA"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-16T04:39:37.000Z",
+                "channelId": "UCI-2wOEPdNgebBddw-NEfxw",
+                "title": "Native Americans on: THANKSGIVING",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PabVX73zTAA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PabVX73zTAA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PabVX73zTAA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "johnnykimberlyg",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tTW9108BX6Q5DdHABFuD9v0Zq64\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3zOSpTVXbgQ"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-28T01:22:09.000Z",
+                "channelId": "UCQ0IAkWrkZi_UPhV-JFUFDA",
+                "title": "9 Answers for Native Americans.",
+                "description": "Original Video: https://www.youtube.com/watch?v=xzWHxPxH08Q Aztec Genocide: https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3zOSpTVXbgQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3zOSpTVXbgQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3zOSpTVXbgQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Just a Robot",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Y3SwP7BbYdH3C29xnMD2AIhGOTo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AWuoa4pXBuU"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-28T13:00:01.000Z",
+                "channelId": "UCUcyEsEjhPEDf69RRVhRh4A",
+                "title": "Native Americans In WW1 - Superstitions - Paint Jobs I OUT OF THE TRENCHES",
+                "description": "Another exciting episode of Out Of The Trenches - this week Indy talks about Native Americans in the war, soldier superstitions and custom paint jobs for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AWuoa4pXBuU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AWuoa4pXBuU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AWuoa4pXBuU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Great War",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dpSplOZhj2k2LlbWX0xRr50VUjA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MA0SH9CN1aM"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-06T01:28:56.000Z",
+                "channelId": "UC7q6RbCU7VyClvBKijl7Kjg",
+                "title": "ANCESTRAL HEALING: 11 Plants Native Americans Used To Cure EVERYTHING - You Can Use Them Too!",
+                "description": "ANCESTRAL HEALING: 11 Plants Native Americans Used To Cure EVERYTHING - You Can Use Them Too! Click here to get natural products from our shop: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MA0SH9CN1aM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MA0SH9CN1aM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MA0SH9CN1aM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AJA Ancestral Healing",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/B8Q43XY6moPuYzL8D1OuqIkYJiE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7zK--HOW9bs"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-10T14:39:31.000Z",
+                "channelId": "UChBsOxskMpDmBAsgJ91fKcg",
+                "title": "Native Americans were NOT environmentally friendly?",
+                "description": "PS. This is about the people we know as the \"Native Americans\", not the East Asians and Europeans they probably stem from. If you're a regular viewer please ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7zK--HOW9bs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7zK--HOW9bs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7zK--HOW9bs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ThuleanPerspective",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xqVpIQrrATizkc4epUJPEPAwHZU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ppSDjjU7KAw"
+            },
+            "snippet": {
+                "publishedAt": "2015-11-12T22:01:10.000Z",
+                "channelId": "UC5qo2JdCqTEMb1Dq2hCGrjg",
+                "title": "AWAKEN Your Spirit - How to Use the Native American Medicine Wheel to Find Your True Purpose",
+                "description": "Finding your purpose on this Earth is at the root of your struggle. That is why many people look for guidance from the Native American medicine wheel. Listen as ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ppSDjjU7KAw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ppSDjjU7KAw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ppSDjjU7KAw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "thetalltrees",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3nU8g3pkXYbIbQ0yW6CfrWiDe1w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "46gB83D6HKo"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-23T17:00:00.000Z",
+                "channelId": "UCDraeOigzyHfJCa7LJxf10w",
+                "title": "This Soldier Was Fighting Native Americans When He Discovered An Elaborate Ancient Lost City",
+                "description": "Do not forget to visit the channel WATCHJOJO ANIMALS https://goo.gl/438CPy contact us at:watchjojo2@gmail.com http://watchjojo...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/46gB83D6HKo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/46gB83D6HKo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/46gB83D6HKo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "watchJojo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aTpJJwOgJQ1ZRyXeIm0rlzUiTJI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ociHVDWxDaY"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-07T23:54:43.000Z",
+                "channelId": "UCYv7bYCwD_JraTmiZuJZAUA",
+                "title": "The First Thanksgiving: What Really Happened",
+                "description": "An educational animation that tells the in-depth story surrounding the first \"thanksgiving\". Hope you enjoy! Bibliography at bottom of description AUTHOR'S ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ociHVDWxDaY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ociHVDWxDaY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ociHVDWxDaY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Uncivil History",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4nb_KtAf1CRMmLsZioaJIfqhPGs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jEjbQDzGfPk"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-23T21:52:06.000Z",
+                "channelId": "UC5zNFCCH5a1_7li5rh2rmcw",
+                "title": "African Americans Are Not Native American Indians - You Are African",
+                "description": "Are Black Americans The Real Native Americans? Apparently African Americans Are Not From Africa... Please watch this video all the way through, I hope this ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jEjbQDzGfPk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jEjbQDzGfPk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jEjbQDzGfPk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Everybody Hates Angel",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0wzHVVZYsG_Hr2WPgv0gcf28jQ4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NCZY_AOdnX8"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-06T09:42:29.000Z",
+                "channelId": "UCqj1hr91cB9CZ5nr_r6qYbA",
+                "title": "BIGFOOT ATTACKS NATIVE AMERICAN...LOCATION VISIT",
+                "description": "VISIT TO WHERE BIGFOOT ATTACKED NATIVE AMERICAN.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NCZY_AOdnX8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NCZY_AOdnX8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NCZY_AOdnX8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CASCADE BIGFOOT",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yyW3UZcj0m-Zp9LynV-7ahS-qBs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QDJXsAinvM4"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-03T00:43:21.000Z",
+                "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+                "title": "Native American: Hard to say I trust government",
+                "description": "CNN's Van Jones talks to Native Americans to discuss the government's level of contribution to their reservations throughout the different administrations.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QDJXsAinvM4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QDJXsAinvM4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QDJXsAinvM4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CNN",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/H2HpImNfVRUqNexuy5THPB3uhRo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "btBNBUmaPp8"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-13T18:55:17.000Z",
+                "channelId": "UCp3IpYKNdBYdiR72k_cFmYA",
+                "title": "Dozens of Native American women have disappeared in Montana",
+                "description": "Dozens of Native American women have disappeared in Montana. Why is no one paying attention.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/btBNBUmaPp8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/btBNBUmaPp8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/btBNBUmaPp8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "codedtestament99",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/IQ8wnuw_n7D1kzZ8hLc2JRqyrHw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3UM_gECb6II"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-23T17:49:05.000Z",
+                "channelId": "UCduq0UIWE7U0LGRNgDlGIEA",
+                "title": "Native Americans: True Diet (Read Description)",
+                "description": "Natives Americans are known as the most connected tribes to nature in history. Their traditions were so in tuned with nature that they themselves paid homage ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3UM_gECb6II/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3UM_gECb6II/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3UM_gECb6II/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Primal Aloe",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UCXoD847ZyS2e_NgZ9XSycdu-ks\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1gG-GD0JZAI"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-14T21:25:06.000Z",
+                "channelId": "UCGLsDbzgYVjIVQrn0YQNQKg",
+                "title": "Native American Elder Witnesses a Deer Being Chased by a Sasquatch.",
+                "description": "BFRO investigators Ron Boles and Larry Newman interview a Native American Elder regarding a sighting involving a possible Sasquatch running down a deer.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1gG-GD0JZAI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1gG-GD0JZAI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1gG-GD0JZAI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LordCryptid",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3InLChxl-6lgtmqdYVGsVvdca3A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "csbplgLpS9I"
+            },
+            "snippet": {
+                "publishedAt": "2014-01-28T02:17:17.000Z",
+                "channelId": "UC223Rd7yCfDo9fv6ENdNp9Q",
+                "title": "APUSH Review: Native Americans In The Late 19th Century",
+                "description": "All images are part of the public domain_creative commons. If you would like to download the PowerPoint used in the video, please click here: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/csbplgLpS9I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/csbplgLpS9I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/csbplgLpS9I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Adam Norris",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/rkH1arARQlt-WZm7hkp6buzZsbk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pZbZwK4hshI"
+            },
+            "snippet": {
+                "publishedAt": "2010-11-25T10:43:54.000Z",
+                "channelId": "UC2fG9-BtnOeBd6hBlXPip1Q",
+                "title": "Native Americans: Spirit of the Sun - Chirapaq",
+                "description": "Native American Chant.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pZbZwK4hshI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pZbZwK4hshI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pZbZwK4hshI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SoundOfNewAge",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/sVFd-ZQjMoQMsYkN0l8vsw5Sp9g\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uAvPUBS3EFg"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-06T20:21:27.000Z",
+                "channelId": "UCozX1r3Zn_cwwokVDoXitxQ",
+                "title": "North America's Original Cuisine - Foodways with Jessica Sanchez, Episode 8",
+                "description": "In a remote corner of Colorado known as Dunton Hot Springs, Executive Chef Karlos Baca is educating guests on the meaning of indigenous cuisine. Using the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uAvPUBS3EFg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uAvPUBS3EFg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uAvPUBS3EFg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ZAGAT",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/amrQ3qIGwWoVfEQNc9tu-dNsgiE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CxnQBllIFOs"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-20T22:20:59.000Z",
+                "channelId": "UCsYcwjed9MSxvH7U_jwsv8g",
+                "title": "Fearless Curiosity: Quakers and Native Americans",
+                "description": "Bonus Video: When William Penn came to Pennsylvania, he and other Quakers had a unique approach when it came to Native Americans. But as Quaker ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CxnQBllIFOs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CxnQBllIFOs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CxnQBllIFOs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "QuakerSpeak",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/c4qD64HDY_3V3D8PNAS4hHxA0fE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8kKBftWw8Ss"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-30T07:50:48.000Z",
+                "channelId": "UCC0vZNeaqkmui_3lzo2JBBQ",
+                "title": "Native Americans Traumatized After Killing a Bigfoot [True Bigfoot Stories]",
+                "description": "Based on a true story, a Native American recounts a terrifying story about a Bigfoot causing havoc around the village.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8kKBftWw8Ss/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8kKBftWw8Ss/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8kKBftWw8Ss/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BigfootEvidence",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ftAwbKAxLmJbRLIbSv7U7E_bR2k\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Jfk-5jrXRZk"
+            },
+            "snippet": {
+                "publishedAt": "2014-12-04T01:39:35.000Z",
+                "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
+                "title": "Restructuring schools to nurture Native American students",
+                "description": "The high school graduation rate for Native Americans is the lowest of any ethnic or racial group in the United States. How can the government assist reservation ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Jfk-5jrXRZk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Jfk-5jrXRZk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Jfk-5jrXRZk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PBS NewsHour",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/O3gve94fmVDKFtoOYs92mVUplj4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uTqXHSQv5qQ"
+            },
+            "snippet": {
+                "publishedAt": "2012-11-20T08:50:45.000Z",
+                "channelId": "UCHS5AbSAL_SqDxHitopEwdA",
+                "title": "VLog: Do Native Americans Celebrate Thanksgiving? :-)",
+                "description": "Natives always get asked, \"Do Native Americans celebrate Thanksgiving?\" The answer... well, you're going to have to watch this video & find out... But to spoil ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uTqXHSQv5qQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uTqXHSQv5qQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uTqXHSQv5qQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "daybreakwarrior",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/K9JRaNYjkNS1663Jw9BNcHwBa3o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YlG2-7yI3mc"
+            },
+            "snippet": {
+                "publishedAt": "2012-02-01T20:29:06.000Z",
+                "channelId": "UCcUyLGeJL1rEPFNLb31WUCg",
+                "title": "Native American Boarding Schools 101",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YlG2-7yI3mc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YlG2-7yI3mc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YlG2-7yI3mc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brad Klitzke",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/SRck932ITTWLyMGVX7cDNcrNhy0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-x-G_ee_B2c"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-19T19:36:24.000Z",
+                "channelId": "UCIXJtw3BWtPWy7l5zkuTzMg",
+                "title": "6 of 17,\" Play \"SONGS \" on the Native American Flute,.  \"Falcon Flutes and Drums",
+                "description": "In this 17-part video series, We will show techniques from Beginner to Advanced for the Native American flute. \"\"150\"\" video's on my site \"oldmanyow\" \"SONG ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-x-G_ee_B2c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-x-G_ee_B2c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-x-G_ee_B2c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "oldmanyow",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/AeIltovbhtEjyvKNgpDHNDKG13Q\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iY6EIwJxrcE"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-15T13:00:04.000Z",
+                "channelId": "UCqa2MPu8bLY1PwVFUpSyVhQ",
+                "title": "Kids Meet a Native American Politician | Kids Meet | HiHo Kids",
+                "description": "Come play with us! Sign up at http://bitly.com/hihofans to get updates on HiHo, special offers, and exclusive behind-the-scenes content with your favorite kids.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iY6EIwJxrcE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iY6EIwJxrcE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iY6EIwJxrcE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HiHo Kids",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tSnv00lUfUsNkFuy1xQbmdR-WR0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nJrINdjuibQ"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-27T03:55:11.000Z",
+                "channelId": "UCvRjYtPi3AXPlDJQDa9TQOQ",
+                "title": "Family Guy- Native American Compilation",
+                "description": "I do not own this material, it is the property of Seth Macfarlane and Fox. Featured: s1 ep6 s12 ep6.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nJrINdjuibQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nJrINdjuibQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nJrINdjuibQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brook T",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aO53O7A88jkzjBZZ9-J5gH16Sz8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-XagZt80bTs"
+            },
+            "snippet": {
+                "publishedAt": "2008-12-18T16:52:25.000Z",
+                "channelId": "UCQcJBvpY1i6jGAJvzKfv7Lg",
+                "title": "Indigenous Native American Prophecy",
+                "description": "http://www.beppegrillo.it.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-XagZt80bTs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-XagZt80bTs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-XagZt80bTs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Beppe Grillo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6BspZT8t8PFjf1ypC762RnGH4V8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2cbjUGa7Ejg"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-14T19:30:00.000Z",
+                "channelId": "UCg6SS0wXEMfU1oU4-mc9lOA",
+                "title": "Family Guy - Native Americans",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2cbjUGa7Ejg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2cbjUGa7Ejg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2cbjUGa7Ejg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jea Santi",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/51qVzqPQyF-dH29cN25_cBj61v4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fU8w0wtX4so"
+            },
+            "snippet": {
+                "publishedAt": "2016-07-01T18:20:34.000Z",
+                "channelId": "UCHlwf8ssH_TT5zgCjoCb4Eg",
+                "title": "Donald Trump Never Liked Native Americans",
+                "description": "Just as he now insists Elizabeth Warren has no \"Native American blood,\" Donald Trump claimed Native casino owners didn't deserve special status during ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fU8w0wtX4so/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fU8w0wtX4so/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fU8w0wtX4so/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RippDemUp TV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/RAljun0zYHvT0jwO4RF1VhiGu7Q\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Hb9E41fcUk8"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-05T15:27:25.000Z",
+                "channelId": "UCNgBn-naqFoghitjD9FrPHw",
+                "title": "White Buffalo - The Best Native American Flute Performance Ever",
+                "description": "Re-uploaded cause I couln't find the original anymore.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Hb9E41fcUk8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Hb9E41fcUk8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Hb9E41fcUk8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rudi",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KSPMMSpTUAmnhfmFtUnoIgaSfSA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RImVPqpIqvo"
+            },
+            "snippet": {
+                "publishedAt": "2014-07-12T00:55:22.000Z",
+                "channelId": "UCh5A8yVx0Y-KRqH9ed6qWgg",
+                "title": "GMod native americans defend rightful clay",
+                "description": "native american men come to havoc server to see their mine has been overrun with white men. brave native soldier steal white men ore and scare them away ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RImVPqpIqvo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RImVPqpIqvo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RImVPqpIqvo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "daymoot act",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/1ygbr8TeAhFCf38E45xdpIgIfc4\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7hBDfeML4yUH0yllt33sd43Y6R4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NLx9By1n6BE"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-29T23:36:31.000Z",
+                "channelId": "UC1UJloa36qbzIJQlhtTjTFg",
+                "title": "LOOM KNIT Hat Easy Rib Stitch Beanie Strickring | GorroTelar | Tricotin | \u0646\u0648\u0644 | obr\u0119cze dziewiarskie",
+                "description": "How to Loom Knit an Easy Bulky Rib Stitch Hat SUPPLIES Mostly used KK Loom: http://amzn.to/2Gi2yDk KB Loom HOOK: http://amzn.to/2oWqh3o Stitch ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NLx9By1n6BE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NLx9By1n6BE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NLx9By1n6BE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LoomaHat.com",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mwSoOQjIRX7XSsSJPAbWgriUtYs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hM5M2Fu0RtY"
+            },
+            "snippet": {
+                "publishedAt": "2014-09-23T13:38:04.000Z",
+                "channelId": "UCdtd0HcgVPoCUUdxjrx8IpQ",
+                "title": "Knitting Basics: Getting Started",
+                "description": "We'll show you the basics of knitting so you can get started today! For project details and printable please ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hM5M2Fu0RtY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hM5M2Fu0RtY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hM5M2Fu0RtY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hobby Lobby",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/37dQCbUJJE7yymZF32dVQJC8Hcc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "blPItx3b1qg"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T13:30:00.000Z",
+                "channelId": "UC1UJloa36qbzIJQlhtTjTFg",
+                "title": "LOOM KNITTING Cowl Scarf - The Purl in 8 Oversized Cowl Pattern",
+                "description": "How to Loom Knit an Oversized Cowl with the Purl in 8 Stitch. You can use any knitting loom, long or round with at least 38 pegs. I will teach you how to do the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/blPItx3b1qg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/blPItx3b1qg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/blPItx3b1qg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LoomaHat.com",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/w3C-nvGHaUTrdTBmwoxVlVEU6lc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ONVQCK_-rKc"
+            },
+            "snippet": {
+                "publishedAt": "2013-02-14T05:07:21.000Z",
+                "channelId": "UCDllBzRhAFWF7ZCK09MMIzA",
+                "title": "How to Knit - Absolute Beginner Knitting, Lesson 1 - Even if You're Clueless!",
+                "description": "How to knit if you're an absolute beginner! In this video, I teach you how to: 1. Work a slip knot 2. Cast on 3. Work the knit stitch 4. Bind off I also include ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ONVQCK_-rKc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ONVQCK_-rKc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ONVQCK_-rKc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ExpressionFiberArts",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BzpMegIXZpqqf2-vvmZGuLA7UZ4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZFDtj4DQDKU"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T16:00:05.000Z",
+                "channelId": "UC3v6sjWuPxtW36jQ-if4OuA",
+                "title": "LEARNING TO LOOM KNIT!",
+                "description": "This is not easy.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZFDtj4DQDKU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZFDtj4DQDKU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZFDtj4DQDKU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Imbrandonfarris",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/1Zkh0vbTSiZoi3DlVo_CaPKUMYU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZcqwnOSDjTY"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T22:07:52.000Z",
+                "channelId": "UCx__O_6VbDNlrHB1hmfCVhw",
+                "title": "Visiting Santa - Vlogmas Day 1 - Knitting Expat",
+                "description": "Welcome to the Knitting Expat channel and Vlogmas 2018! ... this is the first video in a series of vlog videos for Vlogmas! You can find the Knitting Expat Ravelry ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZcqwnOSDjTY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZcqwnOSDjTY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZcqwnOSDjTY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Knitting Expat Podcast",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_vt5Pro4S1LIkKYZMS_EHqUJwcc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zthYrxGQBLs"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T19:44:35.000Z",
+                "channelId": "UCz-VoQWkCsxTlTULNQdhDRg",
+                "title": "In a Pickle Knitting - Vlogmas #1",
+                "description": "This video is about holiday children's literature and some felt crafting. https://www.etsy.com/search?q=mmmcrafts https://www.etsy.com/shop/BenzieDesign.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zthYrxGQBLs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zthYrxGQBLs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zthYrxGQBLs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "In a Pickle Knitting",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xiHmh1Bq544FNCkalOTp_6d0h5Q\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ebNPtVePrh0"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-03T12:57:24.000Z",
+                "channelId": "UC6RWCg-VbQM7eiZL84fB-Xw",
+                "title": "Knitting Rib for Beginners (cast on, kn, pu & Rib)",
+                "description": "Hi there, This Video is for beginners who don't know how to Knit. I will show you how to cast on, knit, purl and do ribbing. This is a good video to watch before ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ebNPtVePrh0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ebNPtVePrh0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ebNPtVePrh0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GillysCraftWorld",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7vEgoYMTf2Jgss411onEzk0X4mg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-ijrtfdHSno"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T21:40:30.000Z",
+                "channelId": "UCx__O_6VbDNlrHB1hmfCVhw",
+                "title": "Knitcrate Review - November 2018 - Knitting Expat",
+                "description": "Welcome to the Knitting Expat Podcast ... this is a review video for the November 2018 Knitcrate Main Membership. For more information about Knitcrate you can ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-ijrtfdHSno/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-ijrtfdHSno/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-ijrtfdHSno/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Knitting Expat Podcast",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pr5Tc_0XCtCgwNHBeBg1_L6Yb5Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0XEe_KsWUsc"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T21:11:27.000Z",
+                "channelId": "UCJs-4cgnJJgkJfRHogiOecQ",
+                "title": "Knitting Lace Shrug Sleeves - Knitted Lacy Shrug",
+                "description": "www.joannesweb.com (click on SHOW MORE for all the info). A very feminine knitted shrug and very simple to make with a lace stitch pattern. Follow along with ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0XEe_KsWUsc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0XEe_KsWUsc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0XEe_KsWUsc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JoannesWeb",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_qUrlvOKeYuCOpUruM4ssx-pC_c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ox-bEaVaKLs"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-26T17:46:33.000Z",
+                "channelId": "UCc0J7xxeABl10gK_kaw52Tw",
+                "title": "Knitting Much Faster English Method",
+                "description": "Using my hints for quicker knitting you should be able to reach up to double your present speed, whatever your technique. I have researched old books and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ox-bEaVaKLs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ox-bEaVaKLs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ox-bEaVaKLs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WoollyWoodlanders",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vSFwMeLIk_NMj_SlNWhEc8qgi0E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MGm8p5qWGks"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T19:57:13.000Z",
+                "channelId": "UCuFiGMZGBGjuP3jfeoFVjsg",
+                "title": "very easy knitting design",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MGm8p5qWGks/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MGm8p5qWGks/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MGm8p5qWGks/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Silai Sikho",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/LnlVZN50yiPX7cfV2NQWt4WeIsw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lG4XdtdWUpw"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-28T17:30:00.000Z",
+                "channelId": "UCXK_Yw8hCF-9oeccQP9Gs2g",
+                "title": "How to UNRAVEL KNITTING the RIGHT WAY",
+                "description": "Frogging knitting, which is jargon for unravelling your knitting, is a frustrating but necessary rite of passage for every knitter. Knitting mistakes are bound to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lG4XdtdWUpw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lG4XdtdWUpw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lG4XdtdWUpw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sheep & Stitch",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/35QKexUGjl9oWRWMcxHm2gOqjjs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4XXky5Mo5p8"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-08T15:57:08.000Z",
+                "channelId": "UC1bxdZWkwyznRdDpO8CyrOA",
+                "title": "How to Knit a Blanket - Step By Step",
+                "description": "FREE Downloadable Pattern Book from Wool and the Gang: https://goo.gl/HvzFnY We teamed up with our pals at Knit Aid to show you how to knit a basic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4XXky5Mo5p8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4XXky5Mo5p8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4XXky5Mo5p8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WOOLANDTHEGANG",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-lKMvLumPArq2H5OnKTWz3M-GG8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vlAZ5XwDsxk"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T12:00:07.000Z",
+                "channelId": "UCLOuRJ24_umLJ2yKhAfpFSg",
+                "title": "ASMR|| Knitting with metal needles NO TALKING 4 minutes of ticking and sliding",
+                "description": "This video is an ASMR Knitting no talking video. Style of knitting is continental. Needles are Chio Goo yarn is Berrocco Vintage. Pattern is from The Skaha ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vlAZ5XwDsxk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vlAZ5XwDsxk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vlAZ5XwDsxk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fairy Little",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/i80tqpjMWwD-qJd502uv-Qy98jo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bbtnjHrb_Hg"
+            },
+            "snippet": {
+                "publishedAt": "2016-07-19T21:20:14.000Z",
+                "channelId": "UC0f6_YaSN_9QGpOx1zN0SiA",
+                "title": "How to Purl Stitch (p) in Knitting",
+                "description": "In this video I show you how to knit the purl stitch, known as p in patterns. Remember to keep your yarn at the front when working this stitch. I am so excited to get ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bbtnjHrb_Hg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bbtnjHrb_Hg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bbtnjHrb_Hg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HappyBerry Knitting",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YIhqf5cyEnHSf9I4ta9iiBaVY4g\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QySkiceyK2A"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-12T17:04:24.000Z",
+                "channelId": "UCt4Ji-LhlVdyrAXn3z2UTpQ",
+                "title": "BUBBLE Knit Stitch Pattern",
+                "description": "NEW HERE? PLEASE SUBSCRIBE \u25bb http://bit.ly/subscribe-SK This bubbly knitting pattern, with a simple repeat of 12 rows, it is super easy to memorize.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QySkiceyK2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QySkiceyK2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QySkiceyK2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Studio Knit",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/av709PIyE1XDKQSdsTZ59gcg_Yc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wIFvvwsRTCA"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-07T02:00:02.000Z",
+                "channelId": "UCVgO39Bk5sMo66-6o6Spn6Q",
+                "title": "CWA knitting competition (1971) | RetroFocus",
+                "description": "Tension increases as the 7 top knitters in the land prepare their needles for combat. This Day Tonight aired this story on 20 April 1971 #knitting For more from ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wIFvvwsRTCA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wIFvvwsRTCA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wIFvvwsRTCA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ABC News (Australia)",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7XqtupUCwYBPMRyyyu7iwS2q0fQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vUQCqTvXwVI"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T21:10:36.000Z",
+                "channelId": "UC_hySzBR9zQp_WHgH1xuafQ",
+                "title": "Brioche Stitch on the Knitting Machine",
+                "description": "Here's a quick tutorial on making brioche stitches on the knitting machine. Known as tuck stitches to machine knitters - this stitch could well have been invented ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vUQCqTvXwVI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vUQCqTvXwVI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vUQCqTvXwVI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Knitting School",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3KNqxnPNWb4mdfZqWFx_9Hyme0c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5XMT7PjznxY"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T15:39:46.000Z",
+                "channelId": "UCp0QS5hexojKshXeKono4IQ",
+                "title": "The Knitting Broomstick: VLOGMAS 2018 Intro",
+                "description": "Thank you for watching! Blog: www.theknittingbroomstick.blogspot.com Etsy shop: www.etsy.com/shop/KnittingBroomstick Instagram: @veganjilly and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5XMT7PjznxY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5XMT7PjznxY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5XMT7PjznxY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jilly The Knitting Broomstick",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/f9OUtkjH4OmJdUHAn8CJcmdv7dw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fmCozKzS2LA"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-17T01:09:53.000Z",
+                "channelId": "UCt4Ji-LhlVdyrAXn3z2UTpQ",
+                "title": "KNIT STITCH PATTERNS FOR BEGINNERS \u25ba Day 12 Absolute Beginner Knitting Series",
+                "description": "NEW HERE? PLEASE SUBSCRIBE \u25bb http://bit.ly/subscribe-SK JOIN MY EMAIL LIST for PLANNER \u25bb http://eepurl.com/c1hcov Enjoy my free collection of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fmCozKzS2LA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fmCozKzS2LA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fmCozKzS2LA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Studio Knit",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PdR0HqxkIiPgxTc3UoB2Jm4c490\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "M6ZjMWLqJvM"
+            },
+            "snippet": {
+                "publishedAt": "2006-08-17T17:09:43.000Z",
+                "channelId": "UCtqRZRhkXVmKyNSDCmF8Jag",
+                "title": "The Last Knit",
+                "description": "When knitting becomes an obsession. Directed by Laura Neuvonen Country Finland Year of Production 2005 Running Time 7 minutes.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M6ZjMWLqJvM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M6ZjMWLqJvM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M6ZjMWLqJvM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "annekeAnna",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ZwkCTn5UbXG-5M435e7JisUfXyY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v_XQotEmX0g"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-08T08:01:36.000Z",
+                "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
+                "title": "A revolutionary knitting machine | DW English",
+                "description": "Design a piece of clothing on the screen, press the \"knit\" button, sit back, and relax. The \"Kniterate\" machine will make knitting a whole lot easier.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v_XQotEmX0g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v_XQotEmX0g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v_XQotEmX0g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DW English",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/c7dCKrU7vXmmNJ1UdAtLcJEPoXA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gGgmqHVyBsM"
+            },
+            "snippet": {
+                "publishedAt": "2012-12-05T20:11:36.000Z",
+                "channelId": "UCD4AerLQNkDnGPF_ZUf8k4w",
+                "title": "KNITTING TUTORIAL - MUG HOLDER",
+                "description": "SUBSCRIBE so you never miss a video tutorial: http://bit.ly/2cZPMhG Go to my BLOG for more info: http://www.theiknits.com/2012/12/cozy-mug-holder.html This ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gGgmqHVyBsM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gGgmqHVyBsM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gGgmqHVyBsM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "iKNITS",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/FxwCjdHdYdh7MPoX3HPkMj56Ihw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "po8WiBwVicg"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-25T03:04:19.000Z",
+                "channelId": "UCg0D7UG63ONCUwPTGczonhA",
+                "title": "Stranded Knitting Worked Flat RS Rows",
+                "description": "Note- Do as I do, not as I say - Dominant color left hand, non-dominant color right hand. How to work stranded knitting flat, catching floats and managing edge ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/po8WiBwVicg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/po8WiBwVicg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/po8WiBwVicg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Knitting with Suzanne Bryan",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8w1_Xac5dylL4oFtajHWht6tO1E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oXRj7RSgoN4"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-23T16:20:54.000Z",
+                "channelId": "UC3v6sjWuPxtW36jQ-if4OuA",
+                "title": "Learning to Knit!",
+                "description": "I got bored so I decided to learn how to knit..uh..it went great! The color of yarn is gray..just Walmart shade gray \ud83e\udd37    \u2642\ufe0f",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oXRj7RSgoN4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oXRj7RSgoN4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oXRj7RSgoN4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Imbrandonfarris",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/C3xqy91SLSFEjdqUEWzq7N8iVbs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PGMaH3QXcWs"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-06T21:44:57.000Z",
+                "channelId": "UCY8skrLMBVogGfV2Py66wEA",
+                "title": "Learn to Knit: Knitting Cables",
+                "description": "Getting started knitting guide: http://bit.ly/1sCTul5 Learn to work cables, a more intermediate skill used in a variety of projects especially garments! Follow Us for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PGMaH3QXcWs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PGMaH3QXcWs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PGMaH3QXcWs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yarnspirations",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/zEDkB2e6XHId7BTogSUlwYbxb4w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7Xzy6d8MswM"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T18:37:44.000Z",
+                "channelId": "UCtaLQQsaoxAx8t4fuGr-uUw",
+                "title": "UNBOXING \u2764\ufe0e KnitCrate Box Nov 2018 \u2764\ufe0e knitting ILove",
+                "description": "KnitCrate Boxes - - - check what else they have \u2193\u2193\u2193 20% off code for your first box check it out - KIL20 - affiliate link: http://mbsy.co/gztwg KnitCrate Ravelry ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7Xzy6d8MswM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7Xzy6d8MswM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7Xzy6d8MswM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Knitting I Love",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XsjEAsxacDWU40-mPJ8yTLf9U4s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qoZnPXYFijo"
+            },
+            "snippet": {
+                "publishedAt": "2012-03-16T19:29:23.000Z",
+                "channelId": "UC4P7tVwBNJvcijWA3r6EPGg",
+                "title": "How to Knit Traveling Jogless Stripes in the Round",
+                "description": "For written instructions and photos please visit: http://newstitchaday.com/traveling-jogless-stripe/ This video knitting tutorial will help you learn how to knit a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qoZnPXYFijo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qoZnPXYFijo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qoZnPXYFijo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "New Stitch a Day: Knitting and Crochet Video Tutorials",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/G6SWPhkqgTJquBganAXxR6Xxqeo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cM1WOmkyDqY"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-13T04:47:07.000Z",
+                "channelId": "UCkg45GHzMdEBXl8BA8FtPpw",
+                "title": "Knitting a Scarf: How to Knit the Ultimate Scarf!",
+                "description": "Making a scarf is probably the first thing you want to do once you learn how to knit, so in this video you'll learn how to knit and how to knit your own scarf. I shove ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cM1WOmkyDqY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cM1WOmkyDqY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cM1WOmkyDqY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RJ Knits",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/f-xEHpyd9PacJc3a5zsCtnJnn3w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MDjlRGGEqnU"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-08T01:36:40.000Z",
+                "channelId": "UCaHeJj3BmDI3HS3dL4T66QQ",
+                "title": "HOW TO FINGER KNIT FOR BEGINNERS / FINGER KNITTING/ TUTORIAL PART TWO",
+                "description": "Finger Knitting for beginners - Basic guide for learners How to finish - Video 2 This video will show you how to finish your finger knitting project. I will show you ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MDjlRGGEqnU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MDjlRGGEqnU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MDjlRGGEqnU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "bean creative",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UbwKHKU9mMyzcPNiPrD8tBHqd14\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VnH3s2PnjmA"
+            },
+            "snippet": {
+                "publishedAt": "2014-03-27T01:40:26.000Z",
+                "channelId": "UC1UJloa36qbzIJQlhtTjTFg",
+                "title": "LOOM KNITTING STITCHES Three Step Stitch on a Round Loom",
+                "description": "Loom knit stitch - Three Step Stitch by Zoe MacLean. Easy to do lace stitch for any loom . Easy step by step knitting for beginners. To Purchase the Loom: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VnH3s2PnjmA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VnH3s2PnjmA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VnH3s2PnjmA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LoomaHat.com",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/LNSYW98NMckrklJ72mlkBQhWvEc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SIzuKBuJkZw"
+            },
+            "snippet": {
+                "publishedAt": "2014-07-15T04:06:04.000Z",
+                "channelId": "UCkg45GHzMdEBXl8BA8FtPpw",
+                "title": "Speed Knitting: How To Speed Knit and Speed Purl",
+                "description": "Twitter: @RJ_Knits Email: knittingknitwit@gmail.com Word of the day: Yippee-skippy Learning to speed knit can make knitting even more of a thrill. I'll be ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SIzuKBuJkZw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SIzuKBuJkZw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SIzuKBuJkZw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RJ Knits",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/anwV9CqZjyCXGK1dhQ0DPD2I03I\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Sq7mBpA04HY"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T11:30:00.000Z",
+                "channelId": "UChz_jz50dnm5IlYn6GQHAqg",
+                "title": "Kristy Glass Knits: KD Gecko Knits",
+                "description": "Karen started a youtube channel!!! Check it out: https://www.youtube.com/watch?v=TXZpYhu1RJc Instagram: kdgeckoknits Follow Me: Instagram: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sq7mBpA04HY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sq7mBpA04HY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sq7mBpA04HY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "kristyglassknits",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/o7kpnLKP7kOFIAgyzRc6StaKVVA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "octuTzbBq5I"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T00:25:18.000Z",
+                "channelId": "UCd6oLXt2Ih11V6A5Jd58VbA",
+                "title": "Loom Knitting Chat With Me!",
+                "description": "In this video I share some of my favorite loom knitting products. Please know that what I share in this video is my opinion and I understand that everyone has their ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/octuTzbBq5I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/octuTzbBq5I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/octuTzbBq5I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gina Lay",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TUHVhPVgLLH268K8C5u1I_w_0UI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FxD-OJAk9-8"
+            },
+            "snippet": {
+                "publishedAt": "2014-01-22T15:15:02.000Z",
+                "channelId": "UCrRT4LwemxYrZxj-HeCkK9Q",
+                "title": "Knitting Help - Russian Bind-Off",
+                "description": "To work the Russian Bind-Off: 1. Knit 2 2. Slip both stitches back to left needle 3. Knit two together 4. Knit 1 Repeat Steps 2-4 across all stitches, until just one ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FxD-OJAk9-8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FxD-OJAk9-8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FxD-OJAk9-8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VeryPink Knits",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/okqYKp86Pu7UAzsPQPh1QJBjrUU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "62ZiUIguofg"
+            },
+            "snippet": {
+                "publishedAt": "2010-09-21T00:19:39.000Z",
+                "channelId": "UCViYY_Z_5iJvXEFjGkG6Fcg",
+                "title": "How to Read a Cable Knitting Chart",
+                "description": "Learn how to read a cable knitting chart with Planet Purl's how-to video, taught by Beth Moriarty, author of \"Deep South Knitting.\"",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/62ZiUIguofg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/62ZiUIguofg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/62ZiUIguofg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "planetpurl",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/uKhubDK2S8Z7dNjsyIhdgYAfa84\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7cDergxnzrg"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-15T13:20:21.000Z",
+                "channelId": "UCIo9k1l-xL6WdaF2JY4_Zmg",
+                "title": "Knitting Pattern for Gents Sweater",
+                "description": "In this Knitting video I will show you a beautiful sweater design.You can apply this pattern on Gents Sweater & Baby sweater also. Link to my...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7cDergxnzrg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7cDergxnzrg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7cDergxnzrg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kiran The Knitter",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aqAVcMfMVrxkZMp5hmUIHZc5hQc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JroP84tUmJA"
+            },
+            "snippet": {
+                "publishedAt": "2015-03-15T20:04:17.000Z",
+                "channelId": "UCJs-4cgnJJgkJfRHogiOecQ",
+                "title": "Double Sided Knitting",
+                "description": "www.joannesweb.com Learn to knit double sided knits with two different color yarns. You can also create your our reversible designs!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JroP84tUmJA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JroP84tUmJA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JroP84tUmJA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JoannesWeb",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/zSboVVy_g-6qHPJItcfG9-3Pox8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lPnZggp_RDU"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-16T18:00:06.000Z",
+                "channelId": "UCjjRFKvjpU1L1eDmfBWcqig",
+                "title": "Finger Knitting Bunny DIY - No Sew Knitted Bunny How To",
+                "description": "I do hope you have enjoyed our how to finger knit videos to date!! We love finger knitting and are always looking to create new finger knitting projects... like ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lPnZggp_RDU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lPnZggp_RDU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lPnZggp_RDU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Red Ted Art",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/h1o6zjKAp2DEXKvS0H-4TRjxWHk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9-ajjX3FXQY"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-29T19:40:18.000Z",
+                "channelId": "UCd8CiITKWu64w4UTu6alGrQ",
+                "title": "Cosy & Soft Knitting Pattern for Baby Set, Hoodie, Jacket, Coat, Gents' Pullovers/Sweaters.Hindi/Eng",
+                "description": "Very beautiful pattern, commonly used in kid's wear and mens' wear. Done in 4 rows n 2 STS. So very very simple and easy. Happy Knitting all the lovely ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9-ajjX3FXQY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9-ajjX3FXQY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9-ajjX3FXQY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Knitting Knife Crochet Paradise",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/AdfBYZR_3gG7yTVlY10IIn8DthI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sXT9LArw484"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-26T12:37:53.000Z",
+                "channelId": "UChaYYJkfcCG9NeC5LziUunQ",
+                "title": "Knitting Tutorial - Bauhaus Mitered Shawl",
+                "description": "In this episode I will present our new SKEINO Bauhaus Mitered Shawl. It is easy to knit and the design is inspired by the Bauhaus School of Design. Enjoy!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sXT9LArw484/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sXT9LArw484/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sXT9LArw484/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Skeino Yarn",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QkEIB6S_ausYZIQwmE1-uIy_ZxY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Rx6EPOFV4U4"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-06T14:55:45.000Z",
+                "channelId": "UC_tJKX0zAfwZvrd-Bev95qQ",
+                "title": "How to Knit the Bee Stitch - EASY",
+                "description": "In this video I show you how to knit the Bee Stitch, This stitch is in the brioche family, but no need to be intimidated by that. This stitch would make a perfect ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rx6EPOFV4U4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rx6EPOFV4U4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rx6EPOFV4U4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Nervous Knitter",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ge5IwzyZcT50xHLevtKMvLAIr_8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cI-myW20jyc"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-13T13:34:27.000Z",
+                "channelId": "UCrRT4LwemxYrZxj-HeCkK9Q",
+                "title": "New Knitting Products Roundup, Part I",
+                "description": "With so many new knitting products on the market, this video is Part I of a two-part series introducing some of these new products. Part II of this video can be ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cI-myW20jyc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cI-myW20jyc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cI-myW20jyc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VeryPink Knits",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/C4p4goSawEpq4ZKJU85ghdSAEB4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "et2QTzNymss"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-17T17:30:00.000Z",
+                "channelId": "UCCeNvY_XCBbswNkOwvuFYsQ",
+                "title": "Let's Knit: How to Knit a Dishcloth",
+                "description": "Learn the basics of knitting with this simple pattern called the Basic Dishcloth. It is simple and using only the Garter Stitch as the technique. In other words, it's ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/et2QTzNymss/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/et2QTzNymss/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/et2QTzNymss/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Knit Crowd",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hkwwQGPCfYYA2cqxr6cFjFeFOc8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O3pk7mxruJY"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-17T13:10:18.000Z",
+                "channelId": "UCMCrgBpQFb-b0n4W5Xf7ILg",
+                "title": "How to Knit a Double Gradient Boomerang Shawl - Free Knitting Pattern by Yay For Yarn",
+                "description": "Free Pattern! The Double Gradient Boomerang Shawl combines two different gradient or self striping yarns. This shawl can be made in any size, with any ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O3pk7mxruJY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O3pk7mxruJY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O3pk7mxruJY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yay For Yarn",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/qc-il20Er7qUp8h7pCmOtV1e7iE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DM40GtSq6aU"
+            },
+            "snippet": {
+                "publishedAt": "2012-02-28T07:00:28.000Z",
+                "channelId": "UC4P7tVwBNJvcijWA3r6EPGg",
+                "title": "How to Knit Elizabeth Zimmerman's Sewn Bind Off",
+                "description": "For written instructions and photos please visit: http://newstitchaday.com/elizabeth-zimmermans-sewn-bind-off/ This video knitting tutorial will help you learn how ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DM40GtSq6aU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DM40GtSq6aU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DM40GtSq6aU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "New Stitch a Day: Knitting and Crochet Video Tutorials",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/FPeDY5_VPf_5srQZ6pLl4E4dznM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ujMTf_cH_CY"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T05:05:07.000Z",
+                "channelId": "UC8Aq3U4wTnbseJr0P4luD8A",
+                "title": "Knitting Design no #171",
+                "description": "\u092c\u0939\u0941\u0924 \u0939\u0940 \u0916\u0942\u092c\u0938\u0942\u0930\u0924 \u0921\u093f\u091c\u093c\u093e\u0907\u0928\u0964 A very beautiful design for you in easy Hindi Knitting. https://www.facebook.com/ritucreationsindia ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ujMTf_cH_CY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ujMTf_cH_CY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ujMTf_cH_CY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ritu Creations",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/B48Mq6k-QElvMajjwZb47ws7-Fk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xc_4ohrAzP8"
+            },
+            "snippet": {
+                "publishedAt": "2012-09-25T02:27:36.000Z",
+                "channelId": "UC4P7tVwBNJvcijWA3r6EPGg",
+                "title": "How to Knit the Estonian Cast On (English Style)",
+                "description": "For written instructions and photos please visit: http://newstitchaday.com/how-to-knit-the-Estonian-cast-on/ This video knitting tutorial will help you learn how to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xc_4ohrAzP8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xc_4ohrAzP8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xc_4ohrAzP8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "New Stitch a Day: Knitting and Crochet Video Tutorials",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JOmomugzlMu8BrunuRuOWsyJChg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FfZOtYYmQv8"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-09T04:14:25.000Z",
+                "channelId": "UCktfx6vOStTdDvxQIutBB0w",
+                "title": "2-Color Stranded Knitting \u2013The Knit Side",
+                "description": "Understand stranded knitting and how it's made. How is it different from intarsia? How is it different from Fair Isle Knitting? Part 2 of a 4-part tutorial where you ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FfZOtYYmQv8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FfZOtYYmQv8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FfZOtYYmQv8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Knitting with Cheryl Brunette",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}
