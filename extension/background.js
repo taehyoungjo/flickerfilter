@@ -22,10 +22,10 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 			let video_url = tabs[0].url;
 			$.get(analyzer_url, { url: video_url }, function(data) {
 				if (data == true) {
-					alert("looks good!");
+					chrome.tabs.sendMessage(tabs[0].id, { greeting: "risk" });
 				}
 				else {
-					alert("aww");
+					chrome.tabs.sendMessage(tabs[0].id, { greeting: "safe" });
 				}
 			});
 		});
