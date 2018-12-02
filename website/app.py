@@ -1,11 +1,14 @@
 import os
 
+from cs50 import SQL
+
 from flask import Flask, flash, jsonify, redirect, render_template, request, session
 from flask_session import Session
 from tempfile import mkdtemp
 from werkzeug.utils import secure_filename
 
 from youtube import download
+from algorithm import analyze
 
 UPLOAD_FOLDER = '/mp4'
 ALLOWED_EXTENSIONS = set(['mp4'])
@@ -31,6 +34,9 @@ app.config["SESSION_PERMANENT"] = False
 app.config["SESSION_TYPE"] = "filesystem"
 Session(app)
 
+# Configure CS50 Library to use SQLite database
+db = SQL("sqlite:///flickerfilter.db")
+
 # Check if file is mp4
 def allowed_file(filename):
     return '.' in filename and \
@@ -49,18 +55,32 @@ def index():
 def fetch():
     if request.method == "POST":
         file_url = request.form.get("URL")
-        download(file_url)
-        # file_path = download(file_url)
-        # bool = analyze(file_path)
-        # if bool == True
-        #   return render_template("")
-        # else False
-        #   return render_template(smth else)
-        return render_template("detect_true.html")
+        file_path = download(file_url)
+        id = file_url.split('=')
+        query = db.execute("SELECT result FROM videos WHERE id=:id", id=id[1])
+        if query:
+            if query[0]['result'] == 0:
+                result = False
+            else:
+                result = True
+        else:
+            result = analyze(file_path)
+            add = db.execute('INSERT INTO "videos" ("id","result") VALUES (:id, :result)', id=id[1], result=result)
+        if result == True:
+            return render_template("detect_true.html")
+        else:
+            return render_template("detect_false.html")
 
     elif request.method == "GET":
         file_url = request.args.get("url")
         download(file_url)
-        # file_path = download(file_url)
-        # bool = jsonify(analyze(file_path))
-        return jsonify(download(file_url))
+        file_path = download(file_url)
+        id = file_url.split('=')
+        query = db.execute("SELECT result FROM videos WHERE id=:id", id=id[1])
+        if query:
+            if query[0]["result"] == 0:
+                return jsonify(False)
+            else:
+                return jsonify(True)
+        else:
+            return jsonify(analyze(file_path))

@@ -11,6 +11,7 @@ document.body.appendChild(modal_div);
 // modal_div.appendChild(modal_content_div);
 
 let modal_text = document.createElement("p");
+modal_text.className = "modal_text";
 modal_div.appendChild(modal_text);
 
 let close = document.createElement("button");
@@ -46,7 +47,7 @@ function messageListener(request, sender, sendResponse) {
 	}
 
 	else if (request.greeting == "risk") {
-		modal_text.innerHTML = "Epileptic risk detected."
+		modal_text.innerHTML = "Epileptic risk detected"
 		close.style.display = "block";
 		close.innerHTML = "Watch Anyways";
 	}
