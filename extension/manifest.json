@@ -1,6 +1,6 @@
 {
 	"manifest_version": 2,
-	"name": "Epilepsy Extension",
+	"name": "FlickerFilter",
 	"version": "1.0",
 	"description": "Detects potential epilepsy causing frames in a video",
 	"icons": {
