@@ -1,4 +1,5 @@
 let urlSent = false;
+let ignore_warning = false;
 let vid;
 // Creating the modal popup
 let modal_div = document.createElement("div");
@@ -19,24 +20,28 @@ modal_div.appendChild(close);
 close.onclick = function() {
 	chrome.runtime.onMessage.removeListener();
 	modal_div.style.display = "none";
-	chrome.runtime.onMessage.removeListener(messageListener);
-	vid.removeEventListener('playing', playingListener);
+	ignore_warning = true;
 }
 
 function playingListener(event) {
-	vid.pause();
-	chrome.runtime.sendMessage({ greeting: "get_url" });
+	if (!ignore_warning) {
+		vid.pause();
+		chrome.runtime.sendMessage({ greeting: "get_url" });
+		modal_div.style.display = "block";
+		modal_text.innerHTML = "Analyzing video...";
+		urlSent = true;
+	}
 }
 
 function messageListener(request, sender, sendResponse) {
 	if (request.greeting == "url_changed") {
+		modal_div.style.display = "none";
+		close.style.display = "none";
+		ignore_warning = false;
 		if(urlSent == false) {
-			modal_div.style.display = "block";
-			modal_text.innerHTML = "Analyzing video..."
 			vid = $('video').get(0);
 			if (vid) {
 				vid.addEventListener('playing', playingListener);
-				urlSent = true;
 			}
 		}
 	}
@@ -54,15 +59,13 @@ function messageListener(request, sender, sendResponse) {
 	}
 }
 
+modal_div.style.display = "none";
 chrome.runtime.onMessage.addListener(messageListener);
 
 if (urlSent == false) {
-	modal_div.style.display = "block";
-	modal_text.innerHTML = "Analyzing video..."
 	vid = $('video').get(0);
 	if (vid) {
 		vid.addEventListener('playing', playingListener);
-		urlSent = true;
 	}
 }
 
