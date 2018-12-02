@@ -18,18 +18,16 @@ close.className = "close";
 modal_div.appendChild(close);
 
 close.onclick = function() {
-	chrome.runtime.onMessage.removeListener();
 	modal_div.style.display = "none";
 	ignore_warning = true;
 }
 
 function playingListener(event) {
 	if (!ignore_warning) {
-		vid.pause();
-		chrome.runtime.sendMessage({ greeting: "get_url" });
 		modal_div.style.display = "block";
 		modal_text.innerHTML = "Analyzing video...";
-		urlSent = true;
+		vid.pause();
+		chrome.runtime.sendMessage({ greeting: "get_url" });
 	}
 }
 
@@ -42,12 +40,13 @@ function messageListener(request, sender, sendResponse) {
 			vid = $('video').get(0);
 			if (vid) {
 				vid.addEventListener('playing', playingListener);
+				urlSent = true;
 			}
 		}
 	}
 
 	else if (request.greeting == "risk") {
-		modal_text.innerHTML = "Epilpetic risk detected."
+		modal_text.innerHTML = "Epileptic risk detected."
 		close.style.display = "block";
 		close.innerHTML = "Watch Anyways";
 	}
@@ -66,6 +65,7 @@ if (urlSent == false) {
 	vid = $('video').get(0);
 	if (vid) {
 		vid.addEventListener('playing', playingListener);
+		urlSent = true;
 	}
 }
 
