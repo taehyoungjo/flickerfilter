@@ -1,4 +1,4 @@
-let urlSent = false;
+let url_sent = false;
 let ignore_warning = false;
 let vid;
 // Creating the modal popup
@@ -21,14 +21,36 @@ modal_div.appendChild(close);
 close.onclick = function() {
 	modal_div.style.display = "none";
 	ignore_warning = true;
+};
+
+chrome.storage.sync.get(["toggled"], function(data) {
+	if (data.toggled) {	
+		chrome.runtime.onMessage.addListener(messageListener);
+
+		vid = $('video').get(0);
+		if (vid) {
+			vid.addEventListener('playing', playingListener);
+		}
+	}
+});
+
+function disableExtension() {
+	modal_div.style.display = "none";
+	chrome.runtime.onMessage.removeListener(messageListener);
+	vid.removeEventListener('playing', playingListener);
 }
+
+
 
 function playingListener(event) {
 	if (!ignore_warning) {
-		modal_div.style.display = "block";
-		modal_text.innerHTML = "Analyzing video...";
+		if(!url_sent) {
+			modal_div.style.display = "block";
+			modal_text.innerHTML = "Analyzing video...";
+			chrome.runtime.sendMessage({ greeting: "get_url" });
+			url_sent = true;
+		}
 		vid.pause();
-		chrome.runtime.sendMessage({ greeting: "get_url" });
 	}
 }
 
@@ -37,12 +59,10 @@ function messageListener(request, sender, sendResponse) {
 		modal_div.style.display = "none";
 		close.style.display = "none";
 		ignore_warning = false;
-		if(urlSent == false) {
-			vid = $('video').get(0);
-			if (vid) {
-				vid.addEventListener('playing', playingListener);
-				urlSent = true;
-			}
+		url_sent = false;
+		vid = $('video').get(0);
+		if (vid) {
+			vid.addEventListener('playing', playingListener);
 		}
 	}
 
@@ -57,16 +77,9 @@ function messageListener(request, sender, sendResponse) {
 		close.style.display = "block";
 		close.innerHTML = "Watch Video";
 	}
-}
 
-modal_div.style.display = "none";
-chrome.runtime.onMessage.addListener(messageListener);
-
-if (urlSent == false) {
-	vid = $('video').get(0);
-	if (vid) {
-		vid.addEventListener('playing', playingListener);
-		urlSent = true;
+	else if (request.greeting == "disable") {
+		disableExtension();
 	}
 }
 
