@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ra0pAfFgyeEIQaCaJP6C0o1jN0Q\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 630280,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/uTpNQBSzwDBQSfifAPWuOTK_Yvw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OQR3SYdQK6k"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-27T11:00:03.000Z",
+                "channelId": "UCdckhrxTJAw-USGhVaw53Vg",
+                "title": "The SECRET to MAKING MONEY your 1st year of Beekeeping with a Single Hive! (500 bucks or more!)",
+                "description": "Let's ne real for a moment. Beekeeping is expensive to get into, but when you think about it, so are most forms of animal husbandry and raising livestock.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OQR3SYdQK6k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OQR3SYdQK6k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OQR3SYdQK6k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Whistle Thicket",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/WSxbtgVVpXPRpmOypsu4okYW4QM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "omd1dLWDVjo"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-24T16:32:11.000Z",
+                "channelId": "UCdckhrxTJAw-USGhVaw53Vg",
+                "title": "How much does it cost to start BEEKEEPING?",
+                "description": "So, for years you have said you wanted to start beekeeping, but you don't know what you need, or how much everything costs! This video shows you all the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/omd1dLWDVjo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/omd1dLWDVjo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/omd1dLWDVjo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Whistle Thicket",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ldQ-24I0CJZRFkPeBuwfr10cV6g\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hmgv1NuRFEU"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-25T13:02:23.000Z",
+                "channelId": "UCadGGFdl_NdRMO7ddKUYF2A",
+                "title": "Beekeeping For Beginners and Beekeeping Basics - Off Grid Living",
+                "description": "The best beginners beekeeper program out there, Just Click Here. http://tinyurl.com/qee7ro9 Beekeeping for Beginners and beekeeping basics. I am pretty ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hmgv1NuRFEU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hmgv1NuRFEU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hmgv1NuRFEU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dr. Tarrin P Lupo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/N48vLRVtSPAb8DsNUa7OIOqGBgA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LI-9famfqbo"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-19T18:28:01.000Z",
+                "channelId": "UCSViWfOV4pEcYnzpV6w548Q",
+                "title": "Confessions Of A Forgetful Beekeeper...",
+                "description": "Bees don't need any frames in a hive - they'll happily build combs anyway - but it does make things a bit tricky for the beekeeper\u2026 Ok, here are some important ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LI-9famfqbo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LI-9famfqbo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LI-9famfqbo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Way Out West Blow-in blog",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EAReH7N-EId1LAyq3U7u3FefYAw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ydPgDOXQDzM"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-27T23:19:30.000Z",
+                "channelId": "UCkDbLiXbx6CIRZuyW9sZK1g",
+                "title": "Quitting Beekeeping? Bad News",
+                "description": "Main channel - http://www.youtube.com/user/CrazyRussianHacker New Animal Instagram \"Kul Farm\" - https://www.instagram.com/kulfarm/ Follow Taras on: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ydPgDOXQDzM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ydPgDOXQDzM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ydPgDOXQDzM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Taras Kul",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/bLgHfqbv-dn9-tpAOI18HbHpHsg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xnhmxNoo4EY"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-22T16:40:29.000Z",
+                "channelId": "UCQ0_JQL4wdQd-Xe5hC4PwTg",
+                "title": "How to Harvest Honey! | Beekeeping with Maddie #12",
+                "description": "Three years ago I first filmed Mum and I collecting honey from our beehives! Here's what we're harvesting from the same hives in 2017! Click to see our first ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xnhmxNoo4EY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xnhmxNoo4EY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xnhmxNoo4EY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Maddie Moate",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Xafnrf6drTkEmmpGQkpMaOnQOog\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "P9L8yYDWvmo"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-25T12:36:47.000Z",
+                "channelId": "UCvUB-bMljxXChk3DCvlxr9g",
+                "title": "Beginning Beekeeping: Collecting Honey Without Extractor - GSB S1 E4",
+                "description": "It's true. I can't keep up with my son! The Golden Son Beekeeper does his beekeeping duties with or without a camera man. There's a lot of inspections and other ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P9L8yYDWvmo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P9L8yYDWvmo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P9L8yYDWvmo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Daddykirbs Farm - A Homesteading Story",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DyxlAIYdAGRSRyGNFZ5SnrJ1Ygo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "if0C046XXmA"
+            },
+            "snippet": {
+                "publishedAt": "2016-01-13T23:46:37.000Z",
+                "channelId": "UCoMaw-jngK_3KcYqb-9BVCA",
+                "title": "Beginner Beekeeping Ep 1 - The difference between a Flow\u2122 Hive and a Langstroth hive",
+                "description": "Flow Hive's backyard beekeeping expert Louise looks at the differences between the most common types of beehives to help you decide which is the best ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/if0C046XXmA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/if0C046XXmA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/if0C046XXmA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FlowHive",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QCpkk8agk0YbD5p0R6QTxpOoFTw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XqPDvC5HyaI"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-23T07:28:05.000Z",
+                "channelId": "UCowxdVu7eEsI5wcxEQvDGZA",
+                "title": "Khmer Beekeeping: Queen Bees Hatching",
+                "description": "In this video, you will see the way which the queen bees hatch. My wife was surprised when she saw it. Thank you for watching and don't forget to subscribe my ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XqPDvC5HyaI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XqPDvC5HyaI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XqPDvC5HyaI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Khmer beekeeping",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/K7vN3ccnX1b63U6No0dNYomJ69M\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wJu20dbCaEk"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-02T18:19:08.000Z",
+                "channelId": "UCqLJF9SFT-CG2pEW0g1sORw",
+                "title": "Harvesting Honey! Beekeeping Finale!",
+                "description": "You have followed this journey all year long! I installed the package bees this spring. I added some more boxes this summer. Now comes the long awaited final ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wJu20dbCaEk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wJu20dbCaEk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wJu20dbCaEk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Beach House",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Jptx7hD-UFq-RwZK9M0AHYliAvY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Sor3IdtsXNg"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-03T02:13:04.000Z",
+                "channelId": "UCkDbLiXbx6CIRZuyW9sZK1g",
+                "title": "Harvest Honey - Part 1",
+                "description": "In today's Beekeeping video I am going to show you how to get honey supers off beehive. and defiantly come back tomorrow for even more exiting video when I ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sor3IdtsXNg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sor3IdtsXNg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sor3IdtsXNg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Taras Kul",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lkmjIiiiQrIVpI6lRvLXwY1QAuY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WbMV9qYIXqM"
+            },
+            "snippet": {
+                "publishedAt": "2015-02-23T05:09:54.000Z",
+                "channelId": "UCoMaw-jngK_3KcYqb-9BVCA",
+                "title": "Flow\u2122 Hive Full Reveal [Original crowdfunding video 2015]",
+                "description": "It's the beekeepers dream, turn a tap right on your beehive and watch pure fresh honey flow right out of your Flow\u2122 hive and into your Jar! No mess no fuss and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WbMV9qYIXqM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WbMV9qYIXqM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WbMV9qYIXqM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FlowHive",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yWDssMI6AWKCU5k2YUW7eOypGJ8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zun-VHyLScA"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-26T20:10:30.000Z",
+                "channelId": "UC2g3DukLp8dE9Ap7_LLfPeg",
+                "title": "Yellow jacket problem? Here is the cure. beekeeping",
+                "description": "Click link to get rid of yellowjackets fast https://youtu.be/J32gxsJKCNk Best yellow jacket trap there is, yellowjacket control in the honeybee yard is very important.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zun-VHyLScA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zun-VHyLScA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zun-VHyLScA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Barnyard Bees",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JmMlGqHpkEj8T62m-eXHOXXBhMw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ok0WXZL30D8"
+            },
+            "snippet": {
+                "publishedAt": "2011-12-15T14:14:37.000Z",
+                "channelId": "UChK7xK_uzthDH5kMmkLiwJQ",
+                "title": "John Cleese and Rowan Atkinson - Beekeeping",
+                "description": "1981 hilarious sketch with Cleese as a beekeeping expert and Atkinson as a terrible interviewer. Shhh!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ok0WXZL30D8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ok0WXZL30D8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ok0WXZL30D8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tom Scruffy Cammarata",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/drGH_qwqyT6XEm6Bqwu4_lANJeU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bGC3RTeyyR4"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-16T13:56:54.000Z",
+                "channelId": "UCL5rTpHIfmKzmRcp7yiKjJw",
+                "title": "Bad Beekeeper + Loads of Honey",
+                "description": "I've been a busy bee these past few weeks and haven't been out to visit my colonies. This is my first inspection of Primrose and Bluebell in a few weeks and a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bGC3RTeyyR4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bGC3RTeyyR4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bGC3RTeyyR4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lovely Greens \u2022 Organic Gardening & DIY",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DxJbNkld3cdd5UOr9EZt7eWHiiE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "We2scLdWCC0"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-30T22:43:17.000Z",
+                "channelId": "UC2g3DukLp8dE9Ap7_LLfPeg",
+                "title": "Barnyard Bees Farm Tour Honeybees",
+                "description": "Tour our farm of animals at barnyard bees Honeybees. Barnyard bees farm has lots of animals and lots of honeybees. All of our farm animals help make up ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/We2scLdWCC0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/We2scLdWCC0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/We2scLdWCC0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Barnyard Bees",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5ipGjz4P4KQ_KYgSUOCid_n6IQI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7gMHywSWmrI"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-10T02:40:05.000Z",
+                "channelId": "UCnOlgsOidQKN_3lkpmJ7UDA",
+                "title": "My Top 5 Tips For Beginning Beekeepers",
+                "description": "In this video I share the top 5 tips I have for people planning to get started in beekeeping, or people in their first year with bees. JC's Bees ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7gMHywSWmrI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7gMHywSWmrI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7gMHywSWmrI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "B&K Bees",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lYv6kQRdviq7PI___5uJanc2AWc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_RjxG3aApBU"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-21T14:00:03.000Z",
+                "channelId": "UCQ0_JQL4wdQd-Xe5hC4PwTg",
+                "title": "What's inside a Natural Hive? | Beekeeping with Maddie #14",
+                "description": "A couple of corrections below **. A few years ago we captured a swarm of bees and put them inside a Natural Hive (A hive that simulates a tree trunk). The bees ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_RjxG3aApBU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_RjxG3aApBU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_RjxG3aApBU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Maddie Moate",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4yqObdJKltzHavdiqO0l72QYA0o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MF6QH1yigoM"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-16T20:16:45.000Z",
+                "channelId": "UCkDbLiXbx6CIRZuyW9sZK1g",
+                "title": "Bad Beekeeping Mistake",
+                "description": "Today we are going to check on a beehive that we split a month ago. also I am going to use \"diatomaceous earth\" to get rid off small hive beetle and ants. We are ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MF6QH1yigoM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MF6QH1yigoM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MF6QH1yigoM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Taras Kul",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EhwuGDinAxQU22DbMRVShgAyZQs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FC9Y2rj0rIA"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-04T19:43:30.000Z",
+                "channelId": "UCx3JLA8UOtuZqY5MJuq_01g",
+                "title": "Tips for Getting Started in Beekeeping - Brushy Mountain Bee Farm",
+                "description": "Interested in beekeeping but just don't know where to begin? Here are some tips and tricks to help you know where to start. If you are interested in joining one of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FC9Y2rj0rIA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FC9Y2rj0rIA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FC9Y2rj0rIA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BrushyMtnBeeFarm",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/D2CD4gYA-lQrjNAMElTPFqwtTj8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hvx2wPgqXiE"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-26T19:01:47.000Z",
+                "channelId": "UC2g3DukLp8dE9Ap7_LLfPeg",
+                "title": "Very important Message to the new beekeepers",
+                "description": "http://www.barnyardbees.com To order 3 pound packages with laying queen 5 Frame Nucs with laying queen Mated Itialan Queens. Store #(706)971-2700 New ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hvx2wPgqXiE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hvx2wPgqXiE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hvx2wPgqXiE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Barnyard Bees",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ZB_MGCM-zt2AygVh88jk0f2giU4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wIoaJFMUu4Q"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-12T09:08:07.000Z",
+                "channelId": "UC9qTOhVOBRd-4anhg8hJplQ",
+                "title": "Beekeeping for beginners- The absolute basics",
+                "description": "In this video I go through what I think are the absolute basic things you need to start beekeeping. I run through all of the tools and equipment you need to keep ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wIoaJFMUu4Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wIoaJFMUu4Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wIoaJFMUu4Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Self Sufficient Sarah",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xKFi83YnZYlKJUp-bMtrx2fk5A4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fsREGLcQ8cI"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-28T18:47:24.000Z",
+                "channelId": "UCsOIfTvbPtD-33xYh9du6kg",
+                "title": "Trevs Bees - Beginning Beekeeping - Part 1",
+                "description": "Beekeeping in New Zealand, for hobbyists and light commercials. Proudly sponsored by http://www.ecrotek.co.nz/ Books: Elimination of American Foulbrood ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fsREGLcQ8cI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fsREGLcQ8cI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fsREGLcQ8cI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Trevor Gillbanks",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ATMF7MZvXcQeZsm3XSYaVfsZwQg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DAMaSwH-9NE"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-25T15:21:54.000Z",
+                "channelId": "UC_5fKbN9ohoq9Qw9FtMQtNw",
+                "title": "Basic Beekeeping 101 - Short Review",
+                "description": "For my brother Joe - Packed full of info. Basics: https://www.youtube.com/user/longlanehoney?v=oQH345SO_ac Inspection: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DAMaSwH-9NE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DAMaSwH-9NE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DAMaSwH-9NE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "John Heathcote",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7drdEUvmu6on0nvFtpM-9or4zIs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Om5SLPb_zcE"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-28T14:51:44.000Z",
+                "channelId": "UCOy5DcKp-wcZuQDgUh9MDnA",
+                "title": "The $6,000 Beekeeping Mistake and The Melted Bee Suit Story",
+                "description": "This is my brother if you couldn't tell. Once every couple of months when I'm passing through his area I have the opportunity to help him with a beekeeping ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Om5SLPb_zcE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Om5SLPb_zcE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Om5SLPb_zcE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "628DirtRooster",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/zZiJFi0dosbbeHLE7b3L2P_1GOk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gayz2r22kFQ"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-07T21:34:07.000Z",
+                "channelId": "UC-xczyljpDKuM00-45OUrvg",
+                "title": "Beekeeping 101 - GEAR you need to get started!",
+                "description": "You asked questions and this is the first round of answers. Today we're talking about Beekeeping GEAR. Remember, these answers are coming from a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gayz2r22kFQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gayz2r22kFQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gayz2r22kFQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vino Farm",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JO60dsIkit7mLWBzXs_ESaqKIsg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WJ0HT6E2reE"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-31T12:55:01.000Z",
+                "channelId": "UCc2mwVUAFZ-KbYJvhsh_Dlw",
+                "title": "Beekeeping: Checking a hives health before Fall",
+                "description": "This is the time of year where we have to make some last minute tweaks to ensure a hive is strengthened before winter. Last year a hive I had in this same ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WJ0HT6E2reE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WJ0HT6E2reE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WJ0HT6E2reE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Daniel Patterson",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OAdz21-yrZccoUkHXPln7vGb8oM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ql3m9CCrBHw"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-09T11:32:11.000Z",
+                "channelId": "UCbwp5B-uDBy-fS4bDA0TEaw",
+                "title": "How do bees find food in the city? Urban Beekeeping and Hive Mind:  | BBC Earth Unplugged",
+                "description": "To celebrate the release of the Cities episode of Planet Earth II, Maddie Moate went down to East London to meet the beekeeper Chris from Barnes & Webb who ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ql3m9CCrBHw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ql3m9CCrBHw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ql3m9CCrBHw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BBC Earth Unplugged",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mWDNOYrbbYcYfSdWFC_9opnugmc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wGjuG3GELqk"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-25T14:10:40.000Z",
+                "channelId": "UCv0y0IGVyPTV95qoi9CPa9Q",
+                "title": "Watch this BEFORE you try Foundationless Beekeeping!",
+                "description": "Is foundationless beekeeping right for you? A list of nine pros and cons of beekeeping with no wax foundation. Foundationless frames: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wGjuG3GELqk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wGjuG3GELqk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wGjuG3GELqk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fall Line Ridge",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ek0mWrhdubw72fcmqTMS2M72kG0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ipTLsGbYIyw"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-18T11:36:40.000Z",
+                "channelId": "UCcilAnkcu67nJwNlgqVKdXw",
+                "title": "Beekeeping - Art, Science and Love",
+                "description": "Hi, I'm EAS Certified Master Beekeeper, David Burns and today I want to explain how beekeeping is an art, a science and a passion while I inspect a hive.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ipTLsGbYIyw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ipTLsGbYIyw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ipTLsGbYIyw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "David Burns",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/qTXZ8a0qiu4T1wnK99DRkLW9ovA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GCJ8JDjk91M"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-20T20:28:42.000Z",
+                "channelId": "UCkDbLiXbx6CIRZuyW9sZK1g",
+                "title": "Starting Beekeeping - Vlog Week 1 Season 1",
+                "description": "I am a beekeeper now and I love doing it. In this video I am showing you how I am Installing Package Bees into the Hive. These are my first hives ever. Hope you ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GCJ8JDjk91M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GCJ8JDjk91M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GCJ8JDjk91M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Taras Kul",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Q0Y1HdDc29KZCnyMeZvIGXqzZZc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hmVkHPQ6gW4"
+            },
+            "snippet": {
+                "publishedAt": "2013-05-31T09:29:32.000Z",
+                "channelId": "UCOy5DcKp-wcZuQDgUh9MDnA",
+                "title": "Punishments and Rewards of beekeeping",
+                "description": "How about getting all stung up just for a little honey. Not enough time in the day...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hmVkHPQ6gW4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hmVkHPQ6gW4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hmVkHPQ6gW4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "628DirtRooster",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UE9NRYoJep2dI2bjmDe4FMDk-ww\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "k2WIHmJx1V0"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-16T14:59:08.000Z",
+                "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+                "title": "The Buzzing Joy of Backyard Beekeeping | Jessie Brown | TEDxABQ",
+                "description": "Let's go on a journey through the hive into the world of the honeybee! Becoming a backyard beekeeper and learning to see through the eyes of a bee led Jessie ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k2WIHmJx1V0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k2WIHmJx1V0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k2WIHmJx1V0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TEDx Talks",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7XEJ8qX0n6O3-5wVklwW8d-jk5k\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yu2MaAVv4L4"
+            },
+            "snippet": {
+                "publishedAt": "2016-08-22T09:56:49.000Z",
+                "channelId": "UCpXjo1sDWxAR0_PpF4Y1ymA",
+                "title": "Extracting Supers and Returning them to the Hives - #Beekeeping Basics - The Norfolk Honey Co.",
+                "description": "Extracting Supers and Returning them to the Hives - #Beekeeping Basics - The Norfolk Honey Co. Following on from our last video we descend on the honey ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yu2MaAVv4L4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yu2MaAVv4L4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yu2MaAVv4L4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Norfolk Honey Company",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aqvdYiWIrMOLGeAUTqqtvl6Y0RU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hlhIJbNGL5s"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-13T14:35:20.000Z",
+                "channelId": "UCu6mSoMNzHQiBIOCkHUa2Aw",
+                "title": "Beekeeping with Cody 2016: Installing bees",
+                "description": "I put the packages of bees that I ordered into their boxes. Help me make videos by donating here: https://www.patreon.com/CodysLab.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hlhIJbNGL5s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hlhIJbNGL5s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hlhIJbNGL5s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cody'sLab",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UnNInNM09FNMpq7v7KrcjHuYaAU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5uGZHCwo35s"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-19T21:58:43.000Z",
+                "channelId": "UCP0IoKcLRtsARtetNhWhUUA",
+                "title": "How to put together a Mini Mating Nuc  Beginning beekeeping in Texas",
+                "description": "removing a queen cell from a frame and Mini mating nuc assembly. Here's the products I use. If you shop these links it helps me out: Go Pro Hero 6: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5uGZHCwo35s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5uGZHCwo35s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5uGZHCwo35s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Golden Legion Honey",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Q8FPneD-pe3LC7iciLbqc7fDuQs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7ocSfI1yf6U"
+            },
+            "snippet": {
+                "publishedAt": "2016-07-12T15:00:00.000Z",
+                "channelId": "UClCQnyqleA26UutPbefqNsQ",
+                "title": "Minecraft Tutorial: Beekeeping [HD] (Forestry Mod)--#1--Getting Started",
+                "description": "Minecraft Tutorial: Beekeeping [HD] (Forestry Mod)--#1--Getting Started In this episode I show you the bare bones basic things you need to get started ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7ocSfI1yf6U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7ocSfI1yf6U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7ocSfI1yf6U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "rick nineg",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hGMNYjzIRedH_U0WByWf8o-sCrM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2DBW2YR_ssg"
+            },
+            "snippet": {
+                "publishedAt": "2015-02-09T09:20:06.000Z",
+                "channelId": "UCmyKnNRH0wH-r8I-ceP-dsg",
+                "title": "An introduction to Beekeeping",
+                "description": "Watch \u25bb Jayalalithaa Takes Oath - Full Speech : https://goo.gl/W8w8Gr -~-~~-~~~-~~-~- A brief introduction to the business of beekeeping and the types of bees ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2DBW2YR_ssg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2DBW2YR_ssg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2DBW2YR_ssg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Puthiya Thalaimurai TV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EN3cAKcEHSoLIpo43-iAzEY8_ZQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ea2owfsk-c0"
+            },
+            "snippet": {
+                "publishedAt": "2010-03-04T12:30:38.000Z",
+                "channelId": "UC2cyUc5K5X-x0Cowss8iKdA",
+                "title": "Malaysia Beekeeping & Durian Honey.wmv",
+                "description": "A video clip showing how a Malaysia beekeeper harvesting raw durian honey in a durian farm near to Pekan Nenas, Pontian, Johor. Italian Bee (Apis Meliffera) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ea2owfsk-c0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ea2owfsk-c0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ea2owfsk-c0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HaleemMalaysia",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KyodwHGbTf7wbISGyHCY2ZxcFAA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ck9CtIuDoYU"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-29T00:04:34.000Z",
+                "channelId": "UCTw7InclMH-yvozq5h-Svjg",
+                "title": "Beekeeping With A Plan",
+                "description": "Typical day in the spring of me beekeeping and rambling. But seriously, I'm just trying to make the point about how important it is to have a clear set of tasks laid ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ck9CtIuDoYU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ck9CtIuDoYU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ck9CtIuDoYU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Devan Rawn",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_9nANnqTy7BaGZLFX9JJCnqMJ9E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Knx9Apxxx5M"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-19T11:43:25.000Z",
+                "channelId": "UCQ0_JQL4wdQd-Xe5hC4PwTg",
+                "title": "What is Propolis? (and mummified mice?!) | Beekeeping with Maddie",
+                "description": "Did you know that bees mummify animals just like the Egyptians?! Subscribe for more: http://bit.ly/1kPjJZL Earlier this summer, Mum and I went to investigate the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Knx9Apxxx5M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Knx9Apxxx5M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Knx9Apxxx5M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Maddie Moate",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/CAybVg48rKcmZ-WPKHNGNaSGqSk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "23WMwBtWoXo"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-05T00:14:11.000Z",
+                "channelId": "UCBnMUq9l15vvF3z5ifKZ14Q",
+                "title": "Beekeeping - Oil Seed Rape Honey Extraction",
+                "description": "All you need to know about extracting oil seed rape honey. If it does crystallise in the frames you will need to put it into a warming cabinet to melt it out from the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/23WMwBtWoXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/23WMwBtWoXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/23WMwBtWoXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "John Bee Man Saunders",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Y9gt1jAz0WQc-yF0SSfm8dhYx_8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oHMz-Te942g"
+            },
+            "snippet": {
+                "publishedAt": "2015-08-31T06:59:53.000Z",
+                "channelId": "UCR06UmbqUFK-0wew-aiH4OA",
+                "title": "Beekeeping - Late August Checkup",
+                "description": "I recap and take a peak inside each hive.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oHMz-Te942g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oHMz-Te942g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oHMz-Te942g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Plain 'Ol Beekeeping in Plano, TX",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VHpuiyqvGw7JsyemqJp0swjn_W8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z9Bj9vJpZhg"
+            },
+            "snippet": {
+                "publishedAt": "2016-01-11T21:21:00.000Z",
+                "channelId": "UC1-K0hNMvBFoJhxfa2kkyRQ",
+                "title": "Beekeeping for Beginners - Really -",
+                "description": "Beekeeping for beginners as well as all beekeepers. Does & Don'ts of beekeeping. How to start beekeeping.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z9Bj9vJpZhg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z9Bj9vJpZhg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z9Bj9vJpZhg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Walls Bee Man",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JuiemHCCfPWdMhnaTXYqwu0eqGY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0VAiUlXeL7A"
+            },
+            "snippet": {
+                "publishedAt": "2015-02-19T03:46:56.000Z",
+                "channelId": "UC0mcpy8uxfuGUClKepUQ_hQ",
+                "title": "Beekeeping Lessons - Traditional Frame Making: Part 2 Cross Wiring the Frames",
+                "description": "This is part two of the three part series on frame construction. This video attempts to explain how to effectively cross wire your frames so that they provide ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0VAiUlXeL7A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0VAiUlXeL7A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0VAiUlXeL7A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Honey Bee Honey",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yoijhsC7T6onLxdjiKTHgjqhLjs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tPnv5JJceJ8"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-22T19:16:25.000Z",
+                "channelId": "UCXWNw4h-kBx2mujBMj2ylbg",
+                "title": "Beekeeping: Flow Hive Inspection - Sharon & Ian at Eumundi, Australia.",
+                "description": "Sharon & Ian asked me to check on their flow hive 8 months after picking the bees up in Feb. '16. They are thrilled with how their flow hive is progressing.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tPnv5JJceJ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tPnv5JJceJ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tPnv5JJceJ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jeff Heriot",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5ZlPvtg18a0gNzVwn5leuG_ta98\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eg5n8uTdR9o"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-24T17:27:13.000Z",
+                "channelId": "UCjWwzxoKf0j7uSkO9BjmG8A",
+                "title": "HOMESTEAD BEEKEEPING - When Bees Abscond",
+                "description": "I found that my bees from one of my hives absconded. Though a bit disappointed I have hope for the Spring of splitting my best hive and creating a new queen.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eg5n8uTdR9o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eg5n8uTdR9o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eg5n8uTdR9o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pine Meadows Hobby Farm A Modern Homestead",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4ytEvhL-TG2dhHwSW8ezv5Bn3I0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "l3JBHoe4w6M"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-23T01:28:51.000Z",
+                "channelId": "UCkDbLiXbx6CIRZuyW9sZK1g",
+                "title": "Bad Beekeeping Problem",
+                "description": "New Animal Instagram \"Kul Farm\" - https://www.instagram.com/kulfarm/ Follow Taras on: https://www.instagram.com/crazyrussianhacker/ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l3JBHoe4w6M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l3JBHoe4w6M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l3JBHoe4w6M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Taras Kul",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4YI7MSeXOqY8X_sMGTNIMjx19sU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BdItRBzixf0"
+            },
+            "snippet": {
+                "publishedAt": "2016-03-20T01:45:28.000Z",
+                "channelId": "UCu6mSoMNzHQiBIOCkHUa2Aw",
+                "title": "Beekeeping with Cody 2016: Bees are Back!",
+                "description": "I look at my bees for the first time this season and order some more. this is a re-upload because the first time had an issue where the end was cut off. link for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BdItRBzixf0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BdItRBzixf0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BdItRBzixf0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cody'sLab",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YLDLNdbYQPnqoJ-k387Sf304A_w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K8KjU3RlzSY"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-04T17:57:29.000Z",
+                "channelId": "UCpXjo1sDWxAR0_PpF4Y1ymA",
+                "title": "Oxalic Acid Treatment - Apibioxal - Beekeeping Basics - The Norfolk Honey Co. #Beekeeping",
+                "description": "Oxalic Acid Treatment - Apibioxal - Beekeeping Basics - The Norfolk Honey Co. #Beekeeping Winter treatment of honeybees for varroa using the Oxalic Acid ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K8KjU3RlzSY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K8KjU3RlzSY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K8KjU3RlzSY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Norfolk Honey Company",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}

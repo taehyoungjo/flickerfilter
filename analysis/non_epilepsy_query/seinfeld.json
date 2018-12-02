@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/LuQJkgVjd28a3ebPk-9zxUIqIpY\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 827212,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/zdLwGjmmMn6uCxE0ysqwNsk5iZo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PaPxSsK6ZQA"
+            },
+            "snippet": {
+                "publishedAt": "2008-06-01T05:31:53.000Z",
+                "channelId": "UCFGHUUUJDK6DP0PLqxm8hZg",
+                "title": "Funniest Seinfeld Moments Part 1",
+                "description": "Funniest Seinfeld Moments Part 1. This is not my video. Part 2: http://www.youtube.com/watch?v=Go5g96vKF1U Part 3: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PaPxSsK6ZQA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PaPxSsK6ZQA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PaPxSsK6ZQA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "rangergiya",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6UHi-Oc4alghgfHRlC44zpL-pFQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YsFItXMCKJk"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-23T10:00:02.000Z",
+                "channelId": "UC8-Th83bH_thdKZDJCrn88g",
+                "title": "Jerry Seinfeld Shames Every Older Man for Wearing Jeans",
+                "description": "Jerry Seinfeld chats with Jimmy about the warmth and horror of Thanksgiving, turning his family into comedy props and when it's time for older men to retire \"cool ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YsFItXMCKJk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YsFItXMCKJk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YsFItXMCKJk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Tonight Show Starring Jimmy Fallon",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/53M95EsbtrzWIG_vs2Apdov2zUk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9KrN9OBhpyQ"
+            },
+            "snippet": {
+                "publishedAt": "2015-08-17T14:45:29.000Z",
+                "channelId": "UC4-b46M7YIFRecg_Gfnfeig",
+                "title": "Seinfeld \u2014 Lady That Wears Only One Dress",
+                "description": "Jerry is puzzled because he can't figure out why the girl he is dating seems to be wearing the same dress every time he sees her. From Seinfeld (Season 7, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9KrN9OBhpyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9KrN9OBhpyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9KrN9OBhpyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheStochasticBrother",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kFM4bk85zv9FCefyyFUoEaHp2Eg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VyNWVdExM24"
+            },
+            "snippet": {
+                "publishedAt": "2016-01-30T23:27:19.000Z",
+                "channelId": "UCvW8VsUL1ujvLUXJ-PCmDLQ",
+                "title": "Seinfeld - Risk",
+                "description": "A game of world domination played by two guys who can barely run their own lives.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VyNWVdExM24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VyNWVdExM24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VyNWVdExM24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vondur",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MkDrzmdUb4QBOBpz9BSyxODOYP0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sp_71Ok39Y0"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-06T17:57:18.000Z",
+                "channelId": "UCMro64yOreYnQ4OhWV-IUmg",
+                "title": "Best of George Costanza | Seinfeld Part - 1",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sp_71Ok39Y0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sp_71Ok39Y0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sp_71Ok39Y0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TV and Movie Clips",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XAGerbuWzvDIbwONNYTH-VOMXVY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4USDQ3pYfJk"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-19T17:34:45.000Z",
+                "channelId": "UCeJesXuEK5ERsyh-0DvM4PQ",
+                "title": "Jerry Seinfeld on Julia Louis-Dreyfus & \"Seinfeld\" | 2018 Mark Twain Prize",
+                "description": "Jerry Seinfeld honors Julia Louis-Dreyfus during the 21st Annual Mark Twain Prize for American Humor at The Kennedy Center. An outstanding lineup of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4USDQ3pYfJk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4USDQ3pYfJk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4USDQ3pYfJk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Kennedy Center",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Apq4efSSjS7RYefIu0e7F4gSCok\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "slbco4zHmt8"
+            },
+            "snippet": {
+                "publishedAt": "2009-09-20T01:01:35.000Z",
+                "channelId": "UCVnFwARm_Lhnv5gXUxTW3ag",
+                "title": "Great Seinfeld Moments",
+                "description": "A healthy collection of my personal favorite Seinfeld moments... as you can see, I am a fan of the later seasons.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/slbco4zHmt8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/slbco4zHmt8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/slbco4zHmt8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "asilvermountzion1983",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/AnSQJ0i-M4IrHQ3fOazvUwcahPw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r5BxjUmzPPA"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-19T22:00:03.000Z",
+                "channelId": "UC0v-tlzsn0QZwJnkiaUSJVQ",
+                "title": "Do Teens & College Kids Think Seinfeld Is Funny? | Does It Hold Up?",
+                "description": "Watch all main React episodes (Kids/Teens/Elders/Adults/YouTubers): http://goo.gl/4iDVa What should we react to next?? https://fbereact.com/submit ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r5BxjUmzPPA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r5BxjUmzPPA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r5BxjUmzPPA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FBE",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Xb_HsdxGM_JLZRai59QCbU6KcWw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xX3ZnwHe-go"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-09T11:50:12.000Z",
+                "channelId": "UCoXP_jIhZlfgbAq4yxZe7BA",
+                "title": "Seinfeld - Jerry Shaves His Chest",
+                "description": "Seinfeld - Season 8 - Episode 21 (The Muffin Tops)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xX3ZnwHe-go/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xX3ZnwHe-go/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xX3ZnwHe-go/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mementool",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/bdLZFK63pOmfvsxrlilBveNO3j0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HX55AzGku5Y"
+            },
+            "snippet": {
+                "publishedAt": "2014-12-05T05:44:29.000Z",
+                "channelId": "UC1IB8wEQLJksK1dGicfKzFw",
+                "title": "The Story of Festivus",
+                "description": "The Story of Festivus.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HX55AzGku5Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HX55AzGku5Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HX55AzGku5Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Chingy C",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UvbKPrCG8de6_c1YBvT2M3N1qQo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "evOm0ZBMeGk"
+            },
+            "snippet": {
+                "publishedAt": "2012-01-27T13:28:33.000Z",
+                "channelId": "UCVxwGY97tsnH2KGvo1YOEsg",
+                "title": "cleavage seinfeld",
+                "description": "Seinfeld gang \"deals\" with cleavage and Elain is trying to seduce the guy from NBC in a few videos from diffrent episodes. \u05e0\u05e2\u05e8\u05da \u05dc\u05d8\u05d5\u05d1\u05ea \u05e4\u05e2\u05d9\u05dc\u05d5\u05ea \u05d7\u05d9\u05e0\u05d5\u05db\u05d9\u05ea \u05d4\u05e2\u05d5\u05e1\u05e7\u05ea \u05d1\u05dc\u05d1\u05d5\u05e9, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/evOm0ZBMeGk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/evOm0ZBMeGk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/evOm0ZBMeGk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lior Tal",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dis-Rd94yKBimEY6tKEbV7koCzg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "euLQOQNVzgY"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-22T18:10:46.000Z",
+                "channelId": "UCjdBM40nCuIdLW1dqGGWtYg",
+                "title": "The Soup Nazi",
+                "description": "Seinfeld Season 07 Episode 06 - one of the more memorable characters of the show. I do not own or claim to own the rights to this. Just putting it here for people ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/euLQOQNVzgY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/euLQOQNVzgY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/euLQOQNVzgY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "spineshivers",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7yE5hKIWGYNmBw8_pQOh7sFwCMQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WCZFsXV8Pnc"
+            },
+            "snippet": {
+                "publishedAt": "2012-11-18T17:02:12.000Z",
+                "channelId": "UCjJiBgmEZdVZ6bQbtBsTxgQ",
+                "title": "Seinfeld  - The Heart Attack",
+                "description": "George, Kramer and Jerry meet Tor Eckman, the holistic healer. Eckman performs a number of unorthodox methods to determine George's real ailment, which ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WCZFsXV8Pnc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WCZFsXV8Pnc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WCZFsXV8Pnc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EremiT",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XjQT7nEYFO8cKw3C3V_Fenx2jhE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4TysctH5jiI"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-18T17:27:38.000Z",
+                "channelId": "UCqSS_Gp6PX3BNbFdHCV-C6A",
+                "title": "Jerry Seinfeld SAVAGE Moments",
+                "description": "Jerry Seinfeld doesn't tolerate fools Get all of Seinfeld's Episodes on Amazon: https://amzn.to/2S1MNaf If you want to send any videos that you want featured or ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4TysctH5jiI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4TysctH5jiI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4TysctH5jiI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Comedy University",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4r6MGQlvyKDBCPEKXMik7SppGSQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cpGfyp6MxkM"
+            },
+            "snippet": {
+                "publishedAt": "2011-07-29T08:31:36.000Z",
+                "channelId": "UCEOCZkr0cKzuQ4P1aj4xHWg",
+                "title": "Seinfeld \u2014 Native American (Full Scene)",
+                "description": "Jerry has some trouble dating a Native American. From Seinfeld (Season 5, Episode 10).",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cpGfyp6MxkM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cpGfyp6MxkM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cpGfyp6MxkM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheStochasticSister",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/c0E11VnzpW6xu-cKNKy5rgzUewM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p11I7VCON9A"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-01T12:22:36.000Z",
+                "channelId": "UCsgTjjpd7fLBg-Lz_D_Dygg",
+                "title": "Pigman | Seinfeld",
+                "description": "Seinfeld.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p11I7VCON9A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p11I7VCON9A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p11I7VCON9A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Holiday Network",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VXnv6IBPNvS2Tm8-y7KGmSgf7f8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZVq7CyhfRA8"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-20T10:53:21.000Z",
+                "channelId": "UCND_yY3oVvzc5BKCKbYX1Ag",
+                "title": "Seinfeld - Highlights of Mr. & Mrs. Costanza 1",
+                "description": "No copyright is claimed in this video clip and no copyright infringement is intended. Part 2: https://www.youtube.com/watch?v=IfBaDWVIK7E&t=4s Part 3: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZVq7CyhfRA8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZVq7CyhfRA8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZVq7CyhfRA8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kitty Kuchi",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QVhNjWVNVe91o44sNtbHPhKH5eo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_JNs0s9fpjU"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-28T05:20:43.000Z",
+                "channelId": "UCkwoL78edtcYUcfsYU3Zj8g",
+                "title": "Seinfeld - The Old Man",
+                "description": "Some scenes from Seinfeld's episode \"The Old Man\" (S04E18), with the elderly man Sid Fields (Bill Erwin), that Jerry gets assigned for volunteering with the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_JNs0s9fpjU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_JNs0s9fpjU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_JNs0s9fpjU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JordanW8497Sum41",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jXk3tPFNpdSIjGMrWODKCNtFXKY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wfnX73tjHi0"
+            },
+            "snippet": {
+                "publishedAt": "2009-12-30T05:56:29.000Z",
+                "channelId": "UCnHTP2ey79Xskae2gBXAi0w",
+                "title": "Seinfeld - Season 1 Clips (1 of 1)",
+                "description": "This is a collection of the best scenes from the first season of Seinfeld. Stay tuned for the second season which will be uploaded soon.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wfnX73tjHi0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wfnX73tjHi0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wfnX73tjHi0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "maunawiliboy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wfkZXHb8TIlkTbwuSGt3EnFtSBs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QGROXMFxRr0"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-16T21:11:15.000Z",
+                "channelId": "UCO54ztF2IfQjX86x-g9wbLg",
+                "title": "Seinfeld Season 7 Extra 7 Inside Looks",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QGROXMFxRr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QGROXMFxRr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QGROXMFxRr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "pinkskies21",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2f_PUYtx_ASejAUfc33HMHRMwR8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "n0FLczlOpqo"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-10T01:16:30.000Z",
+                "channelId": "UC6BsUrozZ0Auu2B8V2SZ8Lw",
+                "title": "Seinfeld The Bakery 1",
+                "description": "Seinfeld The Bakery 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n0FLczlOpqo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n0FLczlOpqo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n0FLczlOpqo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "John Doma",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Z7Psx860FQGS9Uo_tEz3y1ZVAGY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rK2B8z7sDhI"
+            },
+            "snippet": {
+                "publishedAt": "2012-07-02T11:18:02.000Z",
+                "channelId": "UCPYlSl0NL2cNd1zViho-iQw",
+                "title": "Seinfeld Bloopers Season 4 (Part 1)",
+                "description": "Seinfeld Bloopers Season 4 (Part 1)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rK2B8z7sDhI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rK2B8z7sDhI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rK2B8z7sDhI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "planetX15",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gIN9TY31wWLtquG1w5r7jV2yBJ4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C03BxeX03pY"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-07T15:07:33.000Z",
+                "channelId": "UC90yrERg5r9WUeWwDMofwOA",
+                "title": "Seinfeld - The Reunion Episode (fan made)",
+                "description": "During the roundtable discussion, Jerry revealed that Jason and him contemplated the idea of doing one more scene. \u201cIt would be a coffee shop scene, with ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C03BxeX03pY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C03BxeX03pY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C03BxeX03pY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moon Film",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/1uBiCuiL47U8OW79CTZ3_yC65XA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eGYTugxaFvs"
+            },
+            "snippet": {
+                "publishedAt": "2010-01-01T04:39:36.000Z",
+                "channelId": "UCnHTP2ey79Xskae2gBXAi0w",
+                "title": "Seinfeld - Season 2 Clips (1 of 3)",
+                "description": "This is a collection of the best scenes from the second season of Seinfeld. Stay tuned for the third season which will be uploaded soon.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eGYTugxaFvs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eGYTugxaFvs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eGYTugxaFvs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "maunawiliboy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/79EfbUG4L6yMFOnePZeTjgisfHs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z7CQIJ9-vow"
+            },
+            "snippet": {
+                "publishedAt": "2013-10-08T03:19:54.000Z",
+                "channelId": "UCO54ztF2IfQjX86x-g9wbLg",
+                "title": "Seinfeld Season 1 Inside Looks",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z7CQIJ9-vow/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z7CQIJ9-vow/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z7CQIJ9-vow/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "pinkskies21",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xU4kygA23MMfvsjuLqxE41f2FD8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EPkmLWOqwwA"
+            },
+            "snippet": {
+                "publishedAt": "2009-05-11T22:54:32.000Z",
+                "channelId": "UCZ8WV-IOvgulg_MleoCb91A",
+                "title": "Tuscany",
+                "description": "There's nothing to rent in Tuscany...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EPkmLWOqwwA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EPkmLWOqwwA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EPkmLWOqwwA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "rbrower3",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ysx4aK1v_-K7oXWyv6Zpn2gQJ-8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5L1PQymIZ0I"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-28T17:05:14.000Z",
+                "channelId": "UC-5zfBjHdv9k0gpJLkNnMvw",
+                "title": "Seinfeld Classics - Kramer Faux Pas Moments saying the wrong thing",
+                "description": "\"Seinfeld\" is the greatest TV show of all time. Watch Kramer's most memorable Faux Pas moments as he puts his foot in his mouth and always seems to say the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5L1PQymIZ0I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5L1PQymIZ0I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5L1PQymIZ0I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "photohumor",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/18H4iWxHCrcSE0Pi7B0a0uWOTEw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QviJz4M-mkI"
+            },
+            "snippet": {
+                "publishedAt": "2012-07-02T13:16:17.000Z",
+                "channelId": "UCPYlSl0NL2cNd1zViho-iQw",
+                "title": "Seinfeld Bloopers Season 7 (Part 1)",
+                "description": "Seinfeld Bloopers Season 7 (Part 1)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QviJz4M-mkI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QviJz4M-mkI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QviJz4M-mkI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "planetX15",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8Pib2ILyu68khPoEMLcHoXbzCFU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HCgWweWeKTA"
+            },
+            "snippet": {
+                "publishedAt": "2014-03-21T20:19:23.000Z",
+                "channelId": "UCsikZoRtTmPVZEgRN1g1scw",
+                "title": "Seinfeld Season 5 Bloopers & Outtakes",
+                "description": "Seinfeld Season 5 Bloopers & Outtakes.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HCgWweWeKTA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HCgWweWeKTA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HCgWweWeKTA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "phiwi2705",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9IB8GBtDFBfRN5LeoXlUBHMEyg0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B7SXPCwq0-o"
+            },
+            "snippet": {
+                "publishedAt": "2014-09-09T00:30:39.000Z",
+                "channelId": "UCVtL1edhT8qqY-j2JIndMzg",
+                "title": "7 Seinfeld Facts You (Probably) Didn't Know!",
+                "description": "Everyone's favorite show about nothing turns 25 this year. Even if you've been a fan since the beginning, you may not know these obscure facts about the show ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B7SXPCwq0-o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B7SXPCwq0-o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B7SXPCwq0-o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CineFix",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/n_WBWwgmqXq9dXoD5lts4h_XaXc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JcNcW1H-bpk"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-29T21:29:20.000Z",
+                "channelId": "UCZ8_0hSx2ocpHiYCQ3e86UA",
+                "title": "Julia Louis-Dreyfus / Elaine Marie Benes / Seinfeld Bloopers PT 1",
+                "description": "This compilation is dedicated to Julia Louis-Dreyfus / Elaine Marie Benes from the Seinfeld sitcom. Her beauty, smile and laughter is extremely infectious. This is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JcNcW1H-bpk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JcNcW1H-bpk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JcNcW1H-bpk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "COURTYLAD COMPILATIONS",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lZrs_--ybIiVZseT4bi8jN418ZE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zoJL4QZIfvI"
+            },
+            "snippet": {
+                "publishedAt": "2013-03-08T22:32:50.000Z",
+                "channelId": "UCAspEMpacW8a2fBBBEL3YVA",
+                "title": "Jerry Seinfeld interview, 1993",
+                "description": "Jerry Seinfeld interview, 1993.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zoJL4QZIfvI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zoJL4QZIfvI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zoJL4QZIfvI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "fivealex2010",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NjvRM1s08WhjAgOyC5TgT227jR8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xSrjAeEK7dI"
+            },
+            "snippet": {
+                "publishedAt": "2012-07-02T11:52:37.000Z",
+                "channelId": "UCPYlSl0NL2cNd1zViho-iQw",
+                "title": "Seinfeld Bloopers Season 6 (Part 1)",
+                "description": "Seinfeld Bloopers Season 6 (Part 1)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xSrjAeEK7dI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xSrjAeEK7dI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xSrjAeEK7dI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "planetX15",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lKsdAhHfz3I9dOAxvvkHleD7wcU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d40pS-e5Z9g"
+            },
+            "snippet": {
+                "publishedAt": "2013-09-04T07:55:50.000Z",
+                "channelId": "UC8r7TM5LcJjK2sfDdkksUkA",
+                "title": "Seinfeld | Jackie Chiles",
+                "description": "\"Jackie Chiles is a fictional character portrayed by American actor Phil Morris in the NBC sitcom Seinfeld. He appears in the series' seventh through ninth ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d40pS-e5Z9g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d40pS-e5Z9g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d40pS-e5Z9g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vintorious",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BTr0sMlFM59clG0exPRDD_BTefk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Rzc9v9Ek7KI"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-23T14:00:02.000Z",
+                "channelId": "UCP1iRaFlS5EYjJBryFV9JPw",
+                "title": "The Ending Of Seinfeld Explained",
+                "description": "If you're new, Subscribe! \u2192 http://bit.ly/Subscribe-to-Looper It's been 20 years since Seinfeld left TV, and its ratings-grabbing final episode remains divisive ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rzc9v9Ek7KI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rzc9v9Ek7KI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rzc9v9Ek7KI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Looper",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6LJUCX6gEmaC27r76ziOCeQrSz4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MQy9pVBNnIY"
+            },
+            "snippet": {
+                "publishedAt": "2014-04-02T04:26:49.000Z",
+                "channelId": "UC1U-JTDYzQpWwfUpW4SaK_A",
+                "title": "Seinfeld - Season 9 - Inside Looks - \"The Butter Shave\", \"The Voice\", (...) (Subt\u00edtulos en Espa\u00f1ol)",
+                "description": "Inside Looks: \"The Butter Shave\", \"The Voice\", \"The Junk Mail\" & \"The Merv Griffin Show\". Miradas internas de los episodios \"La Mantequilla\", \"La Voz\", \"El ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MQy9pVBNnIY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MQy9pVBNnIY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MQy9pVBNnIY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Weidmann",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DrFyxSuTgfEro7oDcU0xWlsTRbg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yeHxp9KtFc8"
+            },
+            "snippet": {
+                "publishedAt": "2013-07-08T20:12:40.000Z",
+                "channelId": "UC8-Th83bH_thdKZDJCrn88g",
+                "title": "Web Exclusive: Jerry Seinfeld Audience Q&A (Late Night with Jimmy Fallon)",
+                "description": "After Jimmy and Jerry Seinfeld finish their interview segment, Jerry stays to field audience questions about his life and career. WATCH: Jerry Seinfeld Performs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yeHxp9KtFc8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yeHxp9KtFc8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yeHxp9KtFc8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Tonight Show Starring Jimmy Fallon",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/214dllbbR4mqY2ArklKt6pMTl1c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nfzVowHa1aM"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-22T22:24:01.000Z",
+                "channelId": "UCUbNsTPtAcrP48oRp4sWzyg",
+                "title": "Seinfeld - George's Plan (The Switch)",
+                "description": "Jerry and George hatch a plan to swap Jerry's girlfriend for her roommate.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nfzVowHa1aM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nfzVowHa1aM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nfzVowHa1aM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Arvindh Mani",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wTbfADcD1keEHqMa-EGhEQufkD8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YkLK-fpduiw"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-04T08:49:34.000Z",
+                "channelId": "UCM2FxtEBBheQ0E3ciR-o5dA",
+                "title": "Seinfeld Reunion 2/4 (2004)",
+                "description": "The first reunion after the end of one of the biggest sitcoms in TV history.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YkLK-fpduiw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YkLK-fpduiw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YkLK-fpduiw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UberDurable",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/q3rzgGcwFs22ZATSabi660Du3_U\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zLo3kbggWZs"
+            },
+            "snippet": {
+                "publishedAt": "2012-01-10T10:22:22.000Z",
+                "channelId": "UCjJiBgmEZdVZ6bQbtBsTxgQ",
+                "title": "Seinfeld The Masseuse",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zLo3kbggWZs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zLo3kbggWZs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zLo3kbggWZs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EremiT",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Nht3hVTopBdyutYqqSH-n0hL-Ro\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1-HfU_3WTxY"
+            },
+            "snippet": {
+                "publishedAt": "2013-08-31T17:38:20.000Z",
+                "channelId": "UC8q2aWIJB8aHU-LIim-9TXA",
+                "title": "Seinfeld Minutia",
+                "description": "Those random conversations at the beginning of some Seinfeld episodes in the later seasons.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1-HfU_3WTxY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1-HfU_3WTxY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1-HfU_3WTxY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phil H",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/m1rzUV4gyTZK-TXvsXxI97U8WoY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2BPR6Vwt0EY"
+            },
+            "snippet": {
+                "publishedAt": "2014-03-26T00:59:45.000Z",
+                "channelId": "UC8r7TM5LcJjK2sfDdkksUkA",
+                "title": "Seinfeld | Justin Pitt",
+                "description": "A compilation of clips from Seinfeld featuring Justin Pitt, simply referred to as \"Mr. Pitt\" throughout the series. \"Seinfeld is an American television sitcom that ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2BPR6Vwt0EY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2BPR6Vwt0EY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2BPR6Vwt0EY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vintorious",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/qTsROBDDTi3yk54qQxmfJthWJfI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rtU-eoUa4Xg"
+            },
+            "snippet": {
+                "publishedAt": "2015-08-24T19:17:01.000Z",
+                "channelId": "UCO2n_ebzEFgmbCrl08r0vcg",
+                "title": "seinfeld glasses full scene HD",
+                "description": "Hilarious scene from seinfeld.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rtU-eoUa4Xg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rtU-eoUa4Xg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rtU-eoUa4Xg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Iron Osiris",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YAxGLMroRLoENgoLIEIpcNNQWxM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KDRImgMxNQg"
+            },
+            "snippet": {
+                "publishedAt": "2010-09-18T08:48:02.000Z",
+                "channelId": "UC98w7G6LKM479yY8pobSvPg",
+                "title": "Seinfeld - The Comeback.wmv",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KDRImgMxNQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KDRImgMxNQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KDRImgMxNQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "tigerbalm",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VB4t6p2JS1xZcdtuvkjGETtr9Nk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pTeooZcOOQ8"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-01T13:18:27.000Z",
+                "channelId": "UCSK-enY0osHs43nB_qVNIVg",
+                "title": "Top 5 Seinfeld Episodes",
+                "description": "It's time to take a look at the best episodes of what I consider to be the best sitcom of all time. I know that I usually don't post videos about live action shows on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pTeooZcOOQ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pTeooZcOOQ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pTeooZcOOQ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NICKtendo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kpPnUjua2phl-G4a2uhnZWJuQgI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4xvSZDE_pWA"
+            },
+            "snippet": {
+                "publishedAt": "2010-08-31T16:29:03.000Z",
+                "channelId": "UClabCrtJDioSlB8EZLUBMBg",
+                "title": "Howard Stern..Jerry Seinfeld 8-30-10 Part 1-3",
+                "description": "Howard Stern..Jerry Seinfeld 8-30-10 Part 1-3.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4xvSZDE_pWA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4xvSZDE_pWA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4xvSZDE_pWA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "godlike51",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lT0ysMgjrHGDQJanF1mttVtyRzc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "az_twPoTiAE"
+            },
+            "snippet": {
+                "publishedAt": "2014-12-13T19:31:43.000Z",
+                "channelId": "UCM9DLoMh8XnUeMqHqTDMClA",
+                "title": "Best Of Seinfeld   Season 1",
+                "description": "Seinfeld got off to a rocky start with Season 1, but it had some good moments nonetheless. 0:00-1:24 S1E4 1:24-1:52 S1E2 1:52-2:15 S1E2 2:15-2:49 S1E2 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/az_twPoTiAE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/az_twPoTiAE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/az_twPoTiAE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Best-Of Montages",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HZDNYsixhswrfPhVC0T5PhOVeJU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DUs6xn57UUc"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-13T10:36:12.000Z",
+                "channelId": "UCND_yY3oVvzc5BKCKbYX1Ag",
+                "title": "Seinfeld - Highlights of Mr & Mrs Costanza part 3",
+                "description": "Part 1 - https://www.youtube.com/watch?v=ZVq7CyhfRA8 Part 2 - https://www.youtube.com/watch?v=IfBaDWVIK7E Part 4 is coming soon :) No copyright is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DUs6xn57UUc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DUs6xn57UUc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DUs6xn57UUc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kitty Kuchi",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TWJT2Qek_-4WHSnivMOP4wSs1Hk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iU9V4FEG_D4"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-09T11:37:17.000Z",
+                "channelId": "UCoXP_jIhZlfgbAq4yxZe7BA",
+                "title": "Seinfeld - AIDS Walk",
+                "description": "Seinfeld - Season 7 - Episode 9 (The Sponge)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iU9V4FEG_D4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iU9V4FEG_D4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iU9V4FEG_D4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mementool",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pwSCQISv_8kxBeOOlx-eIjvZCdE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dMvTyv5JSUs"
+            },
+            "snippet": {
+                "publishedAt": "2017-12-24T18:19:26.000Z",
+                "channelId": "UCwFQgipl6jUzoCljXRCdXBA",
+                "title": "Seinbytes {The Nipple} Seinfeld NBC",
+                "description": "Seinbytes {The Nipple} Seinfeld NBC -Elaine sends out a Christmas card with her nipple exposed. \"nip\" -Seinfeld is a situation comedy which ran from July 5, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dMvTyv5JSUs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dMvTyv5JSUs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dMvTyv5JSUs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Miki",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}

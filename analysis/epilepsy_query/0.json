@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PB5vR8ooH-68RdQ1y3W6JRj5G2o\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 387384,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/29OQSTjBgIFH0t6Jj-FNJiMDCtU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Yw_YDvLWKnY"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-07T01:28:08.000Z",
+                "channelId": "UCPdpXq7P_58C93QB0K4soEg",
+                "title": "Epilepsy Test [EXTREME SEIZURE WARNING]",
+                "description": "This video is purely educational.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Yw_YDvLWKnY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Yw_YDvLWKnY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Yw_YDvLWKnY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LandPirate",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3loX2ZeHz9JbUfzIMvIUzqoxqfc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZmGs8eCelVs"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-25T10:10:12.000Z",
+                "channelId": "UCST3iPzrjCjWisoiKoVX8oQ",
+                "title": "HARDEST BASS BOOSTED SONG IN THE WORLD [EPILEPSY WARNING]",
+                "description": "THIS IS BETTER THAN BASS NATION. THIS IS THE MOST BASS BOOSTED SONG IN THE WORLD.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZmGs8eCelVs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZmGs8eCelVs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZmGs8eCelVs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Exotikz",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-KTpHpRaVxS46bW3hNQ5sIQHmzU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KwszXpweOy0"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-27T17:00:02.000Z",
+                "channelId": "UCiufyZv8iRPTafTw0D4CvnQ",
+                "title": "Epilepsy Warning - HEAVY BURGER!",
+                "description": "Another one-off. This time for any fans of some good ole' arcade gaming nostalgia. Good luck having a clue whats going on, by the way. Epilepsy Warning ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KwszXpweOy0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KwszXpweOy0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KwszXpweOy0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Neebs Gaming",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/j-0-teYZfdAF7GlfM-IMhY2qUps\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_yxhfbMwdxo"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-25T15:30:01.000Z",
+                "channelId": "UCQXTHglWWCZix0ics_4LP1Q",
+                "title": "10 Hours of Flashing Colors (Epilepsy Warning)",
+                "description": "This video is kinda a screen fix video, leave it on to deal with a number of screen issues such as dead pixels. I suppose this also works for hypnosis More 10 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_yxhfbMwdxo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_yxhfbMwdxo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_yxhfbMwdxo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MyAbridged",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/qeoLWz0iF747--K8MnEaCej4Sws\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xDVaU78wAPM"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-16T14:37:48.000Z",
+                "channelId": "UCS0K5_zIZTUx8TLz7mTOtog",
+                "title": "BATIM- Bye Bye meme (epilepsy warning)",
+                "description": "Yay i'm done! I made this in 2 days soooooo....Yeah OWO I hope you like it and thank you sooooooo much!! O3O Programs used: MediBangPaintPro (for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xDVaU78wAPM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xDVaU78wAPM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xDVaU78wAPM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "InkyFace",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/U5W4Ke4k5Cye28s_7Cvt_ovoFJ8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "y8b5-EcQw0s"
+            },
+            "snippet": {
+                "publishedAt": "2015-09-10T23:19:43.000Z",
+                "channelId": "UC-tfUjusXbGIASuFvuMKYvg",
+                "title": "Epilepsy Warning: Geometry Dash",
+                "description": "Standard Description... https://everyplay.com/videos/20429960 Video recorded with Everyplay. Download Geometry Dash on the App Store: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y8b5-EcQw0s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y8b5-EcQw0s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y8b5-EcQw0s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jakob Hubbard",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/iD6oF3bZ4F5SePlP9HbFifp01lU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EFyJdqN265g"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-06T20:32:00.000Z",
+                "channelId": "UCdU1s7cgb-IECoD6cdqdD3A",
+                "title": "epilepsy warning",
+                "description": "green hill zone: https://www.youtube.com/watch?v=-w9PukG97oQ Please like, share & subscribe! It'd be great if you did that. Links: Patreon: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EFyJdqN265g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EFyJdqN265g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EFyJdqN265g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "kmlkmljkl",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jibK8OB3IOCUa8JTP24mzxOH4Sk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Dou0kmug7cs"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-08T17:00:00.000Z",
+                "channelId": "UCaWd5_7JhbQBe4dknZhsHJg",
+                "title": "Top 10 Banned TV Episodes [EPILEPSY WARNING @ 3:20]",
+                "description": "[EPILEPSY WARNING @ 3:20] Top 10 Banned TV Episodes Subscribe: http://goo.gl/Q2kKrD and also Ring the Bell to get notified // Have a Top 10 idea? Submit ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Dou0kmug7cs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Dou0kmug7cs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Dou0kmug7cs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WatchMojo.com",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YcXsHTfyvIm1MCm3O_0gsfEqK7s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GzMU17t6ihg"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-21T01:33:44.000Z",
+                "channelId": "UCEhOHPq5b4aVRNsZRgbsl_g",
+                "title": "NGC 3.14 x Tenkitsune - LEMON SODA (Epilepsy Warning)",
+                "description": "Ramune \u30e9\u30e0\u30cd Visuals Song: NGC 3.14 x Tenkitsune - Lemon Soda Check out their soundcloud! NGC https://soundcloud.com/n_gc Tenkitsune ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GzMU17t6ihg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GzMU17t6ihg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GzMU17t6ihg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u94f6Silvrz",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/M-ym3A_l9wj9woge7QJmJr0tvj4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QNVSlCIcFiU"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-28T10:29:00.000Z",
+                "channelId": "UCFLlz5_bxaijqvoTl-N3KAg",
+                "title": "BI-POLAR| MEME (read desc? + epilepsy warning) (OLD)",
+                "description": "this video has nothing to do with bipolarism, it's just the meme's title, not my decision since the original isn't by me \u00af\\_(\u30c4)_/\u00af original by g.erald --- here's some ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QNVSlCIcFiU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QNVSlCIcFiU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QNVSlCIcFiU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sleepykinq",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pyPbYndryB8nSzF34qzR-vsjh5E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ksWKmF43AqM"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-24T23:56:40.000Z",
+                "channelId": "UCXLy343cKe3vmRi3WQYujVw",
+                "title": "We Are Number One (EAR RAPE) (EPILEPSY WARNING)",
+                "description": "cancer SUPPORT ME ON PATREON! - https://www.patreon.com/ItsCova JOIN THE DISCORD: https://discord.gg/JRq8hkK https://discord.gg/JRq8hkK ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ksWKmF43AqM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ksWKmF43AqM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ksWKmF43AqM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ItsCova",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gixtBpyv-V6ZH-Cx8PHbhkcRv6M\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jOgaGWuA1p4"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-08T00:08:55.000Z",
+                "channelId": "UCtIsb1cd5-kUcsMpLK3e61g",
+                "title": "[MEME] SMILE! /epilepsy Warning/",
+                "description": "\u044f \u043d\u0435\u043c\u043d\u043e\u0433\u043e \u043d\u0430\u043a\u043e\u0441\u044f\u0447\u0438\u043b \u0441\u043e\u0440\u044f:(( ------------------------------------------------- ORIGINAL https://www.youtube.com/watch?v=NanhqTT6vYs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jOgaGWuA1p4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jOgaGWuA1p4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jOgaGWuA1p4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lopalu",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/beeqp-oGYiJNFLyLuR8EzR067ak\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Db2qKYQdISA"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-30T12:52:12.000Z",
+                "channelId": "UCdOr-hoBc8cJsBvgUjNQlMw",
+                "title": "Nightcore - Gasoline [Epilepsy warning]",
+                "description": "Artist(s): Halsey Hope You enjoy this Nightcore! Information Below! Pic Origin: mirai nikki Pic: http://i.imgur.com/fM5OK5P.jpg Support Halsey: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Db2qKYQdISA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Db2qKYQdISA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Db2qKYQdISA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ForeverNightcore",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aZTpOKWtboVN0vWMx0yTzrcNocw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ERLsGSxriK0"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-12T19:00:01.000Z",
+                "channelId": "UCQ7iBNApeIef4CUuf198kJA",
+                "title": "NOT QUITE THERE | [Original Meme] | [Epilepsy Warning!]",
+                "description": "Song: Beyond Her Garden - Originally by WoodenToaster/Galze, Remixed by The Living Tombstone https://www.youtube.com/watch?v=Br7MoCR7TWw I've ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ERLsGSxriK0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ERLsGSxriK0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ERLsGSxriK0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Draikinator",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9CBCP4EkhiiVrIDBACq3xv4hFMA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zWk6C0m_5Yo"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-20T06:04:32.000Z",
+                "channelId": "UCVtIRuQcF7RellsOaNlFJJg",
+                "title": "staying,, awake. [epilepsy warning]",
+                "description": "THIS VIDEO CONTAINS FLASHING IMAGES. edited at 1am.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zWk6C0m_5Yo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zWk6C0m_5Yo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zWk6C0m_5Yo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sofia Carvalho",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vXIpTHoBAzj1VbTXRFacptaTHgc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PhRTwRbBZqo"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-06T03:31:12.000Z",
+                "channelId": "UCWlTFDhHLM8d8emJ3aDZXkA",
+                "title": "TomTord Eddsworld AMV [EPILEPSY WARNING]",
+                "description": "This is my first video on my channel and also being the first time I edit, took some time but I'd like to know what you think. Comment to tell me your thoughts on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PhRTwRbBZqo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PhRTwRbBZqo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PhRTwRbBZqo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bj\u00f8rnCorruption",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6TJOvoTJ65_jmRyT-83gYq3PCRM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SBIV1Ho_kmQ"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-04T19:45:17.000Z",
+                "channelId": "UCgL-8mlk27qoQMQweqO8f0w",
+                "title": "bi polar // meme \u3010Cross Sans\u3011 !EPILEPSY WARNING!",
+                "description": "\u0412\u0434\u043e\u0445\u043d\u043e\u0432\u0438\u043b\u043e \u0432\u043e\u0442 \u044d\u0442\u043e \u0432\u0438\u0434\u0435\u043e: https://www.youtube.com/watch?v=X41o1y1M3WQ \u0414\u0435\u043b\u0430\u044e \u0447\u0442\u043e-\u0442\u043e \u043f\u043e\u0434\u043e\u0431\u043d\u043e\u0435 \u043f\u0435\u0440\u0432\u044b\u0439 \u0440\u0430\u0437 \u0438 \u044d\u0442\u043e \u0410\u0420\u0413\u0425 \u043e\u0447\u0435\u043d\u044c \u0441\u043b\u043e\u0436\u043d\u043e\u043e...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SBIV1Ho_kmQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SBIV1Ho_kmQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SBIV1Ho_kmQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AlexMay",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NMzTGgkuG-a3dDgjRG7uAfXxp6E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2wTc_etNU3E"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-13T21:31:09.000Z",
+                "channelId": "UCw1SQ6QRRtfAhrN_cjkrOgA",
+                "title": "LASER LEVELS - EPILEPSY WARNING! (ClusterTruck #3)",
+                "description": "Cluster Truck Gameplay and Funny Moments returns with some Custom community levels! BELT DA BLOODY LIKE BUTTON for more! \u25bb SUBSCRIBE!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2wTc_etNU3E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2wTc_etNU3E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2wTc_etNU3E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LazarBeam",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jsyBemnNHBmMpeuOwvgx1ZqVpAQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LBLwYd9Gwxk"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-08T17:39:11.000Z",
+                "channelId": "UCTQZ5HA6DOsbdRPJREef0JQ",
+                "title": "*epilepsy warning* she heals everything.",
+                "description": "get the remakes here: JM - https://soundcloud.com/cr1x-official/shepherdess-buildup/s-NMoTl Michael Keefe X Erio ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LBLwYd9Gwxk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LBLwYd9Gwxk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LBLwYd9Gwxk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nickster2230",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/tE4PMd0eGZoEfxuB_Xkpkh897Vs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FFE2-Y4zc6A"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-13T15:28:03.000Z",
+                "channelId": "UCkOq5RvuZ2XIrsDGxkwG1mQ",
+                "title": "Afton Family - KryFuZe - Russell Sapphire Remix|SFM|EPILEPSY WARNING!",
+                "description": "Finally. What is in my opinion, the greatest animation of mine I've ever made. The editing is the best I've ever done and the movements and lighting are ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FFE2-Y4zc6A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FFE2-Y4zc6A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FFE2-Y4zc6A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Razor fall",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/eeOiUz5a1ZzTNWdWci0dTrFl8eY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SmhmUp-IncQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-08T18:00:03.000Z",
+                "channelId": "UC_qjBu445WM4dulK392K6ww",
+                "title": "Telling Lies (Epilepsy Warning) - Rev [Vinesauce]",
+                "description": "This video is the result of watching every single one of those \"Johny Johny Telling lies\" videos and every video they reccomended for about 10 hours. Subscribe: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SmhmUp-IncQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SmhmUp-IncQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SmhmUp-IncQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Revscarecrow: Vinesauce Rev",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/L2BtibQ7p22o7Dh4DfaIswoZYIc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SJdrR6p_q-U"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-25T02:37:38.000Z",
+                "channelId": "UCxgmf7uKkX02klM4jIRH37A",
+                "title": "TWISTED || Animation Meme (Epilepsy Warning)",
+                "description": "Warning! There's a lot of static/flashing images including shaking images and loud music- so hey careful! ----------- Support me! Ko-fi: https://ko-fi.com/cosmicguts ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SJdrR6p_q-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SJdrR6p_q-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SJdrR6p_q-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "cosmicguts",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/yMIvAQu5fXJ_s1agsqeQMmP8n1Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1K1pdM5ad3A"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-07T18:50:29.000Z",
+                "channelId": "UCeuZ5GYshtuWfTLI3WfZ-3A",
+                "title": "Happy Pills [MEME] [epilepsy warning]",
+                "description": "Original: https://youtu.be/9LF-im0zSpw this took SO LONG because i WOULDNT WORK ON IT i kept started other stuff ghcjshjd but here we go!! This meme is so ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1K1pdM5ad3A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1K1pdM5ad3A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1K1pdM5ad3A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mewtley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4CTL7_y4F5V_RtACv_p47M5oPEY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PTPEF5rygKU"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-18T16:17:33.000Z",
+                "channelId": "UCj_G_R-vhLciK9BwXK3RdiQ",
+                "title": "[SFM/FNaF] Scary Hour | *EPILEPSY WARNING* | Original Animation",
+                "description": "Well this took surprisingly only 5 days (3 of animating and 2 of rendering/editing). Probably because its a \"short\" music or because i was really motivated to finish ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PTPEF5rygKU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PTPEF5rygKU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PTPEF5rygKU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ThePixel",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hT5LP6F9Tns3Fmebdmpo94LPgWc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4aHjMwEowLU"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-28T02:38:21.000Z",
+                "channelId": "UCzUAxWbxW_IbsKyMBgZ6z9w",
+                "title": "F*CK OFF [MeMe] EPILEPSY WARNING - FlipaClip",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4aHjMwEowLU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4aHjMwEowLU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4aHjMwEowLU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u00a1MoonCatt_Draws!",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/bVhLJm55ht-lYPp9BA8fwJi2UYw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "orkYqMWuy1Y"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-18T19:14:22.000Z",
+                "channelId": "UCJOlmHcXGRpO24rn41FadGg",
+                "title": "\u041f\u0438\u0441\u044c\u043c\u0430 \u0436\u0438\u0437\u043d\u0438 [ meme ] Life letters // JOHNLOCK (epilepsy warning?)",
+                "description": "\u0414\u0410, \u044f \u0440\u0443\u0441\u0441\u043a\u0438\u0439, \u0433\u043e\u0441\u043f\u043e\u0434\u0438. I've made another one meme for like two days, I was kinda lazy... NAH it's not undertale meme, stop spam under the last videos.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/orkYqMWuy1Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/orkYqMWuy1Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/orkYqMWuy1Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cobe DawNav",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8UAvbKALjH1Iv_od88mLK03pVbo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ayNGP4_qBQ4"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-14T09:57:22.000Z",
+                "channelId": "UCgBUq4_t3X5HcinTKPT2BMg",
+                "title": "[ SMILE ] meme\u25cf ft. Edd\u25cf Eddsworld\u25cf(Gore+epilepsy Warning)",
+                "description": "inspired by Zombeh Attack 2 (\u00bf But only edd xdxd. Inspirado en Zombeh Attack 2 (?? Pero s\u00f3lo edd xDdXdxd. \u25bd Original by Getlost \uaebc\uc838 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ayNGP4_qBQ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ayNGP4_qBQ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ayNGP4_qBQ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Buminburr",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8lbGNvUXeet0hVvLd3O_9H_bS_I\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7H9EoISYCQU"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-03T09:58:48.000Z",
+                "channelId": "UC8jiPSo0A0mli7q1IWvXEjw",
+                "title": "[SFM/FNAF] Let Me Through By CG5 [EPILEPSY WARNING]",
+                "description": "Original https://www.youtube.com/watch?v=pL_JulOAtmA just to save you guys some time, looking for these children models ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7H9EoISYCQU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7H9EoISYCQU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7H9EoISYCQU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yumi Geeker",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ickwuB5ASJY0RhkcfsZauTe4yXI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jh4aS4IOzoA"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-31T10:15:05.000Z",
+                "channelId": "UCvjdtdg5LPn6aVZ-ApQPp6g",
+                "title": "\"We are Alive\" [SFM/BATIM] Build Our Machine ~ DAGames [EPILEPSY WARNING!]",
+                "description": "YES ITS FINISHED!! Frieking finnaly! ;w; This took shorter tbh than i thought, cuz i ussualy finish my animations in 3 months and this one was in 2 months XD I ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jh4aS4IOzoA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jh4aS4IOzoA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jh4aS4IOzoA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SunnyCraft - TheSunGirl",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Zh5x9EpMCKaGZ9ip0XXYVzbtxew\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "osjEzVv9jm0"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-26T15:30:01.000Z",
+                "channelId": "UC7sDT8jZ76VLV1u__krUutA",
+                "title": "Sci-Fi Short Film \"The Chamber\" presented by DUST - *Epilepsy Warning",
+                "description": "Subscribe and watch more sci-fi shorts on DUST: http://bit.ly/2aqc5vh \"The Chamber\" by GMUNK *WARNING - flashing lights may cause problems for people ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/osjEzVv9jm0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/osjEzVv9jm0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/osjEzVv9jm0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DUST",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7f64-O5oyEN_BTx23hIQ7v2_EGk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NanhqTT6vYs"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-28T19:48:16.000Z",
+                "channelId": "UCl6gx0iQ-VvwhJu0r1FndTQ",
+                "title": "[ SMILE ]meme Original(Gore+epilepsy  Warning)",
+                "description": "This is my first original meme and this is Old thank you for watching! And if you want to watch my artworks go to my insta @getlost3, I upload my daily life and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NanhqTT6vYs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NanhqTT6vYs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NanhqTT6vYs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\uaebc\uc838Getlost",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-c0poHyG25vJnayFz_EpoZ2mgCg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C5AOm6S7sDo"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-19T08:26:59.000Z",
+                "channelId": "UCAC8tfkyjyvOhFCruyxqsbQ",
+                "title": "Basic Flashlight Defense (EPILEPSY WARNING!!!!)",
+                "description": "Hello Everyone, In today's video I attempt to showcase how to use a flashlight for basic self defense, the principles and mechanics behind it. I hope to one day go ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C5AOm6S7sDo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C5AOm6S7sDo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C5AOm6S7sDo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "cossackhetman",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QnJ-lbLb2BZR3M1GnaMCXBs8Htk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LfSwrSKkXHc"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-19T17:30:00.000Z",
+                "channelId": "UCQ7iBNApeIef4CUuf198kJA",
+                "title": "[Epilepsy Warning!] Touch Tone Telephone | Goosefeather MAP | Part 4",
+                "description": "MAP: https://www.youtube.com/watch?v=GrXBM7pRzN4 I know I said I was going to start uploading map parts in little collections instead of individually but.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LfSwrSKkXHc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LfSwrSKkXHc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LfSwrSKkXHc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Draikinator",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/d0CPSUPDwDqhEEgsjBORHFNlctc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rA8ZjlPHlaU"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-15T17:35:46.000Z",
+                "channelId": "UCDnYX2jqzQXMST8Yo4NzQZQ",
+                "title": "\u3010Music\u3011Little Dreams | Vylet | EPILEPSY WARNING!",
+                "description": "Perfect Dreams The art is by Sterfler, please go check out all her gorgeous art or I cannot approve of you being subscribed to me: http://sterfler.tumblr.com/ This ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rA8ZjlPHlaU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rA8ZjlPHlaU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rA8ZjlPHlaU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vylet Pony",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/atavQ52vzSwPUz9ytLikfpQblb0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QHBBVPFXEgg"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-01T09:35:26.000Z",
+                "channelId": "UCh3Tu_LLq4euL-lpYuUojaA",
+                "title": "S3RL - MTC Remix Instrumental (Epilepsy Warning)",
+                "description": "The instrumental remix of MTC including all of my favourite anime x3 Original video: https://www.youtube.com/watch?v=l-3nA07PN0M Thank you Patreons!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QHBBVPFXEgg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QHBBVPFXEgg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QHBBVPFXEgg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Musiclide",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/LYHHLGZxH8SMevoojtbbs2y8oUM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h7A_6O5Nxzs"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-28T17:15:01.000Z",
+                "channelId": "UCoiKmmzPZQJYAPkOT011NRQ",
+                "title": "(EPILEPSY WARNING) [FNaF/Collab]\"It's time to die\" by DAGames (My Birthday Special)",
+                "description": "After 3 months, this is my first collab completed :'3 thanks to all for joining Also today is my bday, I'm 16 years old now and I wanted this collab as an special uwu ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h7A_6O5Nxzs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h7A_6O5Nxzs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h7A_6O5Nxzs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u02cf\u02cbGirlDiamond\u02ca\u02ce",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_FjkZyao0A1LOFXGcCkRKIeqtyk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h8fOXrKJiaM"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-07T02:10:58.000Z",
+                "channelId": "UCeerv1aecAwbbivf_PVUGmQ",
+                "title": "[EPILEPSY WARNING] ~Drop it~",
+                "description": "\u00c7a faisait longtemps que je voulais faire cette vid\u00e9o mais il me manquait quelques fan art pour pouvoir le compl\u00e9ter (et m\u00eame encore, il m'en manquait 4 pour ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h8fOXrKJiaM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h8fOXrKJiaM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h8fOXrKJiaM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Crazy Chessy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/sA_7N09j6K6fIrXLBfmBQn9VTKc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0I9qdzkpBFs"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-05T22:55:12.000Z",
+                "channelId": "UCORgArf_3R0I3GP8gOfRm-w",
+                "title": "SICK - [MEME] (epilepsy warning)",
+                "description": "ive decided that im gonna try to take a break from owed art for a while as i try to figure myself out so im sorry if i dont rlly get stuff done for a while :( this was rlly ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0I9qdzkpBFs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0I9qdzkpBFs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0I9qdzkpBFs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "shinyarcs",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vgWHgKxfFTSG5YbXLYYZI2HLRbc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GtZsIlNpblI"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-02T09:21:25.000Z",
+                "channelId": "UCVRW3LtlGFnGSeNB1UspZSA",
+                "title": "\u3010AP\u30d8\u30bf\u30ea\u30a2MMD\u3011- Smile |meme| ((epilepsy Warning))",
+                "description": "(\u0432 \u043a\u043e\u043d\u0446\u0435) \u041a\u043e\u0433\u0434\u0430 \u043b\u0435\u043d\u044c \u0440\u0438\u0441\u043e\u0432\u0430\u0442\u044c, \u043d\u043e \u043e\u0447\u0435\u043d\u044c \u0445\u043e\u0442\u0435\u043b\u043e\u0441\u044c :3 \u0410 \u0435\u0449\u0451 \u044f \u043d\u0430\u043a\u043e\u043d\u0435\u0446 \u0434\u043e\u0434\u0435\u043b\u0430\u043b\u0430 \u044d\u0442\u0443 \u043c\u043e\u0434\u0435\u043b\u044c @\u0437@ Motion by Scuba Original meme:...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GtZsIlNpblI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GtZsIlNpblI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GtZsIlNpblI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Taho Cherry",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/eJjzAWD_rQMz1gMMiqW92XLh5Zc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ENv6rRHTN_E"
+            },
+            "snippet": {
+                "publishedAt": "2014-03-24T03:04:23.000Z",
+                "channelId": "UCRSF5-PsRfD19feuJYycg1g",
+                "title": "V I S I O N *epilepsy warning*",
+                "description": "fixed my render settings.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ENv6rRHTN_E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ENv6rRHTN_E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ENv6rRHTN_E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Drank",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gjiwDX1NsfZMfNPVbBdkfoX1AsU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dmE-4O7-FLc"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-12T12:09:07.000Z",
+                "channelId": "UCclCZMj4oYy7JvdIt37LvPg",
+                "title": "[]meme[] Wonderland /Unikitty/ (Epilepsy warning! Flashing lights!)",
+                "description": "Original by: Lizzardblackrose []Parody of Sleepykinq[] _____ Programs used: Sai Sony Vegas pro 13.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dmE-4O7-FLc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dmE-4O7-FLc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dmE-4O7-FLc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Silver VaV",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-HVM4eiiCtZks0mDnA8lGkWzFtM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AZgz8U9MQdw"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-21T15:00:55.000Z",
+                "channelId": "UC0g_jhQWRmgh_nt9NDEfrYg",
+                "title": "[Splatoon 2] I BROKE SPLATFEST! (Epilepsy Warning)",
+                "description": "Watch the newest corruption: https://www.youtube.com/watch?v=yxdoBwkH1dQ I can't even explain why this happened. Something weird was happening in the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AZgz8U9MQdw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AZgz8U9MQdw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AZgz8U9MQdw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WesleyMK",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/1w_nEC_0JySNQG_kcjffEeYFKQk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "x8fkoBo5vbI"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-21T00:00:01.000Z",
+                "channelId": "UCjLoV6HS_hxU3Qg7NpJOBhg",
+                "title": "LOTS OF SOS! - Reacting to(YTP) Charmx Eats *** Sos (EPILEPSY WARNING!!)",
+                "description": "Lots of sos! SUBSCRIBE TO JOIN THE FAMILY! Original video: https://www.youtube.com/watch?v=8YV0SdzkyWc Subscribe to Lifetime Memes: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x8fkoBo5vbI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x8fkoBo5vbI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x8fkoBo5vbI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Charmx3",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2-R5v0RT_xqnFraaqgzcS3BrcXc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BlEMYA915jw"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-13T06:36:28.000Z",
+                "channelId": "UCJO3U7zxQlNmxGIcrRzWQkg",
+                "title": "Bertstrips/Bert Strips XI [SEIZURE/EPILEPSY WARNING]",
+                "description": "I have to get rid of burdens yet again. Also, someone didn't shut up.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BlEMYA915jw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BlEMYA915jw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BlEMYA915jw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SneakiestChameleon",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-900dabgx48y0dYPhPbuVDGtWjo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bRz0nbg6ZP0"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-23T11:42:21.000Z",
+                "channelId": "UC4QpXqXEI2npn8tDxOAjyDA",
+                "title": "Smile [meme] - countryhumans - [Gore + epilepsy warning]",
+                "description": "\u041d\u0435 \u043f\u0435\u0439\u0442\u0435 \u0434\u0435\u0442\u0438 \u0432\u043e\u0434\u043a\u0443. \u041e\u0440\u0438\u0433\u0438\u043d\u0430\u043b: https://www.youtube.com/watch?v=NanhqTT6vYs.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bRz0nbg6ZP0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bRz0nbg6ZP0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bRz0nbg6ZP0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Roxo Pe\u00fag",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/26ftH4zlGccUsOlWDc0aD9C5kdI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Te5us0ULNHk"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-16T20:14:10.000Z",
+                "channelId": "UC13Kb44M2iwV1Ahm15qHJ1Q",
+                "title": "\u043a\u0430\u0436\u0435\u0442\u0441\u044f (it seems) meme (flipaclip // EPILEPSY WARNING!)",
+                "description": "Original by: BlueLomon Ok so I'm at my dads and I have NO editing softwares what so ever so this animation is completely unedited everything you see here, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Te5us0ULNHk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Te5us0ULNHk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Te5us0ULNHk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dragon Da Silva",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/v5D_ORp-8rUFAOHuuSFZySpozVM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MBeJoDAM610"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-20T01:26:49.000Z",
+                "channelId": "UCfmE4L8aP_hJN4FZJHRpvnA",
+                "title": "(sfm\\blender\\fnaf) Tjoc remix collab with Neon_Redux [EPILEPSY WARNING]",
+                "description": "the song is: tjoc + fnaf rap remix by jt music:https://www.youtube.com/watch?v=tncBh3ETMcw Neon_Redux ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MBeJoDAM610/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MBeJoDAM610/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MBeJoDAM610/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NIGHTMARE SONIC",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dfa8wu8BvzmUGHFeetQiy-kXe4k\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "D_4Qmg2IMAE"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-25T14:03:56.000Z",
+                "channelId": "UCq7jt5BQ6LTULnRbLca0XdQ",
+                "title": "1910's ASMR~ Makeup Role Play {1900-2000 Series}  *Epilepsy Warning*",
+                "description": "Other Social Media: https://www.instagram.com/angelicaslabyrinth/ Insp. For Look: Theda Bara, Lillian Gish, and Gladys Cooper.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D_4Qmg2IMAE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D_4Qmg2IMAE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D_4Qmg2IMAE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Angelica",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ou5MRdPMmdgUXymrK7wx1kb1aeM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5r1DXI41BFY"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-22T20:40:30.000Z",
+                "channelId": "UCeaWEWrbbowIPd9Q7J0y0mA",
+                "title": "SMILE || MEME (epilepsy warning)",
+                "description": "hey im not dead aosjnsfnhkjvknj the timing got all fucked while it was rendering but ive been working on this for 2 days and my back hurts really bad so who ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5r1DXI41BFY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5r1DXI41BFY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5r1DXI41BFY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "yucifer",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/RpOP_WUOYlXP0WSjVb3okXyoBqA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r8wgLbAlbCw"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-19T22:15:36.000Z",
+                "channelId": "UCDKBuVMM5Cz3Lb9GflN17sw",
+                "title": "animal crossing // meme (EPILEPSY WARNING!)",
+                "description": "i dont actually like playing animal crossing but this meme was too cute......... sorry ive been so inactive..... thank u for 30k subs........ original: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r8wgLbAlbCw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r8wgLbAlbCw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r8wgLbAlbCw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TINYSPORT",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}
