@@ -1,6 +1,6 @@
 # Flicker Filter
 
-Flicker Filter is a Google Chrome extension that detects various photosensitive stimuli and classifies videos as either safe or harmful for viewers with epilepsy.
+Flicker Filter is a Google Chrome extension that detects various photosensitive stimuli and classifies videos using machine learning as either safe or harmful for viewers with epilepsy.
 
 
 
@@ -19,15 +19,14 @@ Go to [YouTube.com](youtube.com) and test a video.
 
 ## Built With
 
-* [Example](link) - What
+* [Youtube API](https://developers.google.com/youtube/v3/getting-started)
+* [Python](https://www.python.org/)
+* [scikit-learn](https://scikit-learn.org/stable/)
+* [tsfresh](https://tsfresh.readthedocs.io/en/latest/)
+* [Flask](http://flask.pocoo.org/)
+* [Heroku](https://www.heroku.com/)
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
@@ -36,14 +35,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Taehyoung Jo**  
 * **James Han** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
