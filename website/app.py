@@ -93,6 +93,7 @@ def fetch():
         else:
             download(file_url)
             file_path = "./epilepsy_videos/" + id[1] + ".mp4"
+            print(file_path)
             result = analyze(file_path)
             os.remove(file_path)
             add = db.execute('INSERT INTO "videos" ("id","result") VALUES (:id, :result)', id=id[1], result=result)

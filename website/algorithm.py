@@ -1,29 +1,13 @@
 import numpy as np
 import cv2
 
-import matplotlib.pyplot as plt
-import matplotlib as mpl
-from skimage import color
-
-import urllib, json
-
-from os import listdir
-from os.path import isfile, join
-import pandas as pd
-import youtube_dl
-from multiprocessing import Pool
-import seqlearn
-import seaborn as sns
-from sklearn.model_selection import train_test_split
+from sklearn import linear_model
+from scipy import signal
 from joblib import dump, load
-
-sns.set_style("white")
 
 reg = load('model.joblib') 
 
 def convert(video_path):
-    
-    video_id = video.split(".")[0]
     
     cap = cv2.VideoCapture(video_path)
     
@@ -72,8 +56,8 @@ def analyze(path):
 
     cutoff = 0.22172396530318594
 
-    if predict_score > cutoff:
+    if predicted_score > cutoff:
     	return True
-    else
+    else:
     	return False
 
