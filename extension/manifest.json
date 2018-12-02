@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Epilepsy Extension",
 	"version": "1.0",
-	"description": "Detects portential epilepsy causing frames in a video",
+	"description": "Detects potential epilepsy causing frames in a video",
 	"icons": {
 		"16": "images/get_started16.png",
 		"32": "images/get_started32.png",
@@ -19,12 +19,13 @@
 		{
 			"matches": ["http://www.youtube.com/*", "https://www.youtube.com/*"],
 			"js": ["jquery-3.3.1.min.js", "content_script.js"],
+			"css": ["modalstyle.css"],
 			"all_frames": true,
 			"run_at": "document_end"
 		}
 	],
 
-	"permissions": ["tabs", "activeTab", "declarativeContent", "webNavigation", "http://*/"],
+	"permissions": ["tabs", "activeTab", "declarativeContent", "storage", "webNavigation", "http://*/"],
 
 	"page_action": {
 		"default_popup": "popup.html",
