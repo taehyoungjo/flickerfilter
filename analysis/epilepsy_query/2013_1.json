@@ -1,0 +1,1663 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wdcwwhTXY_DoLNhoVFvk-ofJSN4\"",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 586,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/rEi_YPTfTxv5jOjDlli1Vb0_vtI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6BxviXKNP8g"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-04T21:57:43.000Z",
+                "channelId": "UC19vlj1FCRm1wTQLtJnCf5Q",
+                "title": "Nelly - Here Comes The Boom (Dekku Remix) [Bass Boosted]",
+                "description": "Now playing: Nelly - Here Comes The Boom (Dekku Remix) [Bass Boosted] Request a song: https://goo.gl/forms/LsCcC4C1Qr0AkEbv1 Show more (epilepsy ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6BxviXKNP8g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6BxviXKNP8g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6BxviXKNP8g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ricardo Contreras",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8cbhupXBIfph9XVcg8PvLputZcc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RTQUgaagkog"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-29T17:51:30.000Z",
+                "channelId": "UC19vlj1FCRm1wTQLtJnCf5Q",
+                "title": "Fukkit - 30 [Bass Boosted]",
+                "description": "Now playing: Fukkit - 30 [Bass Boosted] Thanks for watching. Show more (epilepsy warning, credits and copyright)... WARNING: THIS VIDEO HAS BEEN ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RTQUgaagkog/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RTQUgaagkog/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RTQUgaagkog/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ricardo Contreras",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Egkh9xAgZ3iarMKg2x247AlTiYA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8VjeJqiP17k"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-16T13:55:12.000Z",
+                "channelId": "UCnWuOD-ujx24S4sbFAqBARw",
+                "title": "Metrotravis.mp4",
+                "description": "Warning: This Video has been identified by epilepsy action to potentially trigger seizures for people with photosensitive epilepsy. Viewer Discretion is Advised.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8VjeJqiP17k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8VjeJqiP17k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8VjeJqiP17k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OfficialMetro",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QgNwyJotwauDMkOVOLU_XC6Ei3I\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w4GjXqblvPI"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-28T16:12:37.000Z",
+                "channelId": "UCHj5hxvySHFSuCRhS94XMWw",
+                "title": "Kazoo Kid - Mike Diva Trap Remix [EXTENDED] [Bass Boosted]",
+                "description": "Kazoo Kid - Mike Diva Trap Remix [EXTENDED] [Bass Boosted]  \u266b \u26a0\ufe0fWARNING\u26a0   \u2757\ufe0fTHIS HAS BEEN IDENTIFIED BY EPILEPSY ACTION TO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w4GjXqblvPI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w4GjXqblvPI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w4GjXqblvPI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BassLayer",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OrXVB6xufqHur20y0pb8PI8g55o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dd4Ebvr5jgI"
+            },
+            "snippet": {
+                "publishedAt": "2014-09-27T10:06:00.000Z",
+                "channelId": "UCyICP2AkyuUPoWfsdcYQ_9g",
+                "title": "Ran-D & B-Front - The Message (Video)",
+                "description": "WARNING: This video has been identified by Epilepsy Action to potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dd4Ebvr5jgI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dd4Ebvr5jgI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dd4Ebvr5jgI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RC Productions",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dnMRujdylL5-NhC49BfGdpxFYIs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OHTFbcnJVXo"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-22T15:59:34.000Z",
+                "channelId": "UCxbd5nlCc3nyA1dSRo3cQTw",
+                "title": "B\u00d6 & DEFOX - Jinaa",
+                "description": "WARNING: This video has been identified by Epilepsy Action to potentially trigger seizures for people with photosensitive epilepsy. - UYARI: Bu video \u0131\u015f\u0131\u011fa ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OHTFbcnJVXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OHTFbcnJVXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OHTFbcnJVXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "B\u00d6",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QLgyOvYG90ORTUVF0VIjm4MEATU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W_JbAJy2k_s"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-22T11:11:09.000Z",
+                "channelId": "UCHj5hxvySHFSuCRhS94XMWw",
+                "title": "Kazoo Kid - Trap Remix [Bass Boosted]",
+                "description": "Kazoo Kid - Trap Remix [Bass Boosted]  \u266b \u26a0\ufe0fWARNING\u26a0   \u2757\ufe0fTHIS HAS BEEN IDENTIFIED BY EPILEPSY ACTION TO POTENTIALLY TRIGGER SEIZURES ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W_JbAJy2k_s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W_JbAJy2k_s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W_JbAJy2k_s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BassLayer",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9Nv1eJelfsWSGtNCVao-kMBK1BI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FNMVtuHnLpc"
+            },
+            "snippet": {
+                "publishedAt": "2013-04-03T06:13:41.000Z",
+                "channelId": "UCGjgulari7nSAhdQyybudSQ",
+                "title": "Timeflies - I Choose U (Lyrics)",
+                "description": "Timeflies - I Choose U (Lyrics) Timeflies - I Choose U (Lyrics) Timeflies - I Choose U (Lyrics) Timeflies - I Choose U (Lyrics) WARNING: This video has been ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FNMVtuHnLpc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FNMVtuHnLpc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FNMVtuHnLpc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "theblackestday",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/FgyH0soSYmUwJUVRp3yoFqvfaKg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PNzjtMUszY8"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-13T06:59:13.000Z",
+                "channelId": "UCgwu1YChP15PjRsP5omssCA",
+                "title": "PROM 2018",
+                "description": "WARNING: THIS VIDEO HAS BEEN IDENTIFIED BY EPILEPSY ACTION TO POTENTIALLY TRIGGER SEIZURES TO PEOPLE WITH PHOTOSENSITIVE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PNzjtMUszY8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PNzjtMUszY8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PNzjtMUszY8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ben Swanson",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/pvsiCrMvEqyh8zHbPV61Ap6ddPs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2br981x0WMc"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-14T13:09:53.000Z",
+                "channelId": "UCf7B-oi3shHulZPRuV5R4yA",
+                "title": "FE - Me and the devil (Release)",
+                "description": "WARNING: This video has been identified by Epilepsy Action to potentially trigger seizures for people with photosensitive epilepsy.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2br981x0WMc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2br981x0WMc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2br981x0WMc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FE",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fgfJstoNlONngZXX8VF4hGaDZW8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UMc-D3Dvm5s"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-13T20:49:23.000Z",
+                "channelId": "UCHj5hxvySHFSuCRhS94XMWw",
+                "title": "We Are Number One (Vylet Remix) (Bass Boosted) ''Remake''",
+                "description": "Others wanted an remake (other Logo etc.) \u26a0\ufe0fWARNING\u26a0   \u2757\ufe0fTHIS VIDEO HAS BEEN IDENTIFIED BY EPILEPSY ACTION TO POTENTIALLY TRIGGER ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UMc-D3Dvm5s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UMc-D3Dvm5s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UMc-D3Dvm5s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BassLayer",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TFWU9wo_-2yVC4l65-p_aFGGp08\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "so5PK4NPSUE"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-27T10:26:17.000Z",
+                "channelId": "UCHj5hxvySHFSuCRhS94XMWw",
+                "title": "HOPEX - Cash Money [Bass Boosted]",
+                "description": "HOPEX - Cash Money [Bass Boosted]  \u266b \u26a0\ufe0fWARNING\u26a0   \u2757\ufe0fTHIS HAS BEEN IDENTIFIED BY EPILEPSY ACTION TO POTENTIALLY TRIGGER SEIZURES ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/so5PK4NPSUE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/so5PK4NPSUE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/so5PK4NPSUE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BassLayer",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fm11f03op6vNR-LyllK0bDd3Rm0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UEDc_h0rP-M"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-25T22:00:03.000Z",
+                "channelId": "UCHFMkbwsqvAZ-BUtSxFnEdw",
+                "title": "SIKMIL - PURGATORY",
+                "description": "Spooky track for Halloween ! - (WARNING: This video has been identified by Epilepsy Action to potentially trigger seizures for people with photosensitive ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UEDc_h0rP-M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UEDc_h0rP-M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UEDc_h0rP-M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SiKMiL",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-TSgjUcK1MEAXMuzc8PHZqOsybY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7gUD2Jd6L3M"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-18T14:47:10.000Z",
+                "channelId": "UC_mjUcZlV8apD7S9pkagXhQ",
+                "title": "Goodleaf - Invaders Live @ BMDM 2018 Highlights",
+                "description": "WARNING: This video has been identified by Epilepsy Action to potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7gUD2Jd6L3M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7gUD2Jd6L3M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7gUD2Jd6L3M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "S713 Production",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wGmBzr12Rpf5AqxtO4seDcRYw3o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LpjdxxUjc3o"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-31T11:43:09.000Z",
+                "channelId": "UCM6mNnf6_7LA3n8ZnPKuoOQ",
+                "title": "THE ID - deadHYPE",
+                "description": "The ID is our first instalment translating Freudian theory to the 21st Century Warning: This video has been identified by epilepsy action to potentially trigger ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LpjdxxUjc3o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LpjdxxUjc3o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LpjdxxUjc3o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "deadHYPE",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/8QBaagRPTTQtNd02F5P4MTH0_lQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G0tvStWezls"
+            },
+            "snippet": {
+                "publishedAt": "2014-01-05T06:55:30.000Z",
+                "channelId": "UCEgVBuG9i8HQioVxlLhPkLw",
+                "title": "Top Ten Best Kanye West Songs",
+                "description": "WARNING: This video has been identified by Epilepsy Action to potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G0tvStWezls/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G0tvStWezls/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G0tvStWezls/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jerna",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/94vLfg5bhxkAijvTZCJVYTnbsjs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K72dZrHfVY4"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-14T22:58:49.000Z",
+                "channelId": "UC19vlj1FCRm1wTQLtJnCf5Q",
+                "title": "Yung Gravy - Cheryl [Bass Boosted]",
+                "description": "Now playing: Yung Gravy - Cheryl [Bass Boosted] Thanks for watching. Show more (epilepsy warning, credits and copyright)... WARNING: THIS VIDEO HAS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K72dZrHfVY4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K72dZrHfVY4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K72dZrHfVY4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ricardo Contreras",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xHPKHj-x2i4W2sWHmBk0X1zB3Tw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qlGciLJvjpU"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-06T04:58:24.000Z",
+                "channelId": "UCmfUuJXJllyDOSzRrnDXJ3g",
+                "title": "Enrico Octaviano - Leaving the Dark (Official Music Video)",
+                "description": "WARNING This video has been identified by epilepsy action to potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised A ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qlGciLJvjpU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qlGciLJvjpU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qlGciLJvjpU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Enrico Octaviano",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/RzC0hacn0nWOyaxmXXvNZ4ab-EQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HhWovzAksoY"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-15T02:56:51.000Z",
+                "channelId": "UCKrhUQGt3hS1fI2ghsddqXA",
+                "title": "Olympians in Paris",
+                "description": "SciOly going to state. Warning: This video is based off the original music video which has been identified by epilepsy action to potentially trigger seizures for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HhWovzAksoY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HhWovzAksoY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HhWovzAksoY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yu-Lin Yang",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MUBEDDaR1od1jvoQSxO24p-v-7I\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nM3Jg8IWHVQ"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-12T19:06:59.000Z",
+                "channelId": "UCHj5hxvySHFSuCRhS94XMWw",
+                "title": "Niklas Ahlstr\u00f6m - Hotshot 3 [Bass Boosted]",
+                "description": "Who also loves this awesome song? \u2764 \u26a0\ufe0fWARNING\u26a0   \u2757\ufe0fTHIS HAS BEEN IDENTIFIED BY EPILEPSY ACTION TO POTENTIALLY TRIGGER SEIZURES FOR ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nM3Jg8IWHVQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nM3Jg8IWHVQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nM3Jg8IWHVQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BassLayer",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ANZ4K8CJixkmtLNK2g9vGXamERI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SJNzkQHOGbU"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-12T17:00:02.000Z",
+                "channelId": "UCHj5hxvySHFSuCRhS94XMWw",
+                "title": "Yeah Yeah Yeahs - Heads Will Roll (JVH-C Remix) [Bass Boosted]",
+                "description": "Yeah Yeah Yeahs - Heads Will Roll (JVH-C Remix) [Bass Boosted]  \u266b \u26a0\ufe0fWARNING\u26a0   \u2757\ufe0fTHIS HAS BEEN IDENTIFIED BY EPILEPSY ACTION TO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SJNzkQHOGbU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SJNzkQHOGbU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SJNzkQHOGbU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BassLayer",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/O1KvWm-wXY7whz7DtjbluJ4KUoI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j-oEIYaFUDY"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-16T21:28:07.000Z",
+                "channelId": "UC19vlj1FCRm1wTQLtJnCf5Q",
+                "title": "Post Malone - I Fall Apart (Slowed) [Bass Boosted]",
+                "description": "Now playing: Post Malone - I Fall Apart (Slowed) [Bass Boosted] Slowed by masterderrian: https://www.youtube.com/watch?v=mzrlbWrQXr4 Show more ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j-oEIYaFUDY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j-oEIYaFUDY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j-oEIYaFUDY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ricardo Contreras",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UO_zrQDlUbjnMaGru8mrLq5URm4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rHZKOUpvYr0"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-13T16:57:21.000Z",
+                "channelId": "UC5JQlKSXQUDmixQY5upiADQ",
+                "title": "Local Natives - The Only Heirs",
+                "description": "WARNING: This video has been identified by Epilepsy Action to potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rHZKOUpvYr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rHZKOUpvYr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rHZKOUpvYr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Local Natives",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Oov6Ju8ZsqyvOqtMnGnQKaz4tZE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "c_80LNune50"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-04T19:16:36.000Z",
+                "channelId": "UCuRPNuFCVwWGs-BRiz9I19A",
+                "title": "Brinca - IVARR ft. Ma-Less ( Official Music Video )",
+                "description": "WARNING This video has been identified by Epilepsy Action to potentially trigger seizures for people with photosensitive epilepsy VIEWER DISCRETION IS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c_80LNune50/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c_80LNune50/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c_80LNune50/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "La Clinica Recs",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5ax3uZZgbtjUk5Bhp2PNs6A2W4g\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WIkS3e9JgsI"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-16T02:10:21.000Z",
+                "channelId": "UC19vlj1FCRm1wTQLtJnCf5Q",
+                "title": "Snail's House - I Secretly Love U [Bass Boosted]",
+                "description": "Now playing: Snail's House - I Secretly Love U [Bass Boosted] Thanks for watching Show more (epilepsy warning, credits and copyright)... WARNING: THIS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WIkS3e9JgsI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WIkS3e9JgsI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WIkS3e9JgsI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ricardo Contreras",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5Ml3MCLpqrwtgycIRp-b32BQI-E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9EXK29_U5mQ"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-20T15:48:17.000Z",
+                "channelId": "UCdY1B4Vvjcfqpqq630SjI2w",
+                "title": "The Wedge | April 19th | 2016",
+                "description": "Sneaky swell hits the tide just right. WARNING : This video has been identified by epilepsy action to potentially trigger seizures for people with photosensitive ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9EXK29_U5mQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9EXK29_U5mQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9EXK29_U5mQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Man of Water",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/208jJEPZlQBYitVtA-jUiSLgPJE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rEipGe8UpxI"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-23T12:32:15.000Z",
+                "channelId": "UC9keA1GmSLKzGy-H-D2dXRA",
+                "title": "The Scenario Official Promo Video #Mr Cinemas \u00a92018",
+                "description": "Find out what's inside in this promo video There is a suprise waiting for you inside to watch Warning:- This Video has been identified by epilepsy action to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rEipGe8UpxI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rEipGe8UpxI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rEipGe8UpxI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mr. Cinemas",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0vaXaeNkNlAeAOCyaURf0dgASZA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BRJQ2bS3BJ0"
+            },
+            "snippet": {
+                "publishedAt": "2013-02-16T23:37:41.000Z",
+                "channelId": "UC0h_JACvwxoxr8sEfQlK85A",
+                "title": "Kendrick Lamar - Cartoons and Cereal lyrics [Explicit]",
+                "description": "WARNING: THIS VIDEO HAS BEEN IDENTIFIED BY EPILEPSY ACTION TO POTENTIALLY TRIGGER SEIZURES FOR PEOPLE WITH PHOTOSENSITIVE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BRJQ2bS3BJ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BRJQ2bS3BJ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BRJQ2bS3BJ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "bbgun zesty",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/eZAox8aNke1jzvbDR6ocS6RKYj0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kj5PRcIxMK8"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-23T23:18:59.000Z",
+                "channelId": "UC19vlj1FCRm1wTQLtJnCf5Q",
+                "title": "XXXTENTACION - R.I.P Roach ft. $ki Mask [Bass Boosted]",
+                "description": "Now playing: XXXTENTACION - R.I.P Roach ft. $ki Mask [Bass Boosted] Thanks for watching Show more (epilepsy warning, credits and copyright)... WARNING: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kj5PRcIxMK8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kj5PRcIxMK8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kj5PRcIxMK8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ricardo Contreras",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wPnu_WLJzCaGoh5PRyCUx9iaF2w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xZnWuggYLPQ"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-26T11:20:39.000Z",
+                "channelId": "UCQgimJIIc32BC2YXYgaNIrg",
+                "title": "JMG VII laida - Paliekama sistema (dvyliktok\u0173 palikimas)",
+                "description": "Panev\u0117\u017eio Juozo Miltinio gimnazijos VII abiturient\u0173 laidos palikimas vienuoliktokams. WARNING This video has been identified by epilepsy action to potentially ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xZnWuggYLPQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xZnWuggYLPQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xZnWuggYLPQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Miltinio Gimnazija",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gZxFCckzqQctKvt6krXL42ocbU8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WRudcgddcJQ"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-16T14:26:43.000Z",
+                "channelId": "UCLON1vrk28WFAxolQZBieBg",
+                "title": "Russ - Too Many [Bass Boosted]",
+                "description": "Link to Official MusicVideo - https://www.youtube.com/watch?v=VbRZMZisILw WARNING ! ! ! This Video Has been Identified By Epilepsy action to Potentially...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WRudcgddcJQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WRudcgddcJQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WRudcgddcJQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Melih The BassBooster",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3WR_TsT71rbus7kwkwuB3rnL5JA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "phsIjMDPR3s"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-24T01:19:56.000Z",
+                "channelId": "UC19vlj1FCRm1wTQLtJnCf5Q",
+                "title": "The Weeknd - Next (PM Remix) [Bass Boosted]",
+                "description": "Now playing: The Weeknd - Next (PM Remix) [Bass Boosted] Thanks for watching. Show more (epilepsy warning, credits and copyright)... WARNING: THIS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/phsIjMDPR3s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/phsIjMDPR3s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/phsIjMDPR3s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ricardo Contreras",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/RXvUVHMNNRblgntujNU_SmzROSQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XUt16eL8BZM"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-11T10:55:25.000Z",
+                "channelId": "UCHj5hxvySHFSuCRhS94XMWw",
+                "title": "VICES - extasis [Bass Boosted]",
+                "description": "VICES - extasis [Bass Boosted]  \u266b \u26a0\ufe0fWARNING\u26a0   \u2757\ufe0fTHIS HAS BEEN IDENTIFIED BY EPILEPSY ACTION TO POTENTIALLY TRIGGER SEIZURES FOR ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XUt16eL8BZM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XUt16eL8BZM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XUt16eL8BZM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BassLayer",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mkWSgSfq5eFMYdiMjpqidSTWsaE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DHtB02Ugwnw"
+            },
+            "snippet": {
+                "publishedAt": "2013-04-02T07:38:00.000Z",
+                "channelId": "UCIHOI-lRWmemGg1lx6NKqJg",
+                "title": "A Day In The Life Of  A Pizza Delivery Driver",
+                "description": "WARNING - This video has been identified by epilepsy action to potentially trigger seizures for people with Photosensitive Epilepsy - Viewer discretion is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DHtB02Ugwnw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DHtB02Ugwnw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DHtB02Ugwnw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "wesintx",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jEbnPvMQuZ5ObHn66Nv3jWwMcyQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1qY1bPqmy2A"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-08T02:41:30.000Z",
+                "channelId": "UC19vlj1FCRm1wTQLtJnCf5Q",
+                "title": "Sir Mix-a-Lot - Baby Got Back (DJ Russticals Rebass) (44-48hz) [Bass Boosted]",
+                "description": "Now playing: Sir Mix-a-Lot - Baby Got Back (DJ Russticals Rebass) (44-48hz) Thanks for watching. Show more (epilepsy warning, credits and copyright).",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1qY1bPqmy2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1qY1bPqmy2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1qY1bPqmy2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ricardo Contreras",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VzfLQdFTqYC5DGLiK1Zp-_IOMKU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nsrXxdGa5pM"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-15T04:55:40.000Z",
+                "channelId": "UCIjNimEiYRuCk4gW2sZoj0g",
+                "title": "White Katana - Valkyrie",
+                "description": "WARNING THIS VIDEO HAS BEEN IDENTIFIED BY EPILEPSY ACTION TO POTENTIALLY TRIGGER SEIZURES FOR PEOPLE WITH PHOTOSENSITIVY ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nsrXxdGa5pM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nsrXxdGa5pM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nsrXxdGa5pM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vibe Nation",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6x6Rd0sPk8Ji3yDL8Q72tDXLkIw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NpQZp9dxYPw"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-03T16:59:35.000Z",
+                "channelId": "UCfcnranZwkoVKSA-q4RUQCQ",
+                "title": "Playing games",
+                "description": "Warning: This video has been identified by epilepsy action to potentially trigger seizures for people with photosensitive epilepsy viewer discretion = advice.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NpQZp9dxYPw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NpQZp9dxYPw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NpQZp9dxYPw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Qoffie Rast",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MI3pkbintHehKgu7Zf7cG2Vb4dg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "t-T1RjDpfOI"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-10T22:14:36.000Z",
+                "channelId": "UCrtaWFYhyzeJZMkCIpynJbg",
+                "title": "The Journey // Teaser",
+                "description": "WARNING /// This video has been identified by Epilepsy Action to potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t-T1RjDpfOI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t-T1RjDpfOI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t-T1RjDpfOI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "killajah",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jSOYOapbGrHHWgcWslDUkp5lgcc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ijnt44G5eko"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-08T15:47:59.000Z",
+                "channelId": "UCvo52PkFnUvyGYw7JjBVYUA",
+                "title": "THE TRACK",
+                "description": "WARNING - This video has benn identified by epilepsy action to potentially trigger seizures for people with photosensitive epilepsy. #numb ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ijnt44G5eko/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ijnt44G5eko/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ijnt44G5eko/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ALICE CAPPAI",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/3A4Ddy-FEQHHi1jF917u64D486E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TPTAY965-hw"
+            },
+            "snippet": {
+                "publishedAt": "2015-02-13T15:59:09.000Z",
+                "channelId": "UCd9tRaGSCbJyPe4aqc1HJvQ",
+                "title": "Hallucination Test-Hal\u00fcs\u00fcnasyon Testi",
+                "description": "NOTE*** This Video has been identified by epilepsy action to potentially trigger seizures for people with Photosensitive epilepsy.Viever discretion is advised.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TPTAY965-hw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TPTAY965-hw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TPTAY965-hw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alpertunga Yuce",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/0RVoy1hYpY6XeIDOaH78L47CcuQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7nVSsibYp1Y"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-09T00:21:06.000Z",
+                "channelId": "UC4W7YV1a4SuWOQTp-WtoPvQ",
+                "title": "DEPARTMENT - Productive (OFFICIAL MUSIC VIDEO)",
+                "description": "Official music video for \"Productive\" new project of Wojciech 'Junkie\" Moryto & Pawel \"Naphoos\" Nafus DEPARTMENT. Music video by Marcin Pawe\u0142czak ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7nVSsibYp1Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7nVSsibYp1Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7nVSsibYp1Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Department",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/OhZLJkCVDgVTVPfGzbdQQsjhvmw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qyZeQGJfs_4"
+            },
+            "snippet": {
+                "publishedAt": "2014-02-27T13:21:09.000Z",
+                "channelId": "UCLA63t5GBPcrc9k1MpFIy5A",
+                "title": "HALF FACE ft STAY JAY - 6 MELUDO - BLUEBIRDMUSIC OFFICIAL VIDEO",
+                "description": "WARNING: This video has been identified by Epilepsy Action to potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qyZeQGJfs_4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qyZeQGJfs_4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qyZeQGJfs_4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "blac judge",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4SHXM-wLY5Df01Z7JgEUY9l0PDg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rkb3kNOQ934"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-19T13:01:10.000Z",
+                "channelId": "UC4W7YV1a4SuWOQTp-WtoPvQ",
+                "title": "DEPARTMENT - Not Without Onions (OFFICIAL MUSIC VIDEO)",
+                "description": "Official music video for \"Not Without Onions\" new project of Wojciech 'Junkie\" Moryto & Pawel \"Naphoos\" Nafus DEPARTMENT. Music video by Marcin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rkb3kNOQ934/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rkb3kNOQ934/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rkb3kNOQ934/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Department",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/O0Vw-p9WGlpw6NtHfQtUbCFoAjM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VMbzG9LyMYc"
+            },
+            "snippet": {
+                "publishedAt": "2017-12-31T22:25:20.000Z",
+                "channelId": "UC19vlj1FCRm1wTQLtJnCf5Q",
+                "title": "Tropkillaz - MAMBO [Bass Boosted]",
+                "description": "Now playing: Tropkillaz - MAMBO [Bass Boosted] Happy new year everybody!! Show more (epilepsy warning, credits and copyright)... WARNING: THIS VIDEO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VMbzG9LyMYc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VMbzG9LyMYc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VMbzG9LyMYc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ricardo Contreras",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gbaHoxrcHENHselIyVgcgKjgjDU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BUZz3MxRsaU"
+            },
+            "snippet": {
+                "publishedAt": "2013-04-03T02:32:31.000Z",
+                "channelId": "UCWVqpFWAVcuYpFm6ern7Wzg",
+                "title": "Harlem Shake Internet Edition",
+                "description": "This video has been identified by epilepsy action to potentially trigger seizures for people with photosensitive epilepsy. Viewer Discretion is advised.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BUZz3MxRsaU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BUZz3MxRsaU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BUZz3MxRsaU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alex D",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fDo-j6Ov9y8Atd8JYGPgExCSxBg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "frgTla66nTc"
+            },
+            "snippet": {
+                "publishedAt": "2013-12-21T15:55:48.000Z",
+                "channelId": "UCMZpzPMOQYw2KiPaL8r1XwQ",
+                "title": "FULL SCREEN Vomit Backdrop Visual - Demo Reel_ 2013 Highlights by  Jos\u00e9 Reyes Cort\u00e9s",
+                "description": "FULL SCREEN Vomit Backdrop Visual - Demo Reel_ 2013 Highlights by Jos\u00e9 Reyes Cort\u00e9s WARNING. This video has been identified by epilepsy action , to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/frgTla66nTc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/frgTla66nTc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/frgTla66nTc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jos\u00e9 Reyes Cort\u00e9s",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ii0ZaUYlCt5B2gVa8ZHiw8y0-Cs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qg4sOKjGGiQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-21T06:50:35.000Z",
+                "channelId": "UCpEGbVO_l7bzrQtgKSLLJNA",
+                "title": "WE DID ONE-HUNDRED TWENTY-FIVE OF YOU GUYS  S2 EP07 - NICOLAAS MIGLIORE",
+                "description": "MEDICAL DISCLAIMER*** **MEDICAL DISCLAIMER** This video has been identified by epilepsy action to potentially trigger seizures for people with ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qg4sOKjGGiQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qg4sOKjGGiQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qg4sOKjGGiQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nicolaas Migliore",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-hbzYmZtXbOz7EyI1mUC30UVfHw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VdfpY3Aqqcw"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-26T18:06:01.000Z",
+                "channelId": "UCtln4go8mCRD8v4Qt3xMOoA",
+                "title": "#Highlights",
+                "description": "WARNING! This Video has been identified by EPILEPSY action to potentially trigger seizures for people with PHOTOSENSITIVE EPILEPSY.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VdfpY3Aqqcw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VdfpY3Aqqcw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VdfpY3Aqqcw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MrHex Oac",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Fr9EBKtBuOPLWp9bwexQQ_YbPbI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gvzFFFCcmjU"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-16T05:06:52.000Z",
+                "channelId": "UCIjNimEiYRuCk4gW2sZoj0g",
+                "title": "vowl. - advance",
+                "description": "WARNING THIS VIDEO HAS BEEN IDENTIFIED BY EPILEPSY ACTION TO POTENTIALLY TRIGGER SEIZURES FOR PEOPLE WITH PHOTOSENSITIVY ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gvzFFFCcmjU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gvzFFFCcmjU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gvzFFFCcmjU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vibe Nation",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MQjmypzjSOafD4TQBSREglPNcyA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OeTTzTnTKJw"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-16T03:54:42.000Z",
+                "channelId": "UCL-uku27El6iEjrnMrDFlMw",
+                "title": "SOUNDING - KEEP IT ON THE ONE (Official Music Video)",
+                "description": "WARNING: This video has been identified by Epilepsy Action to potentially trigger seizures for people with photosensitive epilepsy. VIEWER DISCRETION IS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OeTTzTnTKJw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OeTTzTnTKJw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OeTTzTnTKJw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SOUNDING",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}
