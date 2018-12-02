@@ -1,6 +1,6 @@
-# Flicker Fixer
+# Flicker Filter
 
-Flicker Fixer is a Google Chrome extension that detects various photosensitive stimuli and classifies videos as either safe or harmful for viewers with epilepsy.
+Flicker Filter is a Google Chrome extension that detects various photosensitive stimuli and classifies videos as either safe or harmful for viewers with epilepsy.
 
 
 
