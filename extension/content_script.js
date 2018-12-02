@@ -1,5 +1,5 @@
 let urlSent = false;
-
+let vid;
 // Creating the modal popup
 let modal_div = document.createElement("div");
 modal_div.className = "modal";
@@ -20,6 +20,12 @@ close.onclick = function() {
 	chrome.runtime.onMessage.removeListener();
 	modal_div.style.display = "none";
 	chrome.runtime.onMessage.removeListener(messageListener);
+	vid.removeEventListener('playing', playingListener);
+}
+
+function playingListener(event) {
+	vid.pause();
+	chrome.runtime.sendMessage({ greeting: "get_url" });
 }
 
 function messageListener(request, sender, sendResponse) {
@@ -27,12 +33,9 @@ function messageListener(request, sender, sendResponse) {
 		if(urlSent == false) {
 			modal_div.style.display = "block";
 			modal_text.innerHTML = "Analyzing video..."
-			let vid = $('video').get(0);
+			vid = $('video').get(0);
 			if (vid) {
-				vid.addEventListener('playing', function(event) {
-					vid.pause();
-					chrome.runtime.sendMessage({ greeting: "get_url" });
-				});
+				vid.addEventListener('playing', playingListener);
 				urlSent = true;
 			}
 		}
@@ -56,12 +59,9 @@ chrome.runtime.onMessage.addListener(messageListener);
 if (urlSent == false) {
 	modal_div.style.display = "block";
 	modal_text.innerHTML = "Analyzing video..."
-	let vid = $('video').get(0);
+	vid = $('video').get(0);
 	if (vid) {
-		vid.addEventListener('playing', function(event) {
-			vid.pause();
-			chrome.runtime.sendMessage({ greeting: "get_url" });
-		});
+		vid.addEventListener('playing', playingListener);
 		urlSent = true;
 	}
 }
