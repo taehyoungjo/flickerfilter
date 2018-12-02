@@ -50,7 +50,7 @@ def fetch():
     if request.method == "POST":
         file_url = request.form.get("URL")
         download(file_url)
-        # file_path = download(file)
+        # file_path = download(file_url)
         # bool = analyze(file_path)
         # if bool == True
         #   return render_template("")
@@ -61,6 +61,6 @@ def fetch():
     elif request.method == "GET":
         file_url = request.args.get("url")
         download(file_url)
-        # file_path = download(file)
+        # file_path = download(file_url)
         # bool = jsonify(analyze(file_path))
         return jsonify(download(file_url))
