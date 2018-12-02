@@ -14,6 +14,7 @@ def convert(video_path):
     frameCount = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     frameWidth = 64
     frameHeight = 48
+    print(frameCount,frameHeight,frameWidth)
 
     buf = np.empty((frameCount, frameHeight, frameWidth, 3), np.dtype('uint8'))
 
@@ -37,18 +38,28 @@ def convert(video_path):
     diffs = diffs.reshape(-1,frameWidth*frameHeight,3)
 
     diffs = np.median(diffs,axis=1)
+
+    print(diffs.shape)
     
     h_peaks = signal.find_peaks(diffs[:,0],width=8)[0]
     s_peaks = signal.find_peaks(diffs[:,1],width=8)[0]
     v_peaks = signal.find_peaks(diffs[:,2],width=8)[0]
     
+    print("found peaks")
+
     n_peaks = np.array([len(h_peaks),len(s_peaks),len(v_peaks)])
     
     median = np.median(diffs,axis=0)
     average = np.average(diffs,axis=0)
+
+    print("computed averages")
     
     feature_set = np.concatenate((n_peaks,average,median),axis=0).reshape(1,-1)
     
+    print("made feature set")
+
+    print(reg.predict(feature_set)[0])
+
     return reg.predict(feature_set)[0]
 
 def analyze(path):

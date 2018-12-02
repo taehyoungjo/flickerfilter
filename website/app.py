@@ -96,5 +96,9 @@ def fetch():
             print(file_path)
             result = analyze(file_path)
             os.remove(file_path)
-            add = db.execute('INSERT INTO "videos" ("id","result") VALUES (:id, :result)', id=id[1], result=result)
-            return jsonify(analyze(result))
+            if result == False:
+                result_bool = 0
+            else:
+                result_bool = 1
+            add = db.execute('INSERT INTO "videos" ("id","result") VALUES (:id, :result)', id=id[1], result=result_bool)
+            return jsonify(result)
