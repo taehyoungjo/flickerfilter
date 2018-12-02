@@ -8,7 +8,7 @@
 	width: 200px;
 	height: auto;
 	overflow: auto;
-	background-color: #EBFFFA;
+	background-color: #ebddf6;
 	color: #000000;
 	text-align: left;
 	font-family: "Montserrat", sans-serif;
@@ -31,9 +31,9 @@
 	transition-duration: 0.4s;
 	border-radius: 30px;
 	width: 80%;
-	background-color: #0DCEDA;
+	background-color: #DDA0DD;
 	color: white;
-	border: solid #0DCEDA;
+	border: solid #DDA0DD;
 	outline: none;
 	margin: 10%;
 	font-weight: bold;

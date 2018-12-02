@@ -1,4 +1,4 @@
-let analyzer_url = "https://flickerfilter.herokuapp.com/fetch";
+let analyzer_url = "http://localhost:5000/fetch";
 
 let rule1 = {
 	conditions: [
